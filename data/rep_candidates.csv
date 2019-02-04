@@ -1,4 +1,4 @@
-Candidate,State,District,Office Type,Race Type,Race Primary Election Date,Primary Status,Primary Runoff Status,General Status,Primary %,Won Primary,Rep Party Support?,Trump Endorsed?,Bannon Endorsed?,Great America Endorsed?,NRA Endorsed?,Right to Life Endorsed?,Susan B. Anthony Endorsed?,Club for Growth Endorsed?,Koch Support?,House Freedom Support?,Tea Party Endorsed?,Main Street Endorsed?,Chamber Endorsed?,No Labels Support?
+candidate,state,district,office_type,race_type,race_primary_election_date,primary_status,primary_runoff_status,general_status,primary_pctg,won_primary,rep_party_support,trump_endorsed,bannon_endorsed,great_america_endorsed,nra_endorsed,right_to_life_endorsed,susan_b_anthony_endorsed,club_for_growth_endorsed,koch_support,house_freedom_support,tea_party_endorsed,main_street_endorsed,chamber_endorsed,no_labels_support
 Mike Dunleavy,AK,Governor of Alaska,Governor,Regular,8/21/18,Advanced,None,On the Ballot,61.8,Yes,,,,,,,,,,,,,,
 Michael Sheldon,AK,Governor of Alaska,Governor,Regular,8/21/18,Lost,None,None,2.2,No,,,,,,,,,,,,,,
 Mead Treadwell,AK,Governor of Alaska,Governor,Regular,8/21/18,Lost,None,None,31.9,No,,,,,,,,,,,,,,
