@@ -1,4 +1,4 @@
-candidate,state,district,office_type,race_type,race_primary,primary_status,primary_runoff_status,general_status,partisan_lean,primary_pctg,won_primary,race,veteran,lgbtq,elected_official,self_funder,stem,obama_alum,party_support,emily_endorsed,guns_sense_candidate,biden_endorsed,warren_endorsed,sanders_endorsed,our_revolution_endorsed,justice_dems_endorsed,pccc_endorsed,indivisible_endorsed,wfp_endorsed,votevets_endorsed,no_labels_support
+candidate,state,district,office_type,race_type,race_primary,primary_status,primary_runoff_status,general_status,partisan_lean,primary_pctg,won_primary,race,veteran,lgbtq,elected_official,self_funder,stem,obama_alum,dem_party_support,emily_endorsed,guns_sense_candidate,biden_endorsed,warren_endorsed,sanders_endorsed,our_revolution_endorsed,justice_dems_endorsed,pccc_endorsed,indivisible_endorsed,wfp_endorsed,votevets_endorsed,no_labels_support
 Anthony White,AL,Governor of Alabama,Governor,Regular,5-Jun-18,Lost,None,None,-28.879999,3.4200001,No,Nonwhite,Yes,No,No,No,No,No,,,No,,,,,,,,,,
 Christopher Countryman,AL,Governor of Alabama,Governor,Regular,5-Jun-18,Lost,None,None,-28.879999,1.74,No,White,No,Yes,No,No,No,No,,,No,,,,,,,,,,
 "Doug ""New Blue"" Smith",AL,Governor of Alabama,Governor,Regular,5-Jun-18,Lost,None,None,-28.879999,3.27,No,White,Yes,No,No,No,No,No,,,No,,,,,,,,,,
@@ -706,7 +706,7 @@ Angela Villescaz,TX,U.S. House Texas District 23,Representative,Regular,6-Mar-18
 Gina Ortiz Jones,TX,U.S. House Texas District 23,Representative,Regular,6-Mar-18,Advanced,Advanced,On the Ballot,-0.63,41.560001,Yes,Nonwhite,Yes,Yes,No,No,No,No,Yes,Yes,Yes,,,,No,No,,,,Yes,
 Jay Hulings,TX,U.S. House Texas District 23,Representative,Regular,6-Mar-18,Lost,None,None,-0.63,14.98,No,Nonwhite,No,No,No,No,No,Yes,,No,,,,,No,No,,,,No,
 Judy Canales,TX,U.S. House Texas District 23,Representative,Regular,6-Mar-18,Lost,None,None,-0.63,16.99,No,Nonwhite,No,No,No,No,No,Yes,,No,,,,,No,No,,,,No,
-Rick Trevií±o,TX,U.S. House Texas District 23,Representative,Regular,6-Mar-18,Advanced,Lost,None,-0.63,17.379999,No,Nonwhite,No,No,No,No,No,No,No,No,,,,,Yes,Yes,,,,No,
+Rick Trevi’±o,TX,U.S. House Texas District 23,Representative,Regular,6-Mar-18,Advanced,Lost,None,-0.63,17.379999,No,Nonwhite,No,No,No,No,No,No,No,No,,,,,Yes,Yes,,,,No,
 Jan McDowell,TX,U.S. House Texas District 24,Representative,Regular,6-Mar-18,Advanced,None,On the Ballot,-12.78,52.470001,Yes,White,No,No,No,No,No,No,,,Yes,,,,,,,,,,
 John Biggan,TX,U.S. House Texas District 24,Representative,Regular,6-Mar-18,Lost,None,None,-12.78,21.52,No,White,No,No,No,No,Yes,No,,,,,,,,,,,,,
 Josh Imhoff,TX,U.S. House Texas District 24,Representative,Regular,6-Mar-18,Lost,None,None,-12.78,6.02,No,White,No,No,No,No,No,No,,,,,,,,,,,,,

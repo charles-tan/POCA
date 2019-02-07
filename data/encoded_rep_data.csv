@@ -1,0 +1,774 @@
+candidate,state,district,office_type,race_type,race_primary_election_date,primary_status,primary_runoff_status,general_status,primary_pctg,won_primary,rep_party_support,trump_endorsed,bannon_endorsed,great_america_endorsed,nra_endorsed,right_to_life_endorsed,susan_b_anthony_endorsed,club_for_growth_endorsed,koch_support,house_freedom_support,tea_party_endorsed,main_street_endorsed,chamber_endorsed,no_labels_support
+Mike Dunleavy,0,0,0,1,12,Advanced,None,On the Ballot,61.8,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Michael Sheldon,0,0,0,1,12,Lost,None,None,2.2,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Mead Treadwell,0,0,0,1,12,Lost,None,None,31.9,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Darin Colbry,0,0,0,1,12,Lost,None,None,0.6,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Thomas Gordon,0,0,0,1,12,Lost,None,None,1.3,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Merica Hlatcu,0,0,0,1,12,Lost,None,None,1.5,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Gerald Heikes,0,0,0,1,12,Lost,None,None,0.7,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Steve Smith,1,22,1,1,13,Lost,None,None,37.8,0,1,2,2,2,2,2,2,1,2,2,1,2,2,2
+Wendy Rogers,1,22,1,1,13,Advanced,None,On the Ballot,43.4,1,1,2,2,2,2,2,2,0,2,2,0,2,2,2
+Tiffany Shedd,1,22,1,1,13,Lost,None,None,18.8,0,1,2,2,2,2,2,2,0,2,2,0,2,2,2
+Lea Marquez Peterson,1,23,1,1,13,Advanced,None,On the Ballot,33.6,1,1,2,2,2,2,2,2,2,1,2,2,2,2,2
+Casey Welch,1,23,1,1,13,Lost,None,None,21.4,0,0,2,2,2,2,2,2,2,0,2,2,2,2,2
+Danny Morales,1,23,1,1,13,Lost,None,None,15.9,0,0,2,2,2,2,2,2,2,0,2,2,2,2,2
+Brandon Martin,1,23,1,1,13,Lost,None,None,29.1,0,0,2,2,2,2,2,2,2,0,2,2,2,2,2
+Edna San Miguel,1,24,1,1,13,Lost,None,None,21.4,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Sergio Arellano,1,24,1,1,13,Lost,None,None,27.3,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Nicolas Pierson,1,24,1,1,13,Advanced,None,On the Ballot,51.4,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Debbie Lesko,1,25,1,2,0,Advanced,None,On the Ballot,35.77,1,2,2,2,2,2,2,1,2,1,1,2,2,2,2
+Bob Stump,1,25,1,2,0,Lost,None,None,5.37,0,2,2,2,2,2,2,0,2,0,0,2,2,2,2
+Clair Van Steenwyk,1,25,1,2,0,Lost,None,None,2.37,0,2,2,2,2,2,2,0,2,0,0,2,2,2,2
+Phil Lovas,1,25,1,2,0,Lost,None,None,23.88,0,2,2,2,2,2,2,0,2,0,0,2,2,2,2
+Richard Mack,1,25,1,2,0,Lost,None,None,1.42,0,2,2,2,2,2,2,0,2,0,0,2,2,2,2
+Stephen Dolgos,1,25,1,2,0,Lost,None,None,0.48,0,2,2,2,2,2,2,0,2,0,0,2,2,2,2
+Steve Montenegro,1,25,1,2,0,Lost,None,None,23.82,0,2,2,2,2,2,2,0,2,0,0,2,2,2,2
+Christopher Sylvester,1,25,1,2,0,Lost,None,None,1.92,0,2,2,2,2,2,2,0,2,0,0,2,2,2,2
+David Lien,1,25,1,2,0,Lost,None,None,1.77,0,2,2,2,2,2,2,0,2,0,0,2,2,2,2
+Chad Allen,1,25,1,2,0,Lost,None,None,1.05,0,2,2,2,2,2,2,0,2,0,0,2,2,2,2
+Brenden Dilley,1,25,1,2,0,Lost,None,None,1.03,0,2,2,2,2,2,2,0,2,0,0,2,2,2,2
+Mark Yates,1,25,1,2,0,Lost,None,None,1.12,0,2,2,2,2,2,2,0,2,0,0,2,2,2,2
+Dave Giles,1,26,1,1,13,Lost,None,None,33.3,0,0,2,2,2,2,2,2,2,2,2,2,2,2,2
+Steve Ferrara,1,26,1,1,13,Advanced,None,On the Ballot,58.9,1,1,2,2,2,2,2,2,2,2,2,2,2,2,2
+Irina Baroness Von Behr,1,26,1,1,13,Lost,None,None,7.8,0,0,2,2,2,2,2,2,2,2,2,2,2,2,2
+Joe Arpaio,1,219,2,1,13,Lost,None,None,18.9,0,2,2,0,0,2,2,2,2,0,2,2,2,2,2
+Kelli Ward,1,219,2,1,13,Lost,None,None,28.1,0,2,2,1,1,2,2,2,2,0,2,2,2,2,2
+Martha McSally,1,219,2,1,13,Advanced,None,On the Ballot,53.0,1,2,2,0,0,2,2,2,2,1,2,2,2,2,2
+John Cox,2,1,0,1,8,Advanced,None,On the Ballot,70.15,1,2,1,2,2,2,1,2,2,2,2,2,2,2,2
+Peter Yuan Liu,2,1,0,1,8,Lost,None,None,1.08,0,2,0,2,2,2,0,2,2,2,2,2,2,2,2
+Robert Newman,2,1,0,1,8,Lost,None,None,1.77,0,2,0,2,2,2,0,2,2,2,2,2,2,2,2
+Travis Allen,2,1,0,1,8,Lost,None,None,26.15,0,2,0,2,2,2,0,2,2,2,2,2,2,2,2
+Yvonne Girard,2,1,0,1,8,Lost,None,None,0.85,0,2,0,2,2,2,0,2,2,2,2,2,2,2,2
+John Fitzgerald,2,27,1,1,8,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Lisa Remmer,2,28,1,1,8,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Cristina Osmeí±a,2,29,1,1,8,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Rudy Peters,2,30,1,1,8,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Elizabeth Heng,2,31,1,1,8,Advanced,None,On the Ballot,100.0,1,1,2,2,2,2,2,2,2,2,2,2,2,2,2
+Ron Cohen,2,32,1,1,8,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Christine Russell,2,33,1,1,8,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Dale Mensing,2,34,1,1,8,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Justin Fareed,2,35,1,1,8,Advanced,None,On the Ballot,78.37,1,1,2,2,2,1,2,2,2,2,2,2,2,2,2
+Michael Erin Woody,2,35,1,1,8,Lost,None,None,21.63,0,0,2,2,2,0,2,2,2,2,2,2,2,2,2
+Antonio Sabato Jr.,2,36,1,1,8,Advanced,None,On the Ballot,53.04,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Jeffrey Burum,2,36,1,1,8,Lost,None,None,46.96,0,2,2,2,2,2,2,2,2,2,2,1,2,2,2
+Johnny Nalbandian,2,37,1,1,8,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Benito Bernal,2,38,1,1,8,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Charlie Schaupp,2,39,1,1,8,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,1,2,2,2,2,2,2,2,2
+Mark Reed,2,40,1,1,8,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Sean Flynn,2,41,1,1,8,Advanced,None,On the Ballot,100.0,1,1,2,2,2,2,2,2,2,2,2,2,2,2,2
+Kenneth Wright,2,42,1,1,8,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Ron Bassilian,2,43,1,1,8,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Christian Valiente,2,44,1,1,8,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Kimberlin Brown Pelzer,2,45,1,1,8,Advanced,None,On the Ballot,51.61,1,1,2,2,2,2,2,1,2,2,2,2,2,2,2
+Stephan Wolkowicz,2,45,1,1,8,Lost,None,None,10.41,0,0,2,2,2,2,2,0,2,2,2,2,2,2,2
+Dan Ball,2,45,1,1,8,Lost,None,None,17.39,0,0,2,2,2,2,2,0,2,2,2,2,2,2,2
+Doug Hassett,2,45,1,1,8,Lost,None,None,11.21,0,0,2,2,2,2,2,0,2,2,2,2,2,2,2
+Robert Bentley,2,45,1,1,8,Lost,None,None,9.38,0,0,2,2,2,2,2,0,2,2,2,2,2,2,2
+Ryan Downing,2,46,1,1,8,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Young Kim,2,47,1,1,8,Advanced,None,On the Ballot,39.79,1,1,2,2,2,2,2,1,2,2,2,1,1,2,2
+Bob Huff,2,47,1,1,8,Lost,None,None,11.53,0,0,2,2,2,2,2,0,2,2,2,0,0,2,2
+John Cullum,2,47,1,1,8,Lost,None,None,2.24,0,0,2,2,2,2,2,0,2,2,2,0,0,2,2
+Phil Liberatore,2,47,1,1,8,Lost,None,None,21.22,0,0,2,2,2,2,2,0,2,2,2,0,0,2,2
+Shawn Nelson,2,47,1,1,8,Lost,None,None,12.45,0,1,2,2,2,2,2,0,2,2,2,0,0,2,2
+Andrew Sarega,2,47,1,1,8,Lost,None,None,1.05,0,0,2,2,2,2,2,0,2,2,2,0,0,2,2
+Steve Vargas,2,47,1,1,8,Lost,None,None,5.29,0,0,2,2,2,2,2,0,2,2,2,0,0,2,2
+Aja Smith,2,48,1,1,8,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Omar Navarro,2,49,1,1,8,Advanced,None,On the Ballot,56.02,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Frank DeMartini,2,49,1,1,8,Lost,None,None,27.54,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Edwin Duterte,2,49,1,1,8,Lost,None,None,16.44,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Jazmina Saavedra,2,50,1,1,8,Lost,None,None,58.53,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Stacey Dash,2,50,1,1,8,Lost,None,None,41.47,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Russell Lambert,2,51,1,1,8,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+John Briscoe,2,52,1,1,8,Advanced,None,On the Ballot,54.48,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+David Clifford,2,52,1,1,8,Lost,None,None,45.52,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Diane Harkey,2,53,1,1,8,Advanced,None,On the Ballot,52.93,1,1,2,2,2,2,2,2,2,2,2,1,2,2,2
+Kristin Gaspar,2,53,1,1,8,Lost,None,None,18.34,0,1,2,2,2,2,2,2,2,2,2,0,2,2,2
+Rocky ChÀ_À_vez,2,53,1,1,8,Lost,None,None,15.66,0,1,2,2,2,2,2,2,2,2,2,0,2,2,2
+Joshua Schoonover,2,53,1,1,8,Lost,None,None,1.55,0,0,2,2,2,2,2,2,2,2,2,0,2,2,2
+Brian Maryott,2,53,1,1,8,Lost,None,None,6.26,0,0,2,2,2,2,2,2,2,2,2,0,2,2,2
+Craig Nordal,2,53,1,1,8,Lost,None,None,1.31,0,0,2,2,2,2,2,2,2,2,2,0,2,2,2
+David Medway,2,53,1,1,8,Lost,None,None,1.22,0,0,2,2,2,2,2,2,2,2,2,0,2,2,2
+Mike Schmitt,2,53,1,1,8,Lost,None,None,2.72,0,0,2,2,2,2,2,2,2,2,2,0,2,2,2
+Juan Hidalgo,2,54,1,1,8,Advanced,None,On the Ballot,49.39,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Louis Fuentes,2,54,1,1,8,Lost,None,None,53.9,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+John Renison Jr.,2,54,1,1,8,Lost,None,None,45.22,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Omar Qudrat,2,55,1,1,8,Advanced,None,On the Ballot,37.28,1,0,2,2,2,2,2,2,2,2,2,2,2,2,2
+James Veltmeyer,2,55,1,1,8,Lost,None,None,27.81,0,0,2,2,2,2,2,2,2,2,2,2,2,2,2
+John Horst,2,55,1,1,8,Lost,None,None,8.25,0,0,2,2,2,2,2,2,2,2,2,2,2,2,2
+Danny Casara,2,55,1,1,8,Lost,None,None,11.2,0,0,2,2,2,2,2,2,2,2,2,2,2,2,2
+Michael Allman,2,55,1,1,8,Lost,None,None,9.57,0,1,2,2,2,2,2,2,2,2,2,2,2,2,2
+Jeff Cullen,2,55,1,1,8,Lost,None,None,5.88,0,0,2,2,2,2,2,2,2,2,2,2,2,2,2
+Morgan Murtaugh,2,56,1,1,8,Advanced,None,On the Ballot,42.73,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Matt Mendoza,2,56,1,1,8,Lost,None,None,40.43,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Brett Goda,2,56,1,1,8,Lost,None,None,5.93,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Shawn Gino Kane,2,56,1,1,8,Lost,None,None,10.91,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Andrew Grant,2,57,1,1,8,Advanced,None,On the Ballot,69.15,1,1,2,2,2,2,2,2,2,2,2,2,2,1,2
+Yona Barash,2,57,1,1,8,Lost,None,None,30.85,0,0,2,2,2,2,2,2,2,2,2,2,2,0,2
+Marla Livengood,2,58,1,1,8,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,1,2,2,2,2,2,2,2,2
+Jerry Laws,2,220,2,1,8,Lost,None,None,3.04,0,2,2,2,2,2,0,2,2,2,2,2,2,2,2
+Kevin Mottus,2,220,2,1,8,Lost,None,None,3.94,0,2,2,2,2,2,0,2,2,2,2,2,2,2,2
+Roque De La Fuente,2,220,2,1,8,Lost,None,None,6.11,0,2,2,2,2,2,0,2,2,2,2,2,2,2,2
+Tom Palzer,2,220,2,1,8,Lost,None,None,9.26,0,2,2,2,2,2,0,2,2,2,2,2,2,2,2
+Patrick Little,2,220,2,1,8,Lost,None,None,4.06,0,2,2,2,2,2,0,2,2,2,2,2,2,2,2
+Erin Cruz,2,220,2,1,8,Lost,None,None,12.06,0,2,2,2,2,2,0,2,2,2,2,2,2,2,2
+Mario Nabliba,2,220,2,1,8,Lost,None,None,1.77,0,2,2,2,2,2,0,2,2,2,2,2,2,2,2
+Paul Taylor,2,220,2,1,8,Lost,None,None,14.59,0,2,2,2,2,2,1,2,2,2,2,2,2,2,2
+Arun Bhumitra,2,220,2,1,8,Lost,None,None,15.82,0,2,2,2,2,2,0,2,2,2,2,2,2,2,2
+James Bradley,2,220,2,1,8,Lost,None,None,25.08,0,2,2,2,2,2,0,2,2,2,2,2,2,2,2
+John Crew,2,220,2,1,8,Lost,None,None,4.24,0,2,2,2,2,2,0,2,2,2,2,2,2,2,2
+Walker Stapleton,3,2,0,1,7,Advanced,None,On the Ballot,47.67,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Greg Lopez,3,2,0,1,7,Lost,None,None,13.2,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Victor Mitchell,3,2,0,1,7,Lost,None,None,30.12,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Doug Robinson,3,2,0,1,7,Lost,None,None,9.01,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Casper Stockham,3,59,1,1,7,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Peter Yu,3,60,1,1,7,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Mark Barrington,3,61,1,1,7,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Bob Stefanowski,4,3,0,1,10,Advanced,None,On the Ballot,29.3,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Mark Boughton,4,3,0,1,10,Lost,None,None,21.2,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Steve Obsitnik,4,3,0,1,10,Lost,None,None,13.5,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Tim Herbst,4,3,0,1,10,Lost,None,None,17.6,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+David Stemerman,4,3,0,1,10,Lost,None,None,18.4,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Jennifer Nye,4,62,1,1,10,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Dan Postemski,4,63,1,1,10,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Angel Cadena,4,64,1,1,10,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Harry Arora,4,65,1,1,10,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Manny Santos,4,66,1,1,10,Advanced,None,On the Ballot,51.7,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Ruby Corby O'Neill,4,66,1,1,10,Lost,None,None,26.7,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Rich DuPont,4,66,1,1,10,Lost,None,None,21.7,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Matthew Corey,4,221,2,1,10,Advanced,None,On the Ballot,76.7,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Dominic Rapini,4,221,2,1,10,Lost,None,None,23.3,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Lee Murphy,5,67,1,1,19,Lost,None,None,47.0,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Scott Walker,5,67,1,1,19,Advanced,None,On the Ballot,53.0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Gene Truono,5,222,2,1,19,Lost,None,None,28.0,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Robert Arlett,5,222,2,1,19,Advanced,None,On the Ballot,66.8,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Roque De La Fuente,5,222,2,1,19,Lost,None,None,5.3,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Bruce Nathan,6,4,0,1,13,Lost,None,None,0.9,0,2,2,2,2,2,0,2,2,0,2,2,2,0,2
+Ron DeSantis,6,4,0,1,13,Advanced,None,On the Ballot,56.5,1,2,1,2,2,2,2,2,2,1,2,2,2,0,2
+Don Baldauf,6,4,0,1,13,Lost,None,None,0.8,0,2,0,2,2,2,0,2,2,0,2,2,2,0,2
+Bob White,6,4,0,1,13,Lost,None,None,2.0,0,2,0,2,2,2,0,2,2,0,2,2,2,0,2
+Adam Putnam,6,4,0,1,13,Lost,None,None,36.6,0,2,0,2,2,2,2,2,2,0,2,2,2,1,2
+Timothy Devine,6,4,0,1,13,Lost,None,None,1.3,0,2,0,2,2,2,0,2,2,0,2,2,2,0,2
+Bob Langford,6,4,0,1,13,Lost,None,None,1.2,0,2,0,2,2,2,0,2,2,0,2,2,2,0,2
+John Joseph Mercadante,6,4,0,1,13,Lost,None,None,0.7,0,2,0,2,2,2,0,2,2,0,2,2,2,0,2
+George Buck,6,68,1,1,13,Advanced,None,On the Ballot,56.0,1,2,2,2,2,2,1,2,2,2,2,2,2,2,2
+Brad Sostack,6,68,1,1,13,Lost,None,None,44.0,0,2,2,2,2,2,0,2,2,2,2,2,2,2,2
+Neil Combee,6,69,1,1,13,Lost,None,None,34.1,0,2,2,2,2,2,0,2,2,2,2,2,2,2,2
+Ross Spano,6,69,1,1,13,Advanced,None,On the Ballot,43.7,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Sean Harper,6,69,1,1,13,Lost,None,None,10.0,0,2,2,2,2,2,0,2,2,2,2,2,2,2,2
+Danny Kushmer,6,69,1,1,13,Lost,None,None,6.7,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Ed Shoemaker,6,69,1,1,13,Lost,None,None,5.5,0,2,2,2,2,2,0,2,2,2,2,2,2,2,2
+Greg Steube,6,70,1,1,13,Advanced,None,On the Ballot,62.4,1,2,2,2,2,1,2,2,1,1,1,1,0,0,2
+Julio Gonzalez,6,70,1,1,13,Lost,None,None,18.3,0,2,2,2,2,0,2,2,0,0,0,0,1,1,2
+Bill Akins,6,70,1,1,13,Lost,None,None,19.3,0,2,2,2,2,0,0,2,0,0,0,0,0,0,2
+Nicolas Kimaz,6,71,1,1,13,Advanced,None,On the Ballot,41.0,1,2,2,2,2,2,0,2,2,2,2,2,2,2,2
+Javier Manjarres,6,71,1,1,13,Lost,None,None,33.9,0,2,2,2,2,2,1,2,2,2,2,2,2,2,2
+Eddison Walters,6,71,1,1,13,Lost,None,None,25.1,0,2,2,2,2,2,0,2,2,2,2,2,2,2,2
+Carla Spalding,6,72,1,1,13,Lost,None,None,21.5,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Joe Kaufman,6,72,1,1,13,Advanced,None,On the Ballot,44.7,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Carlos Reyes,6,72,1,1,13,Lost,None,None,33.8,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Bruno Barreiro,6,73,1,1,13,Lost,None,None,25.7,0,1,2,2,2,2,0,2,2,2,2,2,0,2,2
+Maria Peiro,6,73,1,1,13,Lost,None,None,8.0,0,0,2,2,2,2,1,2,2,2,2,2,0,2,2
+Bettina Rodriguez-Aguilera,6,73,1,1,13,Lost,None,None,4.3,0,0,2,2,2,2,0,2,2,2,2,2,0,2,2
+Gina Sosa-Suarez,6,73,1,1,13,Lost,None,None,1.9,0,0,2,2,2,2,0,2,2,2,2,2,0,2,2
+Angie Chirino,6,73,1,1,13,Lost,None,None,6.9,0,0,2,2,2,2,0,2,2,2,2,2,0,2,2
+Maria Elvira Salazar,6,73,1,1,13,Advanced,None,On the Ballot,40.5,1,1,2,2,2,2,0,2,2,2,2,2,1,2,2
+Michael Ohevzion,6,73,1,1,13,Lost,None,None,3.8,0,0,2,2,2,2,0,2,2,2,2,2,0,2,2
+Elizabeth Adadi,6,73,1,1,13,Lost,None,None,2.0,0,0,2,2,2,2,0,2,2,2,2,2,0,2,2
+Stephen Marks,6,73,1,1,13,Lost,None,None,7.0,0,0,2,2,2,2,0,2,2,2,2,2,0,2,2
+Virginia Fuller,6,74,1,1,13,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Fred Costello,6,75,1,1,13,Lost,None,None,27.2,0,2,2,2,2,2,1,2,2,2,2,2,2,2,2
+John Ward,6,75,1,1,13,Lost,None,None,30.4,0,2,2,2,2,2,0,2,2,2,2,2,2,2,2
+Michael Waltz,6,75,1,1,13,Advanced,None,On the Ballot,42.4,1,2,2,2,2,2,0,2,2,2,2,2,2,2,2
+Mike Miller,6,76,1,1,13,Advanced,None,On the Ballot,53.9,1,1,2,2,2,2,0,2,2,2,2,2,1,2,2
+Scott Sturgill,6,76,1,1,13,Lost,None,None,30.4,0,1,2,2,2,2,1,2,1,2,2,2,0,2,2
+Vennia Francois,6,76,1,1,13,Lost,None,None,15.8,0,0,2,2,2,2,0,2,0,2,2,2,0,2,2
+Wayne Liebnitzky,6,77,1,1,13,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Rick Scott,6,223,2,1,13,Advanced,None,On the Ballot,88.6,1,2,1,2,2,2,1,2,1,1,2,2,2,1,2
+Roque De La Fuente,6,223,2,1,13,Lost,None,None,11.4,0,2,0,2,2,2,0,2,0,0,2,2,2,0,2
+Brian Kemp,7,5,0,1,4,Advanced,Advanced,On the Ballot,25.55,1,2,1,2,2,0,0,2,2,2,2,2,2,2,2
+Casey Cagle,7,5,0,1,4,Advanced,Lost,None,39.01,0,2,0,2,2,1,0,2,2,2,2,2,2,2,2
+Hunter Hill,7,5,0,1,4,Lost,None,None,18.35,0,2,0,2,2,0,1,2,2,2,2,2,2,2,2
+Michael Williams,7,5,0,1,4,Lost,None,None,4.88,0,2,0,2,2,0,0,2,2,2,2,2,2,2,2
+Clay Tippins,7,5,0,1,4,Lost,None,None,12.21,0,2,0,2,2,0,0,2,2,2,2,2,2,2,2
+Eddie Hayes,7,5,0,1,4,Lost,None,None,0.0,0,2,0,2,2,0,0,2,2,2,2,2,2,2,2
+David Callahan,7,78,1,1,4,Advanced,None,On the Ballot,93.0,1,2,2,2,2,2,1,2,2,2,2,2,2,2,2
+Femi Akinkugbe,7,78,1,1,4,Lost,None,None,7.0,0,2,2,2,2,2,0,2,2,2,2,2,2,2,2
+Herman West Jr.,7,79,1,1,4,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Joe Profit,7,80,1,1,4,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Andria Tupola,8,6,0,1,9,Advanced,None,On the Ballot,55.5,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+John Carroll,8,6,0,1,9,Lost,None,None,35.2,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Ray L'Heureux,8,6,0,1,9,Lost,None,None,9.3,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Cam Cavasso,8,81,1,1,9,Advanced,None,On the Ballot,81.8,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Raymond Vinole,8,81,1,1,9,Lost,None,None,18.2,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Brian Evans,8,82,1,1,9,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Ron Curtis,8,224,2,1,9,Advanced,None,On the Ballot,23.7,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Michael Hodgkiss,8,224,2,1,9,Lost,None,None,5.9,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Consuelo Anderson,8,224,2,1,9,Lost,None,None,19.3,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+George Berish,8,224,2,1,9,Lost,None,None,6.2,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Roque De La Fuente,8,224,2,1,9,Lost,None,None,11.4,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Robert Helsham,8,224,2,1,9,Lost,None,None,14.9,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Eddie Pirkowski,8,224,2,1,9,Lost,None,None,5.1,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Thomas White,8,224,2,1,9,Lost,None,None,13.6,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Chris Peters,9,99,1,1,8,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Brad Little,10,7,0,1,3,Advanced,None,On the Ballot,37.29,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Harley Brown,10,7,0,1,3,Lost,None,None,0.45,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Lisa Marie,10,7,0,1,3,Lost,None,None,1.75,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Raul Labrador,10,7,0,1,3,Lost,None,None,32.63,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Steven Pankey,10,7,0,1,3,Lost,None,None,1.39,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Tommy Ahlquist,10,7,0,1,3,Lost,None,None,26.22,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Dalton Cannady,10,7,0,1,3,Lost,None,None,0.27,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Russ Fulcher,10,83,1,1,3,Advanced,None,On the Ballot,43.12,1,2,2,2,2,2,2,2,1,2,1,2,0,2,2
+Christy Perry,10,83,1,1,3,Lost,None,None,11.19,0,2,2,2,2,2,2,2,0,2,0,2,0,2,2
+Luke Malek,10,83,1,1,3,Lost,None,None,14.26,0,2,2,2,2,2,2,2,0,2,0,2,1,2,2
+David Leroy,10,83,1,1,3,Lost,None,None,15.53,0,2,2,2,2,2,2,2,0,2,0,2,0,2,2
+Michael Snyder,10,83,1,1,3,Lost,None,None,10.37,0,2,2,2,2,2,2,2,0,2,0,2,0,2,2
+Nick Henderson,10,83,1,1,3,Lost,None,None,2.02,0,2,2,2,2,2,2,2,0,2,0,2,0,2,2
+Alex Gallegos,10,83,1,1,3,Lost,None,None,3.5,0,2,2,2,2,2,2,2,0,2,0,2,0,2,2
+Jimmy Lee Tillman II,11,84,1,1,1,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Doug Bennett,11,85,1,1,1,Advanced,None,On the Ballot,36.24,1,1,2,2,2,2,2,2,2,2,2,2,2,2,2
+Sapan Shah,11,85,1,1,1,Lost,None,None,29.06,0,1,2,2,2,2,2,2,2,2,2,2,2,2,2
+Jeremy Wynes,11,85,1,1,1,Lost,None,None,34.7,0,1,2,2,2,2,2,2,2,2,2,2,2,2,2
+Nick Stella,11,86,1,1,1,Advanced,None,On the Ballot,79.33,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Connor Vlakancic,11,86,1,1,1,Lost,None,None,20.67,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Bill Fawell,11,87,1,1,1,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+David Merkle,11,88,1,1,1,Advanced,None,On the Ballot,36.59,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+John Morrow,11,88,1,1,1,Lost,None,None,27.94,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Patrick Harmon,11,88,1,1,1,Lost,None,None,35.46,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Arthur Jones,11,89,1,1,1,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Mark Wayne Lorch,11,90,1,1,1,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Tom Hanson,11,91,1,1,1,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Craig Cameron,11,92,1,1,1,Advanced,None,On the Ballot,56.33,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Jeffrey Leef,11,92,1,1,1,Lost,None,None,43.67,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Jitendra Diganvker,11,93,1,1,1,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+John Elleson,11,94,1,1,1,Advanced,None,On the Ballot,40.37,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Max Rice,11,94,1,1,1,Lost,None,None,10.15,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+D. Vincent Thomas Jr.,11,94,1,1,1,Lost,None,None,18.83,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Sargis Sangari,11,94,1,1,1,Lost,None,None,10.15,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Mark Leyva,12,95,1,1,5,Advanced,None,On the Ballot,26.99,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+John Meyer,12,95,1,1,5,Lost,None,None,19.6,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Jeremy Belko,12,95,1,1,5,Lost,None,None,6.73,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+David Dopp,12,95,1,1,5,Lost,None,None,7.61,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Roseann Ivanovich,12,95,1,1,5,Lost,None,None,19.55,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Nicholas Pappas,12,95,1,1,5,Lost,None,None,19.52,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Jim Baird,12,96,1,1,5,Advanced,None,On the Ballot,36.59,1,2,2,2,2,2,1,2,2,2,2,2,2,2,0
+James Nease,12,96,1,1,5,Lost,None,None,2.62,0,2,2,2,2,2,0,2,2,2,2,2,2,2,2
+Kevin Grant,12,96,1,1,5,Lost,None,None,4.58,0,2,2,2,2,2,0,2,2,2,2,2,2,2,2
+Steve Braun,12,96,1,1,5,Lost,None,None,29.45,0,2,2,2,2,2,1,2,2,2,2,2,2,2,2
+Diego Morales,12,96,1,1,5,Lost,None,None,14.97,0,2,2,2,2,2,1,2,2,2,2,2,2,2,0
+Jared Thomas,12,96,1,1,5,Lost,None,None,10.53,0,2,2,2,2,2,0,2,2,2,2,2,2,2,2
+Tim Radice,12,96,1,1,5,Lost,None,None,1.26,0,2,2,2,2,2,0,2,2,2,2,2,2,2,2
+Greg Pence,12,97,1,1,5,Advanced,None,On the Ballot,64.48,1,2,2,2,1,2,1,2,2,2,2,2,2,2,2
+Jeff Smith,12,97,1,1,5,Lost,None,None,3.04,0,2,2,2,0,2,1,2,2,2,2,2,2,2,2
+Mike Campbell,12,97,1,1,5,Lost,None,None,4.34,0,2,2,2,0,2,0,2,2,2,2,2,2,2,2
+Stephen MacKenzie,12,97,1,1,5,Lost,None,None,4.57,0,2,2,2,0,2,0,2,2,2,2,2,2,2,2
+Jonathan Lamb,12,97,1,1,5,Lost,None,None,23.56,0,2,2,2,0,2,0,2,2,2,2,2,2,2,2
+Wayne Harmon,12,98,1,1,5,Advanced,None,On the Ballot,28.81,1,2,2,2,2,2,0,2,2,2,2,2,2,2,2
+J.D. Miniear,12,98,1,1,5,Lost,None,None,13.59,0,2,2,2,2,2,1,2,2,2,2,2,2,2,2
+John Couch,12,98,1,1,5,Lost,None,None,15.24,0,2,2,2,2,2,0,2,2,2,2,2,2,2,2
+Tony Van Pelt,12,98,1,1,5,Lost,None,None,11.3,0,2,2,2,2,2,0,2,2,2,2,2,2,2,2
+J. Jason Davis,12,98,1,1,5,Lost,None,None,11.9,0,2,2,2,2,2,0,2,2,2,2,2,2,2,2
+Donald Eason Jr.,12,98,1,1,5,Lost,None,None,19.16,0,2,2,2,2,2,0,2,2,2,2,2,2,2,2
+Mike Braun,12,225,2,1,5,Advanced,None,On the Ballot,41.17,1,2,2,2,2,2,1,2,2,2,2,2,2,2,2
+Luke Messer,12,225,2,1,5,Lost,None,None,28.84,0,2,2,2,2,2,1,2,2,2,2,2,2,2,2
+Todd Rokita,12,225,2,1,5,Lost,None,None,29.99,0,2,2,2,2,2,1,2,2,2,2,2,2,2,2
+Caryn Tyson,13,100,1,1,14,Lost,None,None,23.2,0,1,2,2,2,2,1,1,2,2,2,2,2,2,2
+Kevin Jones,13,100,1,1,14,Lost,None,None,15.9,0,0,2,2,2,2,0,0,2,2,2,2,2,2,2
+Steve Fitzgerald,13,100,1,1,14,Lost,None,None,12.1,0,1,2,2,2,2,0,0,2,2,2,2,2,2,2
+Vernon Fields,13,100,1,1,14,Lost,None,None,2.6,0,0,2,2,2,2,0,0,2,2,2,2,2,2,2
+Steve Watkins,13,100,1,1,14,Advanced,None,On the Ballot,26.2,1,1,2,2,2,2,0,0,2,2,2,2,2,2,2
+Doug Mays,13,100,1,1,14,Lost,None,None,8.1,0,0,2,2,2,2,0,0,2,2,2,2,2,2,2
+Dennis Pyle,13,100,1,1,14,Lost,None,None,11.9,0,0,2,2,2,2,0,0,2,2,2,2,2,2,2
+Vickie Yates Glisson,14,101,1,1,4,Advanced,None,On the Ballot,49.06,1,1,2,2,2,2,1,2,2,2,2,2,2,2,2
+Mike Craven,14,101,1,1,4,Lost,None,None,26.9,0,0,2,2,2,2,0,2,2,2,2,2,2,2,2
+Rhonda Palazzo,14,101,1,1,4,Lost,None,None,24.05,0,0,2,2,2,2,0,2,2,2,2,2,2,2,2
+Liz Matory,16,102,1,1,7,Advanced,None,On the Ballot,42.01,1,2,2,2,2,2,1,2,2,2,2,2,2,2,2
+Mark Shell,16,102,1,1,7,Lost,None,None,23.6,0,2,2,2,2,2,0,2,2,2,2,2,2,2,2
+Hubert Owens Jr.,16,102,1,1,7,Lost,None,None,17.07,0,2,2,2,2,2,0,2,2,2,2,2,2,2,2
+Mitchell Toland Jr.,16,102,1,1,7,Lost,None,None,17.32,0,2,2,2,2,2,0,2,2,2,2,2,2,2,2
+Charles Anthony,16,103,1,1,7,Advanced,None,On the Ballot,43.59,1,2,2,2,2,2,0,2,2,2,2,2,2,2,2
+Thomas Harris,16,103,1,1,7,Lost,None,None,35.96,0,2,2,2,2,2,0,2,2,2,2,2,2,2,2
+Rob Seyfferth,16,103,1,1,7,Lost,None,None,20.45,0,2,2,2,2,2,0,2,2,2,2,2,2,2,2
+George McDermott,16,104,1,1,7,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+William Devine III,16,105,1,1,7,Advanced,None,On the Ballot,57.56,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Johnny Rice,16,105,1,1,7,Lost,None,None,42.44,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Amie Hoeber,16,106,1,1,7,Advanced,None,On the Ballot,67.76,1,1,2,2,2,2,0,2,2,2,2,2,2,2,2
+Lisa Lloyd,16,106,1,1,7,Lost,None,None,17.81,0,0,2,2,2,2,0,2,2,2,2,2,2,2,2
+Brad Rohrs,16,106,1,1,7,Lost,None,None,5.68,0,0,2,2,2,2,1,2,2,2,2,2,2,2,2
+Kurt Elsasser,16,106,1,1,7,Lost,None,None,8.75,0,0,2,2,2,2,0,2,2,2,2,2,2,2,2
+Ray Bly,16,107,1,1,7,Lost,None,None,16.52,0,2,2,2,2,2,0,2,2,2,2,2,2,2,2
+William Newton,16,107,1,1,7,Lost,None,None,22.33,0,2,2,2,2,2,1,2,2,2,2,2,2,2,2
+Richmond Davis,16,107,1,1,7,On the Ballot,None,None,31.29,0,2,2,2,2,2,0,2,2,2,2,2,2,2,2
+Michael Pearson,16,107,1,1,7,On the Ballot,None,None,29.86,0,2,2,2,2,2,0,2,2,2,2,2,2,2,2
+John Walsh,16,108,1,1,7,Advanced,None,On the Ballot,44.87,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Bridgette Cooper,16,108,1,1,7,Lost,None,None,31.28,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Victor Williams,16,108,1,1,7,Lost,None,None,23.85,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Tony Campbell,16,227,2,1,7,Advanced,None,On the Ballot,29.22,1,2,2,2,2,2,1,2,2,2,2,2,2,2,2
+Blaine Taylor,16,227,2,1,7,Lost,None,None,5.03,0,2,2,2,2,2,0,2,2,2,2,2,2,2,2
+Brian Vaeth,16,227,2,1,7,Lost,None,None,3.07,0,2,2,2,2,2,0,2,2,2,2,2,2,2,2
+Chris Chaffee,16,227,2,1,7,Lost,None,None,24.05,0,2,2,2,2,2,0,2,2,2,2,2,2,2,2
+John Graziani,16,227,2,1,7,Lost,None,None,8.77,0,2,2,2,2,2,0,2,2,2,2,2,2,2,2
+Nnabu Eze,16,227,2,1,7,Lost,None,None,1.96,0,2,2,2,2,2,0,2,2,2,2,2,2,2,2
+Evan Cronhardt,16,227,2,1,7,Lost,None,None,2.53,0,2,2,2,2,2,0,2,2,2,2,2,2,2,2
+Christina Grigorian,16,227,2,1,7,Lost,None,None,17.48,0,2,2,2,2,2,0,2,2,2,2,2,2,2,2
+Bill Krehnbrink,16,227,2,1,7,Lost,None,None,2.05,0,2,2,2,2,2,0,2,2,2,2,2,2,2,2
+Gerald Smith,16,227,2,1,7,Lost,None,None,4.3,0,2,2,2,2,2,0,2,2,2,2,2,2,2,2
+Albert Howard,16,227,2,1,7,Lost,None,None,1.55,0,2,2,2,2,2,0,2,2,2,2,2,2,2,2
+Shawn Moody,17,8,0,1,6,Advanced,None,On the Ballot,52.6,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Garrett Mason,17,8,0,1,6,Lost,None,None,21.23,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Mary Mayhew,17,8,0,1,6,Lost,None,None,13.82,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Kenneth Fredette,17,8,0,1,6,Lost,None,None,5.26,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Eric Brakey,17,226,2,1,6,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Kevin Powers,15,109,1,1,18,Lost,None,None,39.2,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Tracy Lovvorn,15,109,1,1,18,Advanced,None,On the Ballot,60.8,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Rick Green,15,110,1,1,18,Advanced,None,On the Ballot,100.0,1,1,2,2,2,2,2,2,2,1,2,2,2,2,2
+John Hugo,15,111,1,1,18,Advanced,None,On the Ballot,63.7,1,2,2,2,2,2,1,2,2,2,2,2,2,2,2
+Louis Kuchnir,15,111,1,1,18,Lost,None,None,36.3,0,2,2,2,2,2,0,2,2,2,2,2,2,2,2
+Joseph Schneider,15,112,1,1,18,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Peter Tedeschi,15,113,1,1,18,Advanced,None,On the Ballot,100.0,1,1,2,2,2,2,2,2,2,2,2,2,2,2,2
+Geoff Diehl,15,228,2,1,18,Advanced,None,On the Ballot,55.3,1,2,2,2,2,1,2,2,2,2,2,2,2,2,2
+John Kingston,15,228,2,1,18,Lost,None,None,26.7,0,2,2,2,2,0,2,2,2,2,2,2,2,2,2
+Beth Lindstrom,15,228,2,1,18,Lost,None,None,17.9,0,2,2,2,2,0,2,2,2,2,2,2,2,2,2
+Jim Hines,18,9,0,1,14,Lost,None,None,11.0,0,2,0,2,2,2,1,0,2,2,2,2,2,0,2
+Brian Calley,18,9,0,1,14,Lost,None,None,25.2,0,2,0,2,2,2,1,0,2,2,2,2,2,0,2
+Patrick Colbeck,18,9,0,1,14,Lost,None,None,13.1,0,2,0,2,2,2,1,0,2,2,2,2,2,0,2
+"William Duncan ""Bill"" Schuette",18,9,0,1,14,Advanced,None,On the Ballot,50.7,1,2,1,2,2,2,1,0,2,2,2,2,2,1,2
+Kerry Bentivolio,18,114,1,1,14,Lost,None,None,11.3,0,2,2,2,2,2,1,0,2,0,2,2,2,2,2
+Klint Kesto,18,114,1,1,14,Lost,None,None,14.0,0,1,2,2,2,2,1,0,2,0,2,2,2,2,2
+Mike Kowall,18,114,1,1,14,Lost,None,None,18.6,0,1,2,2,2,2,1,0,2,0,2,2,2,2,2
+Rocky Raczkowski,18,114,1,1,14,Lost,None,None,25.4,0,1,2,2,2,2,1,0,2,0,2,2,2,2,2
+Lena Epstein,18,114,1,1,14,Advanced,None,On the Ballot,30.7,1,1,2,2,2,2,1,1,2,1,2,2,2,2,2
+Jeff Jones,18,115,1,1,14,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,0,2,2,2,2,2
+Marc Herschfus,18,116,1,1,14,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,0,2,2,2,2,2
+Travis Wines,18,117,1,1,14,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,0,2,2,2,2,2
+Candius Stearns,18,118,1,1,14,Advanced,None,On the Ballot,100.0,1,1,2,2,2,2,1,1,2,0,2,2,2,2,2
+John James,18,229,2,1,14,Advanced,None,On the Ballot,54.7,1,2,1,2,2,2,1,1,2,2,2,2,2,1,2
+Sandy Pensler,18,229,2,1,14,Lost,None,None,45.3,0,2,0,2,2,2,0,0,2,2,2,2,2,0,2
+Jeff Johnson,19,10,0,1,10,Advanced,None,On the Ballot,52.6,1,2,2,2,2,2,2,2,2,2,2,2,2,0,2
+Tim Pawlenty,19,10,0,1,10,Lost,None,None,43.9,0,2,2,2,2,2,2,2,2,2,2,2,2,1,2
+Matt Kruse,19,10,0,1,10,Lost,None,None,3.5,0,2,2,2,2,2,2,2,2,2,2,2,2,0,2
+Jim Hagedorn,19,119,1,1,10,Advanced,None,On the Ballot,60.2,1,1,2,2,2,2,2,0,2,2,2,2,2,2,2
+Carla Nelson,19,119,1,1,10,Lost,None,None,32.1,0,1,2,2,2,2,2,1,2,2,2,2,2,2,2
+Andrew Candler,19,119,1,1,10,Lost,None,None,2.6,0,0,2,2,2,2,2,0,2,2,2,2,2,2,2
+Steve Williams,19,119,1,1,10,Lost,None,None,5.1,0,0,2,2,2,2,2,0,2,2,2,2,2,2,2
+Greg Ryan,19,120,1,1,10,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Jennifer Zielinski,19,121,1,1,10,Advanced,None,On the Ballot,56.5,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Christopher Chamberlin,19,121,1,1,10,Lost,None,None,32.5,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Bob Carney Jr.,19,121,1,1,10,Lost,None,None,11.0,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Dave Hughes,19,122,1,1,10,Advanced,None,On the Ballot,72.6,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Matt Prosch,19,122,1,1,10,Lost,None,None,27.4,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Pete Stauber,19,123,1,1,10,Advanced,None,On the Ballot,89.7,1,1,1,2,2,2,2,2,2,1,2,2,2,2,2
+Harry Welty,19,123,1,1,10,Lost,None,None,10.3,0,0,0,2,2,2,2,2,2,0,2,2,2,2,2
+Jim Newberger,19,230,2,1,10,Advanced,None,On the Ballot,69.5,1,2,2,2,2,2,0,0,2,2,2,2,2,2,2
+Karin Housley,19,230,2,2,10,Advanced,None,On the Ballot,62.0,1,2,2,2,2,2,1,1,2,2,2,2,2,2,2
+Merrill Anderson,19,230,2,1,10,Lost,None,None,15.7,0,2,2,2,2,2,0,0,2,2,2,2,2,2,2
+Bob Anderson,19,230,2,2,10,Lost,None,None,35.6,0,2,2,2,2,2,0,0,2,2,2,2,2,2,2
+Roque De La Fuente,19,230,2,1,10,Lost,None,None,5.9,0,2,2,2,2,2,0,0,2,2,2,2,2,2,2
+Rae Hart Anderson,19,230,2,1,10,Lost,None,None,5.9,0,2,2,2,2,2,0,0,2,2,2,2,2,2,2
+Nikolay Nikolayevich Bey,19,230,2,2,10,Lost,None,None,2.5,0,2,2,2,2,2,0,0,2,2,2,2,2,2,2
+Camille Lombardi-Olive,20,125,1,1,14,Lost,None,None,32.6,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Edward Van Deventer Jr.,20,125,1,1,14,Lost,None,None,32.9,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Robert Vroman,20,125,1,1,14,Advanced,None,On the Ballot,34.5,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Kress Cambers,20,126,1,1,14,Lost,None,None,17.6,0,2,2,2,2,2,0,2,2,2,2,2,2,2,2
+Richonda Oaks,20,126,1,1,14,Lost,None,None,7.3,0,2,2,2,2,2,0,2,2,2,2,2,2,2,2
+Jacob Turk,20,126,1,1,14,Advanced,None,On the Ballot,75.1,1,2,2,2,2,2,1,2,2,2,2,2,2,2,2
+Austin Petersen,20,231,2,1,14,Lost,None,None,8.3,0,2,0,0,0,2,0,2,0,0,2,2,2,2,2
+Josh Hawley,20,231,2,1,14,Advanced,None,On the Ballot,58.6,1,2,1,1,1,2,1,2,1,1,2,2,2,2,2
+Tony Monetti,20,231,2,1,14,Lost,None,None,9.8,0,2,0,0,0,2,0,2,0,0,2,2,2,2,2
+Courtland Sykes,20,231,2,1,14,Lost,None,None,2.1,0,2,0,0,0,2,0,2,0,0,2,2,2,2,2
+Brian Hagg,20,231,2,1,14,Lost,None,None,1.0,0,2,0,0,0,2,0,2,0,0,2,2,2,2,2
+Ken Patterson,20,231,2,1,14,Lost,None,None,2.9,0,2,0,0,0,2,0,2,0,0,2,2,2,2,2
+Peter Pfeifer,20,231,2,1,14,Lost,None,None,2.5,0,2,0,0,0,2,0,2,0,0,2,2,2,2,2
+Christina Smith,20,231,2,1,14,Lost,None,None,5.3,0,2,0,0,0,2,0,2,0,0,2,2,2,2,2
+Bradley Krembs,20,231,2,1,14,Lost,None,None,0.7,0,2,0,0,0,2,0,2,0,0,2,2,2,2,2
+Kristi Nichols,20,231,2,1,14,Lost,None,None,7.5,0,2,0,0,0,2,0,2,0,0,2,2,2,2,2
+Fred Ryman,20,231,2,1,14,Lost,None,None,1.3,0,2,0,0,0,2,0,2,0,0,2,2,2,2,2
+Whit Hughes,21,124,1,1,8,Advanced,Lost,None,22.24,0,2,2,2,2,2,2,2,2,2,2,1,2,2,2
+Michael Guest,21,124,1,1,8,Advanced,Advanced,On the Ballot,44.84,1,2,2,2,2,2,2,2,2,2,2,0,2,2,2
+Sally Doty,21,124,1,1,8,Lost,None,None,10.16,0,2,2,2,2,2,2,2,2,2,2,0,2,2,2
+Perry Parker,21,124,1,1,8,Lost,None,None,16.24,0,2,2,2,2,2,2,2,2,2,2,0,2,2,2
+Morgan Dunn,21,124,1,1,8,Lost,None,None,5.87,0,2,2,2,2,2,2,2,2,2,2,0,2,2,2
+Katherine Tate,21,124,1,1,8,Lost,None,None,0.64,0,2,2,2,2,2,2,2,2,2,2,0,2,2,2
+Matt Rosendale,22,232,2,1,8,Advanced,None,On the Ballot,33.82,1,2,2,1,1,2,2,2,1,2,2,1,2,2,2
+Albert Olszewski,22,232,2,1,8,Lost,None,None,18.7,0,2,2,0,0,2,2,2,0,2,2,0,2,2,2
+Russell C. Fagg,22,232,2,1,8,Lost,None,None,28.34,0,2,2,0,0,2,2,2,0,2,2,0,2,2,2
+Troy Downing,22,232,2,1,8,Lost,None,None,19.12,0,2,2,0,0,2,2,2,0,2,2,0,2,2,2
+Roger Allison,23,156,1,1,5,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Paul Wright,23,157,1,1,5,Advanced,None,On the Ballot,43.21,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Paul Bonham,23,157,1,1,5,Lost,None,None,31.51,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Carl Persson,23,157,1,1,5,Lost,None,None,25.29,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Steve Von Loor,23,158,1,1,5,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Kelly Armstrong,24,159,1,1,6,Advanced,None,On the Ballot,56.22,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Tom Campbell,24,159,1,1,6,Lost,None,None,26.87,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Tiffany Abentroth,24,159,1,1,6,Lost,None,None,8.91,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Paul Schaffner,24,159,1,1,6,Lost,None,None,7.89,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Kevin Cramer,24,236,2,1,6,Advanced,None,On the Ballot,87.73,1,2,1,2,2,2,1,2,2,2,2,2,2,2,2
+Thomas O'Neill,24,236,2,1,6,Lost,None,None,12.13,0,2,0,2,2,2,0,2,2,2,2,2,2,2,2
+Andy Martin,25,130,1,1,15,Lost,None,None,4.2,0,0,2,2,2,0,2,2,2,2,2,2,2,2,2
+Andy Sanborn,25,130,1,1,15,Lost,None,None,41.6,0,1,2,2,2,1,2,2,2,2,2,2,2,2,2
+Eddie Edwards,25,130,1,1,15,Advanced,None,On the Ballot,48.0,1,1,2,2,2,0,2,2,2,2,2,2,2,2,2
+Bruce Crochetiere,25,130,1,1,15,Lost,None,None,1.6,0,0,2,2,2,0,2,2,2,2,2,2,2,2,2
+Michael Callis,25,130,1,1,15,Lost,None,None,2.6,0,0,2,2,2,0,2,2,2,2,2,2,2,2,2
+Lynne Blankenbeker,25,131,1,1,15,Lost,None,None,22.9,0,0,2,2,2,2,2,1,2,2,2,2,2,2,2
+Steve Negron,25,131,1,1,15,Advanced,None,On the Ballot,26.0,1,1,2,2,2,2,2,0,2,2,2,2,2,2,2
+Stewart Levenson,25,131,1,1,15,Lost,None,None,25.3,0,1,2,2,2,2,2,0,2,2,2,2,2,2,2
+Brian Belanger,25,131,1,1,15,Lost,None,None,5.6,0,0,2,2,2,2,2,0,2,2,2,2,2,2,2
+Bob Burns,25,131,1,1,15,Lost,None,None,15.9,0,0,2,2,2,2,2,0,2,2,2,2,2,2,2
+Gerard Beloin,25,131,1,1,15,Lost,None,None,1.5,0,0,2,2,2,2,2,0,2,2,2,2,2,2,2
+Jay Mercer,25,131,1,1,15,Lost,None,None,2.9,0,0,2,2,2,2,2,0,2,2,2,2,2,2,2
+Paul Dilks,26,132,1,1,8,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Agha Khan,26,133,1,1,8,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Jay Webber,26,134,1,1,8,Advanced,None,On the Ballot,40.04,1,1,2,2,2,2,2,1,2,2,2,2,2,2,2
+Martin Hewitt,26,134,1,1,8,Lost,None,None,3.48,0,0,2,2,2,2,0,0,2,2,2,2,2,2,2
+Antony Ghee,26,134,1,1,8,Lost,None,None,21.93,0,1,2,2,2,2,0,0,2,2,2,2,2,2,2
+Patrick Allocco,26,134,1,1,8,Lost,None,None,4.1,0,0,2,2,2,2,0,0,2,2,2,2,2,2,2
+Peter de Neufville,26,134,1,1,8,Lost,None,None,30.45,0,1,2,2,2,2,0,0,2,2,2,2,2,2,2
+Daryl Kipnis,26,135,1,1,8,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,0,2,2,2,2,2,2,2,2
+Seth Grossman,26,136,1,1,8,Advanced,None,On the Ballot,39.05,1,2,2,2,2,2,0,2,2,2,2,2,2,2,2
+Samuel Fiocchi,26,136,1,1,8,Lost,None,None,23.35,0,2,2,2,2,2,0,2,2,2,2,2,2,2,2
+Hirsh Singh,26,136,1,1,8,Lost,None,None,30.52,0,2,2,2,2,2,0,2,2,2,2,2,2,2,2
+Robert Turkavage,26,136,1,1,8,Lost,None,None,7.09,0,2,2,2,2,2,0,2,2,2,2,2,2,2,2
+John McCann,26,137,1,1,8,Advanced,None,On the Ballot,53.05,1,1,2,2,2,2,0,2,2,2,2,0,2,2,2
+Steve Lonegan,26,137,1,1,8,Lost,None,None,46.95,0,1,2,2,2,2,1,2,2,2,2,1,2,2,2
+Rich Pezzullo,26,138,1,1,8,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+John Muniz,26,139,1,1,8,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Eric Fisher,26,140,1,1,8,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Bob Hugin,26,233,2,1,8,Advanced,None,On the Ballot,75.13,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Brian Goldberg,26,233,2,1,8,Lost,None,None,24.87,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Steve Pearce,27,12,0,1,8,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Janice Arnold-Jones,27,141,1,1,8,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Yvette Herrell,27,142,1,1,8,Advanced,None,On the Ballot,49.0,1,1,2,2,2,1,2,1,2,2,1,2,2,2,2
+Monty Newman,27,142,1,1,8,Lost,None,None,32.03,0,1,2,2,2,0,2,0,2,2,0,2,2,2,2
+Gavin Clarkson,27,142,1,1,8,Lost,None,None,12.42,0,2,2,2,2,0,2,0,2,2,0,2,2,2,2
+Clayburn Griffin,27,142,1,1,8,Lost,None,None,6.55,0,2,2,2,2,0,2,0,2,2,0,2,2,2,2
+Jerald Steve McFall,27,143,1,1,8,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Mick Rich,27,234,2,1,8,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Adam Laxalt,28,11,0,1,6,Advanced,None,On the Ballot,71.49,1,2,1,2,2,1,2,2,2,1,2,2,2,2,2
+Dan Schwartz,28,11,0,1,6,Lost,None,None,9.09,0,2,0,2,2,0,2,2,2,0,2,2,2,2,2
+Frederick Conquest,28,11,0,1,6,Lost,None,None,0.54,0,2,0,2,2,0,2,2,2,0,2,2,2,2,2
+Stephanie Carlisle,28,11,0,1,6,Lost,None,None,4.5,0,2,0,2,2,0,2,2,2,0,2,2,2,2,2
+Jared Fisher,28,11,0,1,6,Lost,None,None,4.71,0,2,0,2,2,0,2,2,2,0,2,2,2,2,2
+Bill Boyd,28,11,0,1,6,Lost,None,None,4.24,0,2,0,2,2,0,2,2,2,0,2,2,2,2,2
+Edward Dundas,28,11,0,1,6,Lost,None,None,0.41,0,2,0,2,2,0,2,2,2,0,2,2,2,2,2
+Stan Lusak,28,11,0,1,6,Lost,None,None,0.71,0,2,0,2,2,0,2,2,2,0,2,2,2,2,2
+Joyce Bentley,28,127,1,1,6,Advanced,None,On the Ballot,55.18,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Freddy Horne,28,127,1,1,6,Lost,None,None,44.82,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Danny Tarkanian,28,128,1,1,6,Advanced,None,On the Ballot,44.13,1,2,1,1,2,0,1,2,2,2,2,2,2,2,2
+Annette Teijeiro,28,128,1,1,6,Lost,None,None,3.54,0,2,2,0,2,0,0,2,2,2,2,2,2,2,2
+Eddie Hamilton,28,128,1,1,6,Lost,None,None,1.04,0,2,2,0,2,0,0,2,2,2,2,2,2,2,2
+Scott Hammond,28,128,1,1,6,Lost,None,None,16.79,0,2,2,0,2,1,0,2,2,2,2,2,2,2,2
+Patrick Carter,28,128,1,1,6,Lost,None,None,2.72,0,2,2,0,2,0,0,2,2,2,2,2,2,2,2
+David McKeon,28,128,1,1,6,Lost,None,None,4.91,0,2,2,0,2,0,0,2,2,2,2,2,2,2,2
+Michelle Mortensen,28,128,1,1,6,Lost,None,None,24.56,0,2,2,0,2,0,0,2,2,2,2,2,2,2,2
+Stephanie Jones,28,128,1,1,6,Lost,None,None,1.3,0,2,2,0,2,0,0,2,2,2,2,2,2,2,2
+Thomas Mark La Croix,28,128,1,1,6,Lost,None,None,1.0,0,2,2,0,2,0,0,2,2,2,2,2,2,2,2
+Cresent Hardy,28,129,1,1,6,Advanced,None,On the Ballot,47.41,1,1,2,2,2,2,2,2,2,1,2,2,1,2,2
+Jeff Miller,28,129,1,1,6,Lost,None,None,7.96,0,0,2,2,2,2,2,2,2,0,2,2,0,2,2
+Kenneth Wegner,28,129,1,1,6,Lost,None,None,11.27,0,0,2,2,2,2,2,2,2,0,2,2,0,2,2
+Mike Monroe,28,129,1,1,6,Lost,None,None,3.02,0,0,2,2,2,2,2,2,2,0,2,2,0,2,2
+Bill Townsend,28,129,1,1,6,Lost,None,None,11.37,0,0,2,2,2,2,2,2,2,0,2,2,0,2,2
+David Gibbs,28,129,1,1,6,Lost,None,None,18.96,0,0,2,2,2,2,2,2,2,0,2,2,0,2,2
+Marcus Molinaro,29,13,0,1,17,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Naomi Levin,29,144,1,1,7,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Eliot Rabin,29,145,1,1,7,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Jineea Butler,29,146,1,1,7,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Anthony Pappas,29,147,1,1,7,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Jason Gonzalez,29,148,1,1,7,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+James O'Donnell,29,149,1,1,7,Advanced,None,On the Ballot,100.0,1,1,2,2,2,2,2,2,2,2,2,2,2,2,2
+Joe Vitollo,29,150,1,1,7,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+James Maxwell,29,151,1,1,7,Advanced,None,On the Ballot,100.0,1,1,2,2,2,2,2,2,2,2,2,2,2,2,2
+Renee Zeno,29,152,1,1,7,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Dan DeBono,29,153,1,1,7,Advanced,None,On the Ballot,100.0,1,1,2,2,2,2,2,2,2,2,2,2,2,2,2
+Ameer Benno,29,154,1,1,7,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Lutchi Gayot,29,155,1,1,7,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Chele Farley,29,235,2,1,7,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Richard Michael DeWine,30,14,0,1,5,Advanced,None,On the Ballot,59.84,1,2,2,2,2,2,1,2,2,2,2,2,2,2,2
+Mary Taylor,30,14,0,1,5,Lost,None,None,40.16,0,2,2,2,2,2,0,2,2,2,2,2,2,2,2
+Beverly Goldstein,30,160,1,1,5,Advanced,None,On the Ballot,52.55,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Gregory Dunham,30,160,1,1,5,Lost,None,None,47.45,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Troy Balderson,30,161,1,1,5,Advanced,None,On the Ballot,28.72,1,2,2,2,2,2,1,0,0,2,0,2,1,2,2
+Jon Halverstadt,30,161,1,1,5,Lost,None,None,1.66,0,2,2,2,2,2,0,0,0,2,0,2,0,2,2
+Troy Balderson,30,161,1,2,5,Advanced,None,On the Ballot,29.22,1,2,2,2,2,2,1,0,0,2,0,2,1,2,2
+Jon Halverstadt,30,161,1,2,5,Lost,None,None,1.45,0,2,2,2,2,2,0,0,0,2,0,2,0,2,2
+John Adams,30,161,1,1,5,Lost,None,None,0.91,0,2,2,2,2,2,0,0,0,2,0,2,0,2,2
+Kevin Bacon,30,161,1,1,5,Lost,None,None,14.26,0,2,2,2,2,2,0,0,0,2,0,2,0,2,2
+Pat Manley,30,161,1,1,5,Lost,None,None,1.16,0,2,2,2,2,2,0,0,0,2,0,2,0,2,2
+Carol O'Brien,30,161,1,1,5,Lost,None,None,6.48,0,2,2,2,2,2,0,0,0,2,0,2,0,2,2
+Tim Kane,30,161,1,1,5,Lost,None,None,16.88,0,2,2,2,2,2,0,0,0,2,0,2,0,2,2
+Melanie Leneghan,30,161,1,1,5,Lost,None,None,27.58,0,2,2,2,2,2,0,1,1,2,1,2,0,2,2
+Lawrence Cohen,30,161,1,1,5,Lost,None,None,1.17,0,2,2,2,2,2,0,0,0,2,0,2,0,2,2
+Mick Shoemaker Jr.,30,161,1,1,5,Lost,None,None,1.18,0,2,2,2,2,2,0,0,0,2,0,2,0,2,2
+Kevin Bacon,30,161,1,2,5,Lost,None,None,14.27,0,2,2,2,2,2,0,0,0,2,0,2,0,2,2
+Lawrence Cohen,30,161,1,2,5,Lost,None,None,1.17,0,2,2,2,2,2,0,0,0,2,0,2,0,2,2
+Tim Kane,30,161,1,2,5,Lost,None,None,17.07,0,2,2,2,2,2,0,0,0,2,0,2,0,2,2
+Melanie Leneghan,30,161,1,2,5,Lost,None,None,28.25,0,2,2,2,2,2,0,1,1,2,1,2,0,2,2
+Pat Manley,30,161,1,2,5,Lost,None,None,1.08,0,2,2,2,2,2,0,0,0,2,0,2,0,2,2
+Carol O'Brien,30,161,1,2,5,Lost,None,None,6.4,0,2,2,2,2,2,0,0,0,2,0,2,0,2,2
+Mick Shoemaker Jr.,30,161,1,2,5,Lost,None,None,1.09,0,2,2,2,2,2,0,0,0,2,0,2,0,2,2
+Christopher DePizzo,30,162,1,1,5,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Anthony Gonzalez,30,163,1,1,5,Advanced,None,On the Ballot,53.07,1,1,2,2,2,0,1,0,2,2,0,2,1,1,2
+Christina Hagan,30,163,1,1,5,Lost,None,None,40.78,0,1,2,2,2,1,0,1,2,2,1,2,0,0,2
+Michael Grusenmeyer,30,163,1,1,5,Lost,None,None,6.15,0,0,2,2,2,0,0,0,2,2,0,2,0,0,2
+Jim Burgess,30,164,1,1,5,Advanced,None,On the Ballot,93.1,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Abdulkadir Haji,30,164,1,1,5,Lost,None,None,6.9,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Steven Kraus,30,165,1,1,5,Advanced,None,On the Ballot,49.45,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Keith Colton,30,165,1,1,5,Lost,None,None,29.86,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+W. Benjamin Franklin,30,165,1,1,5,Lost,None,None,20.7,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Jim Renacci,30,237,2,1,5,Advanced,None,On the Ballot,47.34,1,2,1,2,2,1,1,2,2,1,2,0,2,2,2
+Don Eckhart,30,237,2,1,5,Lost,None,None,3.88,0,2,0,2,2,0,0,2,2,0,2,0,2,2,2
+Mike Gibbons,30,237,2,1,5,Lost,None,None,31.69,0,2,0,2,2,0,0,2,2,0,2,1,2,2,2
+Melissa Ackison,30,237,2,1,5,Lost,None,None,13.09,0,2,0,2,2,0,0,2,2,0,2,0,2,2,2
+Dan Kiley,30,237,2,1,5,Lost,None,None,3.99,0,2,0,2,2,0,0,2,2,0,2,0,2,2,2
+Mick Cornett,31,15,0,1,7,Advanced,Lost,None,29.34,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Kevin Stitt,31,15,0,1,7,Advanced,Advanced,On the Ballot,24.41,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Christopher Barnett,31,15,0,1,7,Lost,None,None,1.16,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Dan Fisher,31,15,0,1,7,Lost,None,None,7.91,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Eric Foutch,31,15,0,1,7,Lost,None,None,0.51,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Barry Gowdy,31,15,0,1,7,Lost,None,None,0.52,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Gary Jones,31,15,0,1,7,Lost,None,None,5.58,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Todd Lamb,31,15,0,1,7,Lost,None,None,23.86,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Gary Richardson,31,15,0,1,7,Lost,None,None,4.02,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Blake Cowboy Stephens,31,15,0,1,7,Lost,None,None,2.7,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Kevin Hern,31,166,1,1,7,Advanced,Advanced,On the Ballot,22.68,1,2,2,2,2,2,2,2,0,2,0,2,1,2,2
+Tim Harris,31,166,1,1,7,Advanced,Lost,None,27.48,0,2,2,2,2,2,2,2,2,2,0,2,0,2,2
+Nathan Dahm,31,166,1,1,7,Lost,None,None,20.17,0,2,2,2,2,2,2,2,2,2,0,2,0,2,2
+Andy Coleman,31,166,1,1,7,Lost,None,None,21.85,0,2,2,2,2,2,2,2,2,2,1,2,0,2,2
+Danny Stockstill,31,166,1,1,7,Lost,None,None,7.83,0,2,2,2,2,2,2,2,2,2,0,2,0,2,2
+Knute Buehler,32,16,0,1,3,Advanced,None,On the Ballot,45.9,1,2,2,2,2,2,0,2,2,2,2,2,2,2,2
+Bruce Cuff,32,16,0,1,3,Lost,None,None,1.55,0,2,2,2,2,2,0,2,2,2,2,2,2,2,2
+Sam Carpenter,32,16,0,1,3,Lost,None,None,28.85,0,2,2,2,2,2,0,2,2,2,2,2,2,2,2
+Jeff Smith,32,16,0,1,3,Lost,None,None,1.49,0,2,2,2,2,2,0,2,2,2,2,2,2,2,2
+Keenan Bohach,32,16,0,1,3,Lost,None,None,0.25,0,2,2,2,2,2,0,2,2,2,2,2,2,2,2
+Jack Tacy,32,16,0,1,3,Lost,None,None,0.16,0,2,2,2,2,2,0,2,2,2,2,2,2,2,2
+Greg Wooldridge,32,16,0,1,3,Lost,None,None,20.08,0,2,2,2,2,2,1,2,2,2,2,2,2,2,2
+Jonathan Edwards (Oregon),32,16,0,1,3,Lost,None,None,0.27,0,2,2,2,2,2,0,2,2,2,2,2,2,2,2
+Brett Hyland,32,16,0,1,3,Lost,None,None,0.24,0,2,2,2,2,2,0,2,2,2,2,2,2,2,2
+David Stauffer,32,16,0,1,3,Lost,None,None,0.67,0,2,2,2,2,2,0,2,2,2,2,2,2,2,2
+John Verbeek,32,167,1,1,3,Advanced,None,On the Ballot,50.61,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+George Griffith,32,167,1,1,3,Lost,None,None,40.72,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Preston Miller,32,167,1,1,3,Lost,None,None,7.71,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Art Robinson,32,168,1,1,3,Advanced,None,On the Ballot,45.51,1,2,2,2,2,2,1,2,2,2,2,2,2,2,2
+Jo Rae Perkins,32,168,1,1,3,Lost,None,None,20.81,0,2,2,2,2,2,1,2,2,2,2,2,2,2,2
+Stefan Strek,32,168,1,1,3,Lost,None,None,3.36,0,2,2,2,2,2,0,2,2,2,2,2,2,2,2
+Court Boice,32,168,1,1,3,Lost,None,None,23.62,0,2,2,2,2,2,1,2,2,2,2,2,2,2,2
+Michael Polen,32,168,1,1,3,Lost,None,None,5.95,0,2,2,2,2,2,0,2,2,2,2,2,2,2,2
+Mark Callahan,32,169,1,1,3,Advanced,None,On the Ballot,61.9,1,2,2,2,2,2,1,2,2,2,2,2,2,2,2
+Joey Nations,32,169,1,1,3,Lost,None,None,20.61,0,2,2,2,2,2,0,2,2,2,2,2,2,2,2
+Robert Reynolds,32,169,1,1,3,Lost,None,None,16.64,0,2,2,2,2,2,1,2,2,2,2,2,2,2,2
+Scott Wagner,33,17,0,1,3,Advanced,None,On the Ballot,44.3,1,2,2,1,2,2,2,2,2,2,2,2,2,2,2
+Laura Ellsworth,33,17,0,1,3,Lost,None,None,18.83,0,2,2,0,2,2,2,2,2,2,2,2,2,2,2
+Paul Mango,33,17,0,1,3,Lost,None,None,36.87,0,2,2,0,2,2,2,2,2,2,2,2,2,2,2
+John Joyce,33,170,1,1,3,Advanced,None,On the Ballot,22.02,1,2,2,2,2,2,2,2,0,2,0,2,1,2,2
+Art Halvorson,33,170,1,1,3,Lost,None,None,15.33,0,2,2,2,2,2,2,2,2,2,0,2,0,2,2
+John Eichelberger,33,170,1,1,3,Lost,None,None,19.77,0,2,2,2,2,2,2,2,2,2,0,2,0,2,2
+Stephen Bloom,33,170,1,1,3,Lost,None,None,18.16,0,2,2,2,2,2,2,2,2,2,1,2,0,2,2
+Travis Schooley,33,170,1,1,3,Lost,None,None,4.51,0,2,2,2,2,2,2,2,2,2,0,2,0,2,2
+Doug Mastriano,33,170,1,1,3,Lost,None,None,15.6,0,2,2,2,2,2,2,2,2,2,0,2,0,2,2
+Bernard Washabaugh II,33,170,1,1,3,Lost,None,None,2.84,0,2,2,2,2,2,2,2,2,2,0,2,0,2,2
+Benjamin Hornberger,33,170,1,1,3,Lost,None,None,1.77,0,2,2,2,2,2,2,2,2,2,0,2,0,2,2
+Guy Reschenthaler,33,171,1,1,3,Advanced,None,On the Ballot,55.19,1,2,2,2,2,2,2,2,2,2,0,2,1,2,2
+Rick Saccone,33,171,1,1,3,Lost,None,None,44.81,0,2,2,2,2,2,2,2,1,2,1,2,0,2,2
+David Torres,33,172,1,1,3,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Bryan Leib,33,173,1,1,3,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Dan David,33,174,1,1,3,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Pearl Kim,33,175,1,1,3,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Greg McCauley,33,176,1,1,3,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Marty Nothstein,33,177,1,1,3,Advanced,None,On the Ballot,50.49,1,1,2,2,2,2,2,2,2,2,2,2,2,2,2
+Dean Browning,33,177,1,1,3,Lost,None,None,49.51,0,0,2,2,2,2,2,2,2,2,2,2,2,2,2
+John Chrin,33,178,1,1,3,Advanced,None,On the Ballot,48.47,1,1,2,2,2,2,2,2,2,2,2,2,2,2,2
+Robert Kuniegel,33,178,1,1,3,Lost,None,None,16.66,0,0,2,2,2,2,2,2,2,2,2,2,2,2,2
+Joe Peters,33,178,1,1,3,Lost,None,None,34.87,0,0,2,2,2,2,2,2,2,2,2,2,2,2,2
+Dan Meuser,33,179,1,1,3,Advanced,None,On the Ballot,52.94,1,1,2,2,2,2,2,2,2,2,2,2,2,2,1
+Scott Uehlinger,33,179,1,1,3,Lost,None,None,23.1,0,0,2,2,2,2,2,2,2,2,2,2,2,2,0
+George Halcovage,33,179,1,1,3,Lost,None,None,23.97,0,0,2,2,2,2,2,2,2,2,2,2,2,2,0
+Lou Barletta,33,238,2,1,3,Advanced,None,On the Ballot,63.03,1,2,2,2,2,2,2,2,2,1,2,2,2,2,2
+Jim Christiana,33,238,2,1,3,Lost,None,None,36.97,0,2,2,2,2,2,2,2,2,0,2,2,2,2,2
+Giovanni Feroce,34,18,0,1,16,Lost,None,None,3.5,0,2,2,2,2,2,2,0,2,2,2,2,2,2,2
+Allan Fung,34,18,0,1,16,Advanced,None,On the Ballot,56.4,1,2,2,2,2,2,2,0,2,2,2,2,2,2,2
+Patricia Morgan,34,18,0,1,16,Lost,None,None,40.1,0,2,2,2,2,2,2,1,2,2,2,2,2,2,2
+Frederick Wysocki,34,180,1,1,16,Lost,None,None,21.6,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Patrick Donovan,34,180,1,1,16,Advanced,None,On the Ballot,78.4,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Salvatore Caiozzo,34,181,1,1,16,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Roque De La Fuente,34,239,2,1,16,Lost,None,None,12.3,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Robert Flanders Jr.,34,239,2,1,16,Advanced,None,On the Ballot,87.7,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Lee Bright,35,182,1,1,6,Advanced,Lost,None,24.95,0,2,2,2,2,2,2,2,0,2,2,2,2,2,2
+William Timmons,35,182,1,1,6,Advanced,Advanced,On the Ballot,19.21,1,2,2,2,2,2,2,2,0,2,2,2,2,2,2
+Dan Hamilton,35,182,1,1,6,Lost,None,None,18.62,0,2,2,2,2,2,2,2,0,2,2,2,2,2,2
+Stephen Brown,35,182,1,1,6,Lost,None,None,7.57,0,2,2,2,2,2,2,2,0,2,2,2,2,2,2
+Mark Burns,35,182,1,1,6,Lost,None,None,2.48,0,2,2,2,2,2,2,2,0,2,2,2,2,2,2
+Barry Bell,35,182,1,1,6,Lost,None,None,0.3,0,2,2,2,2,2,2,2,0,2,2,2,2,2,2
+Josh Kimbrell,35,182,1,1,6,Lost,None,None,11.13,0,2,2,2,2,2,2,2,1,2,2,2,2,2,2
+James Epley,35,182,1,1,6,Lost,None,None,8.03,0,2,2,2,2,2,2,2,0,2,2,2,2,2,2
+Shannon Pierce,35,182,1,1,6,Lost,None,None,3.64,0,2,2,2,2,2,2,2,0,2,2,2,2,2,2
+Claude Schmid,35,182,1,1,6,Lost,None,None,2.11,0,2,2,2,2,2,2,2,0,2,2,2,2,2,2
+Dan Albert,35,182,1,1,6,Lost,None,None,0.76,0,2,2,2,2,2,2,2,0,2,2,2,2,2,2
+John Marshall Mosser,35,182,1,1,6,Lost,None,None,0.68,0,2,2,2,2,2,2,2,0,2,2,2,2,2,2
+Justin David Sanders,35,182,1,1,6,Lost,None,None,0.53,0,2,2,2,2,2,2,2,0,2,2,2,2,2,2
+Gerhard Gressmann,35,183,1,1,6,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Kristi L. Noem,36,19,0,1,8,Advanced,None,On the Ballot,56.03,1,2,2,2,2,2,2,1,2,2,2,2,2,2,2
+Marty J. Jackley,36,19,0,1,8,Lost,None,None,43.96,0,2,2,2,2,2,2,0,2,2,2,2,2,2,2
+Dusty Johnson,36,184,1,1,8,Advanced,None,On the Ballot,46.81,1,1,2,2,2,2,2,0,2,1,2,2,0,2,2
+Neal Tapio,36,184,1,1,8,Lost,None,None,23.87,0,0,2,2,2,2,2,0,2,0,2,2,0,2,2
+Shantel Krebs,36,184,1,1,8,Lost,None,None,29.34,0,1,2,2,2,2,2,1,2,0,2,2,1,2,0
+Diane Black,37,20,0,1,11,Lost,None,None,23.0,0,2,2,2,2,1,1,1,2,2,2,2,2,2,2
+Randy Boyd,37,20,0,1,11,Lost,None,None,24.4,0,2,2,2,2,0,0,0,2,2,2,2,2,2,2
+Beth Harwell,37,20,0,1,11,Lost,None,None,15.3,0,2,2,2,2,0,0,0,2,2,2,2,2,2,2
+Bill Lee,37,20,0,1,11,Advanced,None,On the Ballot,36.8,1,2,2,2,2,0,0,0,2,2,2,2,2,2,2
+Basil Marceaux,37,20,0,1,11,Lost,None,None,0.2,0,2,2,2,2,0,0,0,2,2,2,2,2,2,2
+Kay White,37,20,0,1,11,Lost,None,None,0.4,0,2,2,2,2,0,0,0,2,2,2,2,2,2,2
+Jason Emert,37,185,1,1,11,Lost,None,None,2.3,0,2,2,2,2,2,2,2,2,0,2,2,0,2,2
+Jimmy Matlock,37,185,1,1,11,Lost,None,None,36.1,0,2,2,2,2,2,2,2,2,1,2,2,0,2,2
+Tim Burchett,37,185,1,1,11,Advanced,None,On the Ballot,48.2,1,2,2,2,2,2,2,2,2,0,2,2,0,2,2
+Vito Sagliano,37,185,1,1,11,Lost,None,None,0.8,0,2,2,2,2,2,2,2,2,0,2,2,0,2,2
+Hank Hamblin,37,185,1,1,11,Lost,None,None,0.9,0,2,2,2,2,2,2,2,2,0,2,2,0,2,2
+Ashley Nickloes,37,185,1,1,11,Lost,None,None,11.0,0,2,2,2,2,2,2,2,2,0,2,2,1,2,2
+C. David Stansberry,37,185,1,1,11,Lost,None,None,0.7,0,2,2,2,2,2,2,2,2,0,2,2,0,2,2
+Glen Dean,37,186,1,1,11,Lost,None,None,44.1,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Jody Ball,37,186,1,1,11,Advanced,None,On the Ballot,55.9,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Judd Matheny,37,187,1,1,11,Lost,None,None,15.9,0,2,2,2,2,2,0,2,2,2,1,2,2,2,2
+Robert Ewing Corlew,37,187,1,1,11,Lost,None,None,31.1,0,2,2,2,2,2,1,2,2,2,0,2,2,2,2
+John Rose,37,187,1,1,11,Advanced,None,On the Ballot,41.3,1,2,2,2,2,2,0,2,2,2,0,2,2,2,2
+Christopher Monday,37,187,1,1,11,Lost,None,None,2.8,0,2,2,2,2,2,0,2,2,2,0,2,2,2,2
+"LaVern ""U-Turn LaVern"" Vivio",37,187,1,1,11,Lost,None,None,8.8,0,2,2,2,2,2,0,2,2,2,0,2,2,2,2
+Mark Green,37,188,1,1,11,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,1,2,1,2,2,2,2
+Charlotte Bergmann,37,189,1,1,11,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Marsha Blackburn,37,240,2,1,11,Advanced,None,On the Ballot,84.5,1,2,1,1,1,2,2,1,1,1,2,2,2,2,2
+Aaron Pettigrew,37,240,2,1,11,Lost,None,None,15.5,0,2,0,0,0,2,2,0,0,0,2,2,2,2,2
+Tim Westley,38,190,1,1,2,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Rick Seeberger,38,191,1,1,2,Advanced,None,On the Ballot,69.35,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Alia Garcia-Ureste,38,191,1,1,2,Lost,None,None,30.65,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Ava Pate,38,192,1,1,2,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Kevin Roberts,38,193,1,1,2,Advanced,Lost,None,33.03,0,2,2,2,2,1,2,2,2,2,2,0,2,2,2
+Daniel Crenshaw,38,193,1,1,2,Advanced,Advanced,On the Ballot,27.42,1,2,2,2,2,0,2,2,2,2,2,1,2,2,2
+David Balat,38,193,1,1,2,Lost,None,None,0.75,0,2,2,2,2,0,2,0,2,2,2,0,2,2,2
+Malcolm Whittaker,38,193,1,1,2,Lost,None,None,0.7,0,2,2,2,2,0,2,0,2,2,2,0,2,2,2
+Rick Walker,38,193,1,1,2,Lost,None,None,7.18,0,2,2,2,2,0,2,0,2,2,2,0,2,2,2
+Kathaleen Wall,38,193,1,1,2,Lost,None,None,27.08,0,2,2,2,2,0,2,1,2,2,2,0,2,2,2
+Justin Lurie,38,193,1,1,2,Lost,None,None,0.92,0,2,2,2,2,0,2,0,2,2,2,0,2,2,2
+Jon Spiers,38,193,1,1,2,Lost,None,None,0.9,0,2,2,2,2,0,2,0,2,2,2,0,2,2,2
+Jonny Havens,38,193,1,1,2,Lost,None,None,2.02,0,2,2,2,2,0,2,0,2,2,2,0,2,2,2
+Matt McCall,38,194,1,1,2,Advanced,Lost,None,16.93,0,2,2,2,2,2,0,2,0,2,0,0,2,2,0
+Chip Roy,38,194,1,1,2,Advanced,Advanced,On the Ballot,27.06,1,2,2,2,2,2,1,2,1,2,1,1,2,2,0
+Francisco Canseco,38,194,1,1,2,Lost,None,None,3.47,0,2,2,2,2,2,0,2,0,2,0,0,2,2,0
+Jason Isaac,38,194,1,1,2,Lost,None,None,10.04,0,2,2,2,2,2,0,2,0,2,0,0,2,2,0
+Susan Narvaiz,38,194,1,1,2,Lost,None,None,3.79,0,2,2,2,2,2,0,2,0,2,0,0,2,2,0
+Eric Burkhart,38,194,1,1,2,Lost,None,None,1.01,0,2,2,2,2,2,0,2,0,2,0,0,2,2,0
+Autry Pruitt,38,194,1,1,2,Lost,None,None,0.63,0,2,2,2,2,2,0,2,0,2,0,0,2,2,0
+Robert Stovall,38,194,1,1,2,Lost,None,None,4.76,0,2,2,2,2,2,0,2,0,2,0,0,2,2,0
+Ivan Andarza,38,194,1,1,2,Lost,None,None,0.13,0,2,2,2,2,2,0,2,0,2,0,0,2,2,0
+Ryan Krause,38,194,1,1,2,Lost,None,None,3.2,0,2,2,2,2,2,0,2,0,2,0,0,2,2,0
+Jenifer Sarver,38,194,1,1,2,Lost,None,None,5.61,0,2,2,2,2,2,0,2,0,2,0,0,2,2,0
+Mauro Garza,38,194,1,1,2,Lost,None,None,0.92,0,2,2,2,2,2,0,2,0,2,0,0,2,2,0
+Foster Hagen,38,194,1,1,2,Lost,None,None,0.55,0,2,2,2,2,2,0,2,0,2,0,0,2,2,0
+William Negley,38,194,1,1,2,Lost,None,None,15.55,0,2,2,2,2,2,0,2,0,2,0,0,2,2,1
+Al Poteet,38,194,1,1,2,Lost,None,None,1.81,0,2,2,2,2,2,0,2,0,2,0,0,2,2,0
+Samuel Temple,38,194,1,1,2,Lost,None,None,1.42,0,2,2,2,2,2,0,2,0,2,0,0,2,2,0
+Peggy Wardlaw,38,194,1,1,2,Lost,None,None,1.79,0,2,2,2,2,2,0,2,0,2,0,0,2,2,0
+Anthony White,38,194,1,1,2,Lost,None,None,1.33,0,2,2,2,2,2,0,2,0,2,0,0,2,2,0
+Michael Cloud,38,195,1,1,2,Advanced,Advanced,On the Ballot,33.83,1,2,2,2,2,2,2,2,1,0,1,1,2,2,2
+Bech Bruun,38,195,1,1,2,Advanced,Lost,None,36.09,0,2,2,2,2,2,2,2,0,1,0,0,2,2,2
+Chris Mapp,38,195,1,1,2,Lost,None,None,12.14,0,2,2,2,2,2,2,2,0,0,0,0,2,2,2
+John Grunwald,38,195,1,1,2,Lost,None,None,6.86,0,2,2,2,2,2,2,2,0,0,0,0,2,2,2
+Eddie Gassman,38,195,1,1,2,Lost,None,None,2.8,0,2,2,2,2,2,2,2,0,0,0,0,2,2,2
+Jerry Hall,38,195,1,1,2,Lost,None,None,8.27,0,2,2,2,2,2,2,2,0,0,0,0,2,2,2
+Phillip Aronoff,38,196,1,1,2,Advanced,Advanced,On the Ballot,38.6,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Carmen Maria Montiel,38,196,1,1,2,Advanced,Lost,None,23.58,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Robert Schafranek,38,196,1,1,2,Lost,None,None,16.73,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Jaimy Blanco,38,196,1,1,2,Lost,None,None,21.08,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Van Taylor,38,197,1,1,2,Advanced,None,On the Ballot,84.68,1,2,2,2,2,2,2,2,1,2,2,2,2,2,2
+David Niederkorn,38,197,1,1,2,Lost,None,None,9.39,0,2,2,2,2,2,2,2,0,2,2,2,2,2,2
+Alex Donkervoet,38,197,1,1,2,Lost,None,None,5.93,0,2,2,2,2,2,2,2,0,2,2,2,2,2,2
+Willie Billups,38,198,1,1,2,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Rey Gonzalez,38,199,1,1,2,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+David Smalling,38,200,1,1,2,Advanced,None,On the Ballot,53.3,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+SK Alexander,38,200,1,1,2,Lost,None,None,46.7,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Lance Gooden,38,201,1,1,2,Advanced,Advanced,On the Ballot,29.97,1,2,2,2,2,2,0,0,0,0,2,0,2,2,2
+Bunni Pounds,38,201,1,1,2,Advanced,Lost,None,21.95,0,2,2,2,2,2,1,1,1,1,2,1,2,2,2
+Charles Lingerfelt,38,201,1,1,2,Lost,None,None,1.75,0,2,2,2,2,2,0,0,0,0,2,0,2,2,2
+Kenneth Sheets,38,201,1,1,2,Lost,None,None,11.99,0,2,2,2,2,2,0,0,0,0,2,0,2,2,2
+Sam Deen,38,201,1,1,2,Lost,None,None,17.16,0,2,2,2,2,2,0,0,0,0,2,0,2,2,2
+Danny Campbell,38,201,1,1,2,Lost,None,None,3.02,0,2,2,2,2,2,0,0,0,0,2,0,2,2,2
+David Williams,38,201,1,1,2,Lost,None,None,2.73,0,2,2,2,2,2,0,0,0,0,2,0,2,2,2
+Jason Wright,38,201,1,1,2,Lost,None,None,11.42,0,2,2,2,2,2,0,0,0,0,2,0,2,2,2
+Jake Ellzey,38,202,1,1,2,Advanced,Lost,None,21.76,0,2,2,2,2,2,0,2,0,2,2,0,2,2,2
+Ronald Wright,38,202,1,1,2,Advanced,Advanced,On the Ballot,45.15,1,2,2,2,2,2,1,2,1,2,2,1,2,2,2
+Ken Cope,38,202,1,1,2,Lost,None,None,7.7,0,2,2,2,2,2,0,2,0,2,2,0,2,2,2
+Deborah Gagliardi,38,202,1,1,2,Lost,None,None,3.65,0,2,2,2,2,2,0,2,0,2,2,0,2,2,2
+Shawn Dandridge,38,202,1,1,2,Lost,None,None,1.13,0,2,2,2,2,2,0,2,0,2,2,0,2,2,2
+Mark Mitchell,38,202,1,1,2,Lost,None,None,4.68,0,2,2,2,2,2,0,2,0,2,2,0,2,2,2
+Troy Ratterree,38,202,1,1,2,Lost,None,None,4.04,0,2,2,2,2,2,0,2,0,2,2,0,2,2,2
+Mel Hassell,38,202,1,1,2,Lost,None,None,0.58,0,2,2,2,2,2,0,2,0,2,2,0,2,2,2
+Kevin Harrison,38,202,1,1,2,Lost,None,None,3.85,0,2,2,2,2,2,0,2,0,2,2,0,2,2,2
+Thomas Dillingham,38,202,1,1,2,Lost,None,None,1.18,0,2,2,2,2,2,0,2,0,2,2,0,2,2,2
+Shannon Dubberly,38,202,1,1,2,Lost,None,None,6.28,0,2,2,2,2,2,0,2,0,2,2,0,2,2,2
+Mitt Romney,39,241,2,1,7,Advanced,None,On the Ballot,71.27,1,2,1,2,2,2,2,2,2,2,2,2,2,2,2
+Mike Kennedy,39,241,2,1,7,Lost,None,None,28.73,0,2,0,2,2,2,2,2,2,2,2,2,2,2,2
+Brooke Paige,41,203,1,1,10,Advanced,None,On the Ballot,63.3,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Anya Tynio,41,203,1,1,10,Lost,None,None,36.7,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Roque De La Fuente,41,242,2,1,10,Lost,None,None,4.2,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Brooke Paige,41,242,2,1,10,Advanced,None,On the Ballot,39.6,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Jasdeep Pannu,41,242,2,1,10,Lost,None,None,18.3,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Lawrence Zupan,41,242,2,1,10,Lost,None,None,4.2,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Jeff Dove,40,204,1,1,6,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Ryan McAdams,40,205,1,1,6,Advanced,None,On the Ballot,72.57,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Shion Fenty,40,205,1,1,6,Lost,None,None,27.43,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Denver Riggleman,40,206,1,1,6,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,1,2,2,2,2,2,2
+Ben Cline,40,207,1,1,6,Advanced,None,On the Ballot,100.0,1,2,2,2,2,1,2,2,2,2,2,2,2,2,2
+Thomas Oh,40,208,1,1,6,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Corey Stewart,40,243,2,1,6,Advanced,None,On the Ballot,44.87,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+E.W. Jackson,40,243,2,1,6,Lost,None,None,11.99,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Nick Freitas,40,243,2,1,6,Lost,None,None,43.14,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Jeffrey Beeler,42,209,1,1,14,Advanced,None,On the Ballot,69.19,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Scott Stafne,42,209,1,1,14,Lost,None,None,30.81,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Joseph Brumbles,42,210,1,1,14,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Douglas Dightman,42,211,1,1,14,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Craig Keller,42,212,1,1,14,Advanced,None,On the Ballot,100.0,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Dino Rossi,42,213,1,1,14,Advanced,None,On the Ballot,92.09,1,1,2,2,2,2,2,2,1,1,2,1,1,2,2
+Jack Hughes-Hageman,42,213,1,1,14,Lost,None,None,5.34,0,0,2,2,2,2,2,2,0,0,2,0,0,2,2
+Gordon Allen Pross,42,213,1,1,14,Lost,None,None,2.57,0,0,2,2,2,2,2,2,0,0,2,0,0,2,2
+Doug Basler,42,214,1,0,14,Lost,None,None,100.0,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Joey Gibson,42,244,2,1,14,Lost,None,None,6.37,0,2,2,2,2,2,0,2,2,2,2,2,2,2,2
+Matthew Heines,42,244,2,1,14,Lost,None,None,1.38,0,2,2,2,2,2,0,2,2,2,2,2,2,2,2
+Roque De La Fuente,42,244,2,1,14,Lost,None,None,0.83,0,2,2,2,2,2,0,2,2,2,2,2,2,2,2
+Dave Bryant,42,244,2,1,14,Lost,None,None,5.54,0,2,2,2,2,2,0,2,2,2,2,2,2,2,2
+Art Coday,42,244,2,1,14,Lost,None,None,4.98,0,2,2,2,2,2,1,2,2,2,2,2,2,2,2
+GoodSpaceGuy,42,244,2,1,14,Lost,None,None,1.11,0,2,2,2,2,2,0,2,2,2,2,2,2,2,2
+Matt Hawkins,42,244,2,1,14,Lost,None,None,2.21,0,2,2,2,2,2,1,2,2,2,2,2,2,2,2
+Susan Hutchison,42,244,2,1,14,Advanced,None,On the Ballot,67.31,1,2,2,2,2,2,0,2,2,2,2,2,2,2,2
+John Orlinski,42,244,2,1,14,Lost,None,None,1.11,0,2,2,2,2,2,0,2,2,2,2,2,2,2,2
+Tim Owen,42,244,2,1,14,Lost,None,None,3.88,0,2,2,2,2,2,1,2,2,2,2,2,2,2,2
+RC Smith,42,244,2,1,14,Lost,None,None,0.28,0,2,2,2,2,2,0,2,2,2,2,2,2,2,2
+Glen Stockwell,42,244,2,1,14,Lost,None,None,1.94,0,2,2,2,2,2,0,2,2,2,2,2,2,2,2
+Keith Swank,42,244,2,1,14,Lost,None,None,6.4,0,2,2,2,2,2,1,2,2,2,2,2,2,2,2
+Carol Miller,44,215,1,1,5,Advanced,None,On the Ballot,23.81,1,2,2,2,2,2,2,1,2,2,2,2,0,2,2
+Marty Gearheart,44,215,1,1,5,Lost,None,None,18.19,0,2,2,2,2,2,2,0,2,2,2,2,0,2,2
+Rick Snuffer,44,215,1,1,5,Lost,None,None,10.64,0,2,2,2,2,2,2,0,2,2,2,2,0,2,2
+Rupie Phillips,44,215,1,1,5,Lost,None,None,19.53,0,2,2,2,2,2,2,0,2,2,2,2,0,2,2
+Ayne Amjad,44,215,1,1,5,Lost,None,None,7.46,0,2,2,2,2,2,2,0,2,2,2,2,0,2,2
+Conrad Lucas,44,215,1,1,5,Lost,None,None,18.07,0,2,2,2,2,2,2,0,2,2,2,2,1,2,2
+Philip Payton,44,215,1,1,5,Lost,None,None,2.3,0,2,2,2,2,2,2,0,2,2,2,2,0,2,2
+Patrick Morrisey,44,245,2,1,5,Advanced,None,On the Ballot,34.9,1,2,1,1,1,2,2,2,2,1,2,1,0,2,2
+Evan Jenkins,44,245,2,1,5,Lost,None,None,29.21,0,2,1,0,0,2,2,2,2,0,2,0,1,2,2
+Bo Copley,44,245,2,1,5,Lost,None,None,3.09,0,2,0,0,0,2,2,2,2,0,2,0,0,2,2
+Jack Newbrough,44,245,2,1,5,Lost,None,None,2.99,0,2,0,0,0,2,2,2,2,0,2,0,0,2,2
+Don Blankenship,44,245,2,1,5,Lost,None,None,19.97,0,2,0,0,0,2,2,2,2,0,2,0,0,2,2
+Tom Willis,44,245,2,1,5,Lost,None,None,9.84,0,2,0,0,0,2,2,2,2,0,2,0,0,2,2
+Bryan Steil,43,216,1,1,10,Advanced,None,On the Ballot,51.6,1,1,2,2,2,2,0,2,2,2,2,2,2,2,2
+Paul Nehlen,43,216,1,1,10,Lost,None,None,11.1,0,0,2,2,2,2,0,2,2,2,2,2,2,2,2
+Nick Polce,43,216,1,1,10,Lost,None,None,14.9,0,0,2,2,2,2,0,2,2,2,2,2,2,2,2
+Jeremy Ryan,43,216,1,1,10,Lost,None,None,10.4,0,0,2,2,2,2,0,2,2,2,2,2,2,2,2
+Kevin Steen,43,216,1,1,10,Lost,None,None,10.5,0,0,2,2,2,2,1,2,2,2,2,2,2,2,2
+Brad Boivin,43,216,1,1,10,Lost,None,None,1.5,0,0,2,2,2,2,0,2,2,2,2,2,2,2,2
+Steve Toft,43,217,1,1,10,Advanced,None,On the Ballot,100.0,1,1,2,2,2,2,1,2,2,2,2,2,2,2,2
+Tim Rogers,43,218,1,1,10,Advanced,None,On the Ballot,55.6,1,2,2,2,2,2,0,2,2,2,2,2,2,2,2
+Cindy Werner,43,218,1,1,10,Lost,None,None,44.4,0,2,2,2,2,2,1,2,2,2,2,2,2,2,2
+Leah Vukmir,43,246,2,1,10,Advanced,None,On the Ballot,49.0,1,2,2,0,0,1,1,2,0,2,2,2,2,2,2
+Kevin Nicholson,43,246,2,1,10,Lost,None,None,42.9,0,2,2,1,1,0,1,2,1,2,2,2,2,2,2
+Griffin Jones,43,246,2,1,10,Lost,None,None,2.0,0,2,2,0,0,0,0,2,0,2,2,2,2,2,2
+Charles Barman,43,246,2,1,10,Lost,None,None,1.8,0,2,2,0,0,0,0,2,0,2,2,2,2,2,2
+George Lucia,43,246,2,1,10,Lost,None,None,4.2,0,2,2,0,0,0,0,2,0,2,2,2,2,2,2
+Mark Gordon,45,21,0,1,12,Advanced,None,On the Ballot,33.4,1,2,0,2,2,2,0,2,2,2,2,2,2,2,2
+Bill Dahlin,45,21,0,1,12,Lost,None,None,1.5,0,2,0,2,2,2,0,2,2,2,2,2,2,2,2
+Harriet Hageman,45,21,0,1,12,Lost,None,None,21.5,0,2,0,2,2,2,1,2,2,2,2,2,2,2,2
+Sam Galeotos,45,21,0,1,12,Lost,None,None,12.5,0,2,0,2,2,2,1,2,2,2,2,2,2,2,2
+Foster Friess,45,21,0,1,12,Lost,None,None,25.6,0,2,1,2,2,2,1,2,2,2,2,2,2,2,2
+Taylor Haynes,45,21,0,1,12,Lost,None,None,5.6,0,2,0,2,2,2,1,2,2,2,2,2,2,2,2
