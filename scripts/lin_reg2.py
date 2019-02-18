@@ -9,14 +9,14 @@ print(mdf.summary())
 '''
 
 import statsmodels.api as sm
-# import statsmodels.formula.api as smf
+import statsmodels.formula.api as smf
 import pandas as pd
 from sklearn.preprocessing import LabelEncoder
 import numpy as np
 
 # drop race primary (date), candidate (name irrelevant)
 # drop_cols = ['won_primary', 'primary_status', 'general_status', 'primary_pctg', 'candidate', 'primary_runoff_status']
-drop_cols = ['primary_status', 'general_status', 'candidate', 'primary_runoff_status']
+drop_cols = ['primary_status', 'general_status', 'primary_runoff_status']
 
 # # check if there are any null values
 # print(x_dem.isnull().values.any())
@@ -26,12 +26,12 @@ drop_cols = ['primary_status', 'general_status', 'candidate', 'primary_runoff_st
 
 
 # encode data
-encode_dem_cols = ['won_primary', 'state', 'district', 'office_type', 'race_type', 'race', 'veteran', 'race_primary',
+encode_dem_cols = ['candidate', 'won_primary', 'state', 'district', 'office_type', 'race_type', 'race', 'veteran', 'race_primary',
     'lgbtq', 'elected_official', 'self_funder', 'stem', 'obama_alum', 'dem_party_support', 'emily_endorsed',
     'guns_sense_candidate', 'biden_endorsed', 'warren_endorsed', 'sanders_endorsed', 'our_revolution_endorsed',
     'justice_dems_endorsed', 'pccc_endorsed', 'indivisible_endorsed', 'wfp_endorsed', 'votevets_endorsed', 'no_labels_support']
 
-encode_rep_cols = ['won_primary', 'state', 'district', 'office_type', 'race_type', 'race_primary_election_date',
+encode_rep_cols = ['candidate', 'won_primary', 'state', 'district', 'office_type', 'race_type', 'race_primary_election_date',
     'rep_party_support', 'trump_endorsed', 'bannon_endorsed', 'great_america_endorsed', 'nra_endorsed',
     'right_to_life_endorsed', 'susan_b_anthony_endorsed', 'club_for_growth_endorsed', 'koch_support', 'house_freedom_support',
     'tea_party_endorsed', 'main_street_endorsed','chamber_endorsed', 'no_labels_support']
@@ -39,7 +39,6 @@ encode_rep_cols = ['won_primary', 'state', 'district', 'office_type', 'race_type
 
 dem_df = pd.read_csv('data/dem_candidates.csv', encoding="ISO-8859-1").dropna(subset=['primary_pctg'])
 rep_df = pd.read_csv('data/rep_candidates.csv', encoding="ISO-8859-1").dropna(subset=['primary_pctg'])
-
 
 label_encoder = LabelEncoder()
 
@@ -71,11 +70,15 @@ y_rep_won_primary = rep_df_enc['won_primary']
 # np.column_stack([y_dem,y_dem[:,-1]])
 # print(y_dem.shape, x_dem.shape)
 
-print(dem_df_enc)
-model = sm.MixedLM("primary_pctg ~ state", dem_df_enc.astype(float), groups=dem_df_enc["won_primary"]).fit()
-model = sm.OLS(y_dem, x_dem).fit()
-print(model.predict())
+print(len(dem_df_enc["won_primary"]))
+print(dem_df_enc[['won_primary', 'veteran', 'state', 'candidate']])
+# print(len(dem_df_enc.veteran))
+# print(len(dem_df_enc.candidate))
 
+# print(dem_df_enc)
+model = smf.MixedLM("won_primary ~ veteran", dem_df_enc[['won_primary', 'veteran', 'state', 'candidate']], groups=dem_df_enc["candidate"]).fit()
+# model = sm.OLS(dem_df_enc["won_primary"], dem_df_enc["veteran"]).fit()
+# print(model.predict())
 
 '''
 
