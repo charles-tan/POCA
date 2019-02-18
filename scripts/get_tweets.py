@@ -66,7 +66,6 @@ for i, r in dem_df.iterrows():
         out = subprocess.call(bashCommand.split())
 
         print("output: ", out)
-
         # username;date;retweets;favorites;text;geo;mentions;hashtags;id;permalink
         output_tweets = pd.read_csv('./output_got.csv', sep = ';', header = 'infer', encoding="ISO-8859-1")
         print(output_tweets)

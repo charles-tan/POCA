@@ -3,11 +3,12 @@ import numpy as np
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.datasets import make_regression
 
-dem_df = pd.read_csv('data/encoded_dem_data.csv', encoding="ISO-8859-1").dropna(subset=['primary_pctg'])
-rep_df = pd.read_csv('data/encoded_rep_data.csv', encoding="ISO-8859-1").dropna(subset=['primary_pctg'])
+dem_df = pd.read_csv('../data/dem_num_endorsements.csv', encoding="ISO-8859-1").dropna(subset=['primary_pctg'])
+rep_df = pd.read_csv('../data/rep_num_endorsements.csv', encoding="ISO-8859-1").dropna(subset=['primary_pctg'])
 
 # drop race primary (date), candidate (name irrelevant)
-drop_cols = ['won_primary', 'primary_status', 'general_status', 'primary_pctg', 'candidate', 'primary_runoff_status']
+drop_cols = ['won_primary', 'primary_status', 'general_status', 'primary_pctg', 'candidate', 'primary_runoff_status', 
+'num_non_endorsements', 'num_endorsements']
 def run_random_forest(df):
     msk = np.random.rand(len(df)) < 0.8
     train = df[msk]
@@ -30,7 +31,6 @@ def run_random_forest(df):
     regr.score(test_x, test_y)
     feature_importances = pd.DataFrame(regr.feature_importances_, index = train_x.columns, columns=['importance']).sort_values('importance',ascending=False)
     print(feature_importances)
-
 
 print("REPUBLICAN: ")
 run_random_forest(rep_df)

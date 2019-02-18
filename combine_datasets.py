@@ -1,7 +1,7 @@
 import pandas as pd
 
-dem_df = pd.read_csv('data/dem_candidates.csv', encoding="ISO-8859-1").dropna(subset=['primary_pctg'])
-rep_df = pd.read_csv('data/rep_candidates.csv', encoding="ISO-8859-1").dropna(subset=['primary_pctg'])
+dem_df = pd.read_csv('data/encoded_dem_data.csv', encoding="ISO-8859-1").dropna(subset=['primary_pctg'])
+rep_df = pd.read_csv('data/encoded_rep_data.csv', encoding="ISO-8859-1").dropna(subset=['primary_pctg'])
 
 dem_endorsements = ['obama_alum','dem_party_support','emily_endorsed','guns_sense_candidate','biden_endorsed',
     'warren_endorsed','sanders_endorsed','our_revolution_endorsed','justice_dems_endorsed','pccc_endorsed', 
@@ -28,9 +28,9 @@ def add_endorsements(df, endorsement_cols):
         num_e = 0
         num_non_e = 0
         for e in endorsement_cols:
-            if r[e] == "Yes":
+            if r[e] == 1:
                 num_e += 1
-            elif r[e] == "No":
+            elif r[e] == 0:
                 num_non_e += 1
 
         num_e_col.append(num_e)
@@ -46,6 +46,3 @@ dem_df.to_csv('data/dem_num_endorsements.csv', index=False)
 
 rep_df = add_endorsements(rep_df, rep_endorsements)
 rep_df.to_csv('data/rep_num_endorsements.csv', index=False)
-
-
-
