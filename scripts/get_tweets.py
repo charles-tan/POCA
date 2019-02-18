@@ -1,5 +1,6 @@
 import pandas as pd
 import subprocess
+import re
 
 
 dem_df = pd.read_csv('~/POCA/data/dem_candidates.csv')
@@ -12,6 +13,9 @@ i = 0
 # def remove_link(word):
 
 def remove_non_ascii(s): return "".join(i for i in s if ord(i)<128)
+
+def remove_weird_characters(s):
+    return re.sub('[^A-Za-z0-9\:\.\/\@\#\!\?\-\_\*]\w+', '', s)
 
 def get_media_link(word):
     if 'pic.twitter' in word:
@@ -31,44 +35,57 @@ def strip_tweet(tweet):
     mentions = []
     media = set()
 
+    hashtag_check = False
+    mention_check = False
     for i in range(len(s)):
         if s[i] == "@" and i < len(s) - 1:
             link, stripped_word = get_media_link(s[i + 1])
-            media.add(link)
+            if link:
+                media.add(link)
 
             mentions.append("@" + stripped_word)
+            mention_check = True
 
         elif s[i] == "#" and i < len(s) - 1:
             link, stripped_word = get_media_link(s[i + 1])
-            media.add(link)
+            if link:
+                media.add(link)
 
             hashtags.append("#" + stripped_word)
+            hashtag_check = True
         else:
             link, stripped_word = get_media_link(s[i])
             if link:
                 media.add(link)
 
-            stripped.append(stripped_word)
+            if mention_check:
+                mention_check = False
+                stripped.append("@" + stripped_word)
+            elif hashtag_check:
+                hashtag_check = False
+                stripped.append("#" + stripped_word)
+            else:
+                stripped.append(stripped_word)
             
     return " ".join(stripped), hashtags, mentions, media
 
 
 for i, r in dem_df.iterrows():
-    if i == 6:
+    if i == 2:
         break
 
     twitter_handle = r['twitter_handle']
     if type(twitter_handle) == str:
-        start_date = "2018-11-01"
+        start_date = "2017-11-06"
         end_date = "2018-11-06"
         print("------- Getting tweets from {} to {} by {} -------".format(start_date, end_date, twitter_handle))
         bashCommand = "python3 /Users/katieta/GetOldTweets-python/Exporter.py --username {} --since {} --until {}".format(twitter_handle, start_date, end_date)
         out = subprocess.call(bashCommand.split())
 
         print("output: ", out)
-        # username;date;retweets;favorites;text;geo;mentions;hashtags;id;permalink
-        output_tweets = pd.read_csv('./output_got.csv', sep = ';', header = 'infer', encoding="ISO-8859-1")
-        print(output_tweets)
+
+        output_tweets = pd.read_csv('./output_got.csv', sep = ';', header = 'infer', encoding="ISO-8859-1", quotechar='"', error_bad_lines=False)
+        # print(output_tweets)
 
         for i2, r2 in output_tweets.iterrows():
             stripped, hashtags, mentions, media = strip_tweet(r2['text'])
