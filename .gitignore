@@ -1,1 +1,14 @@
+data/dem_tweets_full.csv
+data/dem_tweets.csv
+data/*
+data/tweet_data/*
 .DS_Store
+*.gensim.*
+*.gensim
+*.id2word
+*.pkl
+*.state
+*.npy
+.ipynb_checkpoints
+*_tweets.csv
+*_tweets_cleaned.csv
