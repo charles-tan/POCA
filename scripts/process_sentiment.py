@@ -5,7 +5,7 @@ import csv
 negative = {}
 neutral = {}
 positive = {}
-with open('../data/sa_all_tweets_post.csv', 'r') as pred_results:
+with open('../data/tweet_data/sa_all_tweets_post.csv', 'r') as pred_results:
     reader = csv.reader(pred_results)
     for i, line in enumerate(reader):
         if i == 0:

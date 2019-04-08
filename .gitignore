@@ -2,6 +2,7 @@ data/dem_tweets_full.csv
 data/dem_tweets.csv
 data/election-context-2018.csv
 data/tweet_data/*
+env
 .DS_Store
 *.gensim.*
 *.gensim

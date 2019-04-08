@@ -1,0 +1,782 @@
+candidate,twitter_handle,twitter_handle2,state,district,office_type,race_type,race_primary_election_date,primary_status,primary_runoff_status,general_status,primary_pctg,won_primary,rep_party_support,trump_endorsed,bannon_endorsed,great_america_endorsed,nra_endorsed,right_to_life_endorsed,susan_b_anthony_endorsed,club_for_growth_endorsed,koch_support,house_freedom_support,tea_party_endorsed,main_street_endorsed,chamber_endorsed,no_labels_support,count_negative,count_neutral,count_positive,sentiment
+Mike Dunleavy,GovDunleavy,,AK,Governor of Alaska,Governor,Regular,8/21/18,Advanced,None,On the Ballot,61.8,Yes,,,,,,,,,,,,,,,0,0,0,
+Michael Sheldon,ElectSheldon18,,AK,Governor of Alaska,Governor,Regular,8/21/18,Lost,None,None,2.2,No,,,,,,,,,,,,,,,3,3,48,3.6666666666666665
+Mead Treadwell,Mead_Treadwell,MeadTreadwell,AK,Governor of Alaska,Governor,Regular,8/21/18,Lost,None,None,31.9,No,,,,,,,,,,,,,,,0,0,1,4.0
+Darin Colbry,,,AK,Governor of Alaska,Governor,Regular,8/21/18,Lost,None,None,0.6,No,,,,,,,,,,,,,,,,,,
+Thomas Gordon,,,AK,Governor of Alaska,Governor,Regular,8/21/18,Lost,None,None,1.3,No,,,,,,,,,,,,,,,,,,
+Merica Hlatcu,mhlatcu,,AK,Governor of Alaska,Governor,Regular,8/21/18,Lost,None,None,1.5,No,,,,,,,,,,,,,,,0,0,0,
+Gerald Heikes,,,AK,Governor of Alaska,Governor,Regular,8/21/18,Lost,None,None,0.7,No,,,,,,,,,,,,,,,,,,
+Steve Smith,senstevesmith,,AZ,U.S. House Arizona District 1,Representative,Regular,8/28/18,Lost,None,None,37.8,No,Yes,,,,,,,Yes,,,Yes,,,,6,17,163,3.6881720430107525
+Wendy Rogers,WendyRogersAZ,,AZ,U.S. House Arizona District 1,Representative,Regular,8/28/18,Advanced,None,On the Ballot,43.4,Yes,Yes,,,,,,,No,,,No,,,,117,118,507,3.0512129380053907
+Tiffany Shedd,Tiffany_Shedd,,AZ,U.S. House Arizona District 1,Representative,Regular,8/28/18,Lost,None,None,18.8,No,Yes,,,,,,,No,,,No,,,,35,47,310,3.4030612244897958
+Lea Marquez Peterson,LeaPeterson,,AZ,U.S. House Arizona District 2,Representative,Regular,8/28/18,Advanced,None,On the Ballot,33.6,Yes,Yes,,,,,,,,Yes,,,,,,22,19,238,3.5483870967741935
+Casey Welch,CaseyBWelch,,AZ,U.S. House Arizona District 2,Representative,Regular,8/28/18,Lost,None,None,21.4,No,No,,,,,,,,No,,,,,,6,7,15,2.642857142857143
+Danny Morales,dannydjmorales,,AZ,U.S. House Arizona District 2,Representative,Regular,8/28/18,Lost,None,None,15.9,No,No,,,,,,,,No,,,,,,453,389,815,2.4369342184671092
+Brandon Martin,PathForFreedom,,AZ,U.S. House Arizona District 2,Representative,Regular,8/28/18,Lost,None,None,29.1,No,No,,,,,,,,No,,,,,,19,25,83,3.0078740157480315
+Edna San Miguel,EdnaSanMiguel2,,AZ,U.S. House Arizona District 3,Representative,Regular,8/28/18,Lost,None,None,21.4,No,,,,,,,,,,,,,,,6,6,13,2.56
+Sergio Arellano,sergio5941,,AZ,U.S. House Arizona District 3,Representative,Regular,8/28/18,Lost,None,None,27.3,No,,,,,,,,,,,,,,,77,55,185,2.6813880126182967
+Nicolas Pierson,PiersonCongress,,AZ,U.S. House Arizona District 3,Representative,Regular,8/28/18,Advanced,None,On the Ballot,51.4,Yes,,,,,,,,,,,,,,,0,0,0,
+Debbie Lesko,DebbieLesko,,AZ,U.S. House Arizona District 8,Representative,Special,2/27/18,Advanced,None,On the Ballot,35.77,Yes,,,,,,,Yes,,Yes,Yes,,,,,53,59,429,3.3900184842883547
+Debbie Lesko,RepDLesko,,AZ,U.S. House Arizona District 8,Representative,Special,2/27/18,Advanced,None,On the Ballot,35.77,Yes,,,,,,,Yes,,Yes,Yes,,,,,42,55,270,3.242506811989101
+Bob Stump,BobStumpAZ,,AZ,U.S. House Arizona District 8,Representative,Special,2/27/18,Lost,None,None,5.37,No,,,,,,,No,,No,No,,,,,31,25,86,2.7746478873239435
+Bob Stump,BobStump,,AZ,U.S. House Arizona District 8,Representative,Special,2/27/18,Lost,None,None,5.37,No,,,,,,,No,,No,No,,,,,0,0,0,
+Clair Van Steenwyk,ClairVanSteenwy,,AZ,U.S. House Arizona District 8,Representative,Special,2/27/18,Lost,None,None,2.37,No,,,,,,,No,,No,No,,,,,0,0,0,
+Phil Lovas,PhilLovas,,AZ,U.S. House Arizona District 8,Representative,Special,2/27/18,Lost,None,None,23.88,No,,,,,,,No,,No,No,,,,,6,3,75,3.642857142857143
+Richard Mack,SheriffMack,,AZ,U.S. House Arizona District 8,Representative,Special,2/27/18,Lost,None,None,1.42,No,,,,,,,No,,No,No,,,,,0,0,0,
+Stephen Dolgos,stephendolgos,,AZ,U.S. House Arizona District 8,Representative,Special,2/27/18,Lost,None,None,0.48,No,,,,,,,No,,No,No,,,,,3,5,17,3.12
+Steve Montenegro,SteveMontenegro,,AZ,U.S. House Arizona District 8,Representative,Special,2/27/18,Lost,None,None,23.82,No,,,,,,,No,,No,No,,,,,7,9,43,3.2203389830508473
+Christopher Sylvester,,,AZ,U.S. House Arizona District 8,Representative,Special,2/27/18,Lost,None,None,1.92,No,,,,,,,No,,No,No,,,,,,,,
+David Lien,,,AZ,U.S. House Arizona District 8,Representative,Special,2/27/18,Lost,None,None,1.77,No,,,,,,,No,,No,No,,,,,,,,
+Chad Allen,AllenForArizona,,AZ,U.S. House Arizona District 8,Representative,Special,2/27/18,Lost,None,None,1.05,No,,,,,,,No,,No,No,,,,,0,0,0,
+Brenden Dilley,,,AZ,U.S. House Arizona District 8,Representative,Special,2/27/18,Lost,None,None,1.03,No,,,,,,,No,,No,No,,,,,,,,
+Mark Yates,dry8s,,AZ,U.S. House Arizona District 8,Representative,Special,2/27/18,Lost,None,None,1.12,No,,,,,,,No,,No,No,,,,,19,13,36,2.5
+Dave Giles,VoteGiles,,AZ,U.S. House Arizona District 9,Representative,Regular,8/28/18,Lost,None,None,33.3,No,No,,,,,,,,,,,,,,31,30,149,3.123809523809524
+Steve Ferrara,steveferraramd,,AZ,U.S. House Arizona District 9,Representative,Regular,8/28/18,Advanced,None,On the Ballot,58.9,Yes,Yes,,,,,,,,,,,,,,27,14,288,3.5866261398176293
+Irina Baroness Von Behr,von_behr,,AZ,U.S. House Arizona District 9,Representative,Regular,8/28/18,Lost,None,None,7.8,No,No,,,,,,,,,,,,,,17,17,41,2.64
+Joe Arpaio,RealSheriffJoe,,AZ,U.S. Senate Arizona,Senator,Regular,8/28/18,Lost,None,None,18.9,No,,,No,No,,,,,No,,,,,,70,108,231,2.7872860635696823
+Kelli Ward,kelliwardaz,,AZ,U.S. Senate Arizona,Senator,Regular,8/28/18,Lost,None,None,28.1,No,,,Yes,Yes,,,,,No,,,,,,136,171,487,2.884130982367758
+Martha McSally,MarthaMcSally,,AZ,U.S. Senate Arizona,Senator,Regular,8/28/18,Advanced,None,On the Ballot,53,Yes,,,No,No,,,,,Yes,,,,,,97,94,380,2.991243432574431
+John Cox,TheRealJohnHCox,,CA,Governor of California,Governor,Regular,6/5/18,Advanced,None,On the Ballot,70.15,Yes,,Yes,,,,Yes,,,,,,,,,200,148,414,2.561679790026247
+Peter Yuan Liu,PeterLiuCAGov18,,CA,Governor of California,Governor,Regular,6/5/18,Lost,None,None,1.08,No,,No,,,,No,,,,,,,,,18,11,24,2.2264150943396226
+Robert Newman,michaelp594,,CA,Governor of California,Governor,Regular,6/5/18,Lost,None,None,1.77,No,,No,,,,No,,,,,,,,,0,0,0,
+Travis Allen,JoinTravisAllen,,CA,Governor of California,Governor,Regular,6/5/18,Lost,None,None,26.15,No,,No,,,,No,,,,,,,,,97,64,84,1.8938775510204082
+Yvonne Girard,,,CA,Governor of California,Governor,Regular,6/5/18,Lost,None,None,0.85,No,,No,,,,No,,,,,,,,,,,,
+John Fitzgerald,JFitz4Congress,,CA,U.S. House California District 11,Representative,Regular,6/5/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,,,,,,,59,48,47,1.844155844155844
+Lisa Remmer,1776NotInVain,,CA,U.S. House California District 12,Representative,Regular,6/5/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,,,,,,,41,31,63,2.325925925925926
+Cristina Osmena,CristinaOsmena,,CA,U.S. House California District 14,Representative,Regular,6/5/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,,,,,,,27,16,70,2.7610619469026547
+Rudy Peters,PetersCongress,,CA,U.S. House California District 15,Representative,Regular,6/5/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,,,,,,,182,91,145,1.8229665071770336
+Elizabeth Heng,ElizabethHeng,,CA,U.S. House California District 16,Representative,Regular,6/5/18,Advanced,None,On the Ballot,100,Yes,Yes,,,,,,,,,,,,,,55,36,168,2.8725868725868726
+Ron Cohen,,,CA,U.S. House California District 17,Representative,Regular,6/5/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,,,,,,,,,,
+Christine Russell,,,CA,U.S. House California District 18,Representative,Regular,6/5/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,,,,,,,,,,
+Dale Mensing,MensingDale,,CA,U.S. House California District 2,Representative,Regular,6/5/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,,,,,,,3,3,2,1.75
+Justin Fareed,JustinFareed,,CA,U.S. House California District 24,Representative,Regular,6/5/18,Advanced,None,On the Ballot,78.37,Yes,Yes,,,,Yes,,,,,,,,,,209,174,339,2.3601108033241
+Michael Erin Woody,MichaelWoodyCA,,CA,U.S. House California District 24,Representative,Regular,6/5/18,Lost,None,None,21.63,No,No,,,,No,,,,,,,,,,24,5,45,2.5675675675675675
+Antonio Sabato Jr.,AntonioSabatoJr,,CA,U.S. House California District 26,Representative,Regular,6/5/18,Advanced,None,On the Ballot,53.04,Yes,,,,,,,,,,,,,,,265,267,1169,3.062904174015285
+Jeffrey Burum,JeffreyBurum,,CA,U.S. House California District 26,Representative,Regular,6/5/18,Lost,None,None,46.96,No,,,,,,,,,,,Yes,,,,227,490,478,2.420083682008368
+Johnny Nalbandian,Johnny_Congress,,CA,U.S. House California District 28,Representative,Regular,6/5/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,,,,,,,157,204,654,2.9793103448275864
+Benito Bernal,Benny4Congress,,CA,U.S. House California District 29,Representative,Regular,6/5/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,,,,,,,0,0,0,
+Charlie Schaupp,CharlieSchaupp,,CA,U.S. House California District 3,Representative,Regular,6/5/18,Advanced,None,On the Ballot,100,Yes,,,,,,Yes,,,,,,,,,10,5,20,2.5714285714285716
+Mark Reed,MarkReed1776,,CA,U.S. House California District 30,Representative,Regular,6/5/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,,,,,,,59,56,113,2.473684210526316
+Sean Flynn,SeanFlynnCA,,CA,U.S. House California District 31,Representative,Regular,6/5/18,Advanced,None,On the Ballot,100,Yes,Yes,,,,,,,,,,,,,,38,34,202,3.197080291970803
+Kenneth Wright,drwright4congr1,,CA,U.S. House California District 33,Representative,Regular,6/5/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,,,,,,,0,0,0,
+Ron Bassilian,Ron4California,,CA,U.S. House California District 34,Representative,Regular,6/5/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,,,,,,,1902,1796,2013,2.0388723516021714
+Christian Valiente,CLVALIENTE4,,CA,U.S. House California District 35,Representative,Regular,6/5/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,,,,,,,15,18,85,3.1864406779661016
+Kimberlin Brown Pelzer,KimberlinBrown,,CA,U.S. House California District 36,Representative,Regular,6/5/18,Advanced,None,On the Ballot,51.61,Yes,Yes,,,,,,Yes,,,,,,,,46,23,274,3.3294460641399417
+Stephan Wolkowicz,,,CA,U.S. House California District 36,Representative,Regular,6/5/18,Lost,None,None,10.41,No,No,,,,,,No,,,,,,,,,,,
+Dan Ball,DanNewsManBall,,CA,U.S. House California District 36,Representative,Regular,6/5/18,Lost,None,None,17.39,No,No,,,,,,No,,,,,,,,32,34,175,3.1867219917012446
+Doug Hassett,1doughassett,,CA,U.S. House California District 36,Representative,Regular,6/5/18,Lost,None,None,11.21,No,No,,,,,,No,,,,,,,,49,37,192,3.028776978417266
+Robert Bentley,,,CA,U.S. House California District 36,Representative,Regular,6/5/18,Lost,None,None,9.38,No,No,,,,,,No,,,,,,,,,,,
+Ryan Downing,RyanDowning2018,,CA,U.S. House California District 38,Representative,Regular,6/5/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,,,,,,,11,16,47,2.972972972972973
+Young Kim,YoungKimCD39,,CA,U.S. House California District 39,Representative,Regular,6/5/18,Advanced,None,On the Ballot,39.79,Yes,Yes,,,,,,Yes,,,,Yes,Yes,,,15,14,163,3.5416666666666665
+Bob Huff,bobhuff99,,CA,U.S. House California District 39,Representative,Regular,6/5/18,Lost,None,None,11.53,No,No,,,,,,No,,,,No,No,,,10,3,19,2.5625
+John Cullum,Cullum4Congress,,CA,U.S. House California District 39,Representative,Regular,6/5/18,Lost,None,None,2.24,No,No,,,,,,No,,,,No,No,,,0,0,4,4.0
+Phil Liberatore,Phil_Liberatore,,CA,U.S. House California District 39,Representative,Regular,6/5/18,Lost,None,None,21.22,No,No,,,,,,No,,,,No,No,,,26,11,70,2.822429906542056
+Shawn Nelson,NelsonforOC,,CA,U.S. House California District 39,Representative,Regular,6/5/18,Lost,None,None,12.45,No,Yes,,,,,,No,,,,No,No,,,4,11,60,3.493333333333333
+Andrew Sarega,AndrewSarega,,CA,U.S. House California District 39,Representative,Regular,6/5/18,Lost,None,None,1.05,No,No,,,,,,No,,,,No,No,,,52,16,29,1.5257731958762886
+Steve Vargas,VoteVargas,,CA,U.S. House California District 39,Representative,Regular,6/5/18,Lost,None,None,5.29,No,No,,,,,,No,,,,No,No,,,1,2,11,3.4285714285714284
+Aja Smith,AjaforCongress,,CA,U.S. House California District 41,Representative,Regular,6/5/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,,,,,,,248,166,583,2.6720160481444335
+Omar Navarro,RealOmarNavarro,,CA,U.S. House California District 43,Representative,Regular,6/5/18,Advanced,None,On the Ballot,56.02,Yes,,,,,,,,,,,,,,,295,313,595,2.4987531172069826
+Frank DeMartini,frankdemartini,,CA,U.S. House California District 43,Representative,Regular,6/5/18,Lost,None,None,27.54,No,,,,,,,,,,,,,,,202,199,478,2.627986348122867
+Edwin Duterte,DuterteCA,,CA,U.S. House California District 43,Representative,Regular,6/5/18,Lost,None,None,16.44,No,,,,,,,,,,,,,,,323,269,581,2.4398976982097187
+Jazmina Saavedra,jazminasaavedra,,CA,U.S. House California District 44,Representative,Regular,6/5/18,Lost,None,None,58.53,No,,,,,,,,,,,,,,,144,142,431,2.800557880055788
+Stacey Dash,staceydash,,CA,U.S. House California District 44,Representative,Regular,6/5/18,Lost,None,None,41.47,No,,,,,,,,,,,,,,,569,597,1122,2.4833916083916083
+Russell Lambert,,,CA,U.S. House California District 46,Representative,Regular,6/5/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,,,,,,,,,,
+John Briscoe,johnfbriscoe,,CA,U.S. House California District 47,Representative,Regular,6/5/18,Advanced,None,On the Ballot,54.48,Yes,,,,,,,,,,,,,,,0,0,0,
+David Clifford,,,CA,U.S. House California District 47,Representative,Regular,6/5/18,Lost,None,None,45.52,No,,,,,,,,,,,,,,,,,,
+Diane Harkey,diane_harkey,,CA,U.S. House California District 49,Representative,Regular,6/5/18,Advanced,None,On the Ballot,52.93,Yes,Yes,,,,,,,,,,Yes,,,,16,12,36,2.625
+Kristin Gaspar,KristinDGaspar,,CA,U.S. House California District 49,Representative,Regular,6/5/18,Lost,None,None,18.34,No,Yes,,,,,,,,,,No,,,,26,14,142,3.2747252747252746
+Rocky ChÃÃvez,RockyChavez4CA,,CA,U.S. House California District 49,Representative,Regular,6/5/18,Lost,None,None,15.66,No,Yes,,,,,,,,,,No,,,,0,0,0,
+Joshua Schoonover,JSSchoonover,,CA,U.S. House California District 49,Representative,Regular,6/5/18,Lost,None,None,1.55,No,No,,,,,,,,,,No,,,,0,0,0,
+Brian Maryott,brianlmaryott,,CA,U.S. House California District 49,Representative,Regular,6/5/18,Lost,None,None,6.26,No,No,,,,,,,,,,No,,,,20,15,30,2.3076923076923075
+Craig Nordal,nordal4congress,,CA,U.S. House California District 49,Representative,Regular,6/5/18,Lost,None,None,1.31,No,No,,,,,,,,,,No,,,,5,2,28,3.3142857142857145
+David Medway,drdavidmedway,,CA,U.S. House California District 49,Representative,Regular,6/5/18,Lost,None,None,1.22,No,No,,,,,,,,,,No,,,,5,4,17,2.923076923076923
+Mike Schmitt,DrMikeSchmitt,,CA,U.S. House California District 49,Representative,Regular,6/5/18,Lost,None,None,2.72,No,No,,,,,,,,,,No,,,,33,34,61,2.4375
+Juan Hidalgo,HidalgoFor51st,,CA,U.S. House California District 51,Representative,Regular,6/5/18,Advanced,None,On the Ballot,49.39,Yes,,,,,,,,,,,,,,,0,0,0,
+Louis Fuentes,,,CA,U.S. House California District 51,Representative,Regular,6/5/18,Lost,None,None,53.9,No,,,,,,,,,,,,,,,,,,
+John Renison Jr.,,,CA,U.S. House California District 51,Representative,Regular,6/5/18,Lost,None,None,45.22,No,,,,,,,,,,,,,,,,,,
+Omar Qudrat,omarqudrat1,,CA,U.S. House California District 52,Representative,Regular,6/5/18,Advanced,None,On the Ballot,37.28,Yes,No,,,,,,,,,,,,,,67,33,72,2.058139534883721
+James Veltmeyer,veltmeyer53rd,,CA,U.S. House California District 52,Representative,Regular,6/5/18,Lost,None,None,27.81,No,No,,,,,,,,,,,,,,0,0,0,
+John Horst,,,CA,U.S. House California District 52,Representative,Regular,6/5/18,Lost,None,None,8.25,No,No,,,,,,,,,,,,,,,,,
+Danny Casara,,,CA,U.S. House California District 52,Representative,Regular,6/5/18,Lost,None,None,11.2,No,No,,,,,,,,,,,,,,,,,
+Michael Allman,realMikeAllman,,CA,U.S. House California District 52,Representative,Regular,6/5/18,Lost,None,None,9.57,No,Yes,,,,,,,,,,,,,,49,68,445,3.409252669039146
+Jeff Cullen,,,CA,U.S. House California District 52,Representative,Regular,6/5/18,Lost,None,None,5.88,No,No,,,,,,,,,,,,,,,,,
+Morgan Murtaugh,morganmurtaugh,,CA,U.S. House California District 53,Representative,Regular,6/5/18,Advanced,None,On the Ballot,42.73,Yes,,,,,,,,,,,,,,,99,96,392,2.9982964224872233
+Matt Mendoza,,,CA,U.S. House California District 53,Representative,Regular,6/5/18,Lost,None,None,40.43,No,,,,,,,,,,,,,,,,,,
+Brett Goda,,,CA,U.S. House California District 53,Representative,Regular,6/5/18,Lost,None,None,5.93,No,,,,,,,,,,,,,,,,,,
+Shawn Gino Kane,,,CA,U.S. House California District 53,Representative,Regular,6/5/18,Lost,None,None,10.91,No,,,,,,,,,,,,,,,,,,
+Andrew Grant,AndrewFGrant,,CA,U.S. House California District 7,Representative,Regular,6/5/18,Advanced,None,On the Ballot,69.15,Yes,Yes,,,,,,,,,,,,Yes,,141,88,291,2.576923076923077
+Yona Barash,DrYonaBarash,,CA,U.S. House California District 7,Representative,Regular,6/5/18,Lost,None,None,30.85,No,No,,,,,,,,,,,,No,,26,15,42,2.3855421686746987
+Marla Livengood,marlalivengood,,CA,U.S. House California District 9,Representative,Regular,6/5/18,Advanced,None,On the Ballot,100,Yes,,,,,,Yes,,,,,,,,,7,9,94,3.581818181818182
+Jerry Laws,,,CA,U.S. Senate California,Senator,Regular,6/5/18,Lost,None,None,3.04,No,,,,,,No,,,,,,,,,,,,
+Kevin Mottus,Kevin_Mottus,,CA,U.S. Senate California,Senator,Regular,6/5/18,Lost,None,None,3.94,No,,,,,,No,,,,,,,,,63,36,50,1.825503355704698
+Roque De La Fuente,JoinRocky,,CA,U.S. Senate California,Senator,Regular,6/5/18,Lost,None,None,6.11,No,,,,,,No,,,,,,,,,0,0,0,
+Tom Palzer,tom_palzer,TomPazer,CA,U.S. Senate California,Senator,Regular,6/5/18,Lost,None,None,9.26,No,,,,,,No,,,,,,,,,0,0,0,
+Patrick Little,,,CA,U.S. Senate California,Senator,Regular,6/5/18,Lost,None,None,4.06,No,,,,,,No,,,,,,,,,,,,
+Erin Cruz,RealErinCruz,,CA,U.S. Senate California,Senator,Regular,6/5/18,Lost,None,None,12.06,No,,,,,,No,,,,,,,,,2131,1908,5213,2.666234327712927
+Mario Nabliba,ForSenate1,,CA,U.S. Senate California,Senator,Regular,6/5/18,Lost,None,None,1.77,No,,,,,,No,,,,,,,,,1,3,9,3.230769230769231
+Paul Taylor,,,CA,U.S. Senate California,Senator,Regular,6/5/18,Lost,None,None,14.59,No,,,,,,Yes,,,,,,,,,,,,
+Arun Bhumitra,IAmArunBhumitra,ArunKBhumitra,CA,U.S. Senate California,Senator,Regular,6/5/18,Lost,None,None,15.82,No,,,,,,No,,,,,,,,,0,1,0,2.0
+James Bradley,JamesBradleyMBA,,CA,U.S. Senate California,Senator,Regular,6/5/18,Lost,None,None,25.08,No,,,,,,No,,,,,,,,,249,228,452,2.43702906350915
+John Crew,,,CA,U.S. Senate California,Senator,Regular,6/5/18,Lost,None,None,4.24,No,,,,,,No,,,,,,,,,,,,
+Walker Stapleton,WalkerStapleton,,CO,Governor of Colorado,Governor,Regular,6/26/18,Advanced,None,On the Ballot,47.67,Yes,,,,,,,,,,,,,,,38,44,189,3.114391143911439
+Greg Lopez,Lopez4Governor,,CO,Governor of Colorado,Governor,Regular,6/26/18,Lost,None,None,13.2,No,,,,,,,,,,,,,,,11,32,212,3.5764705882352943
+Victor Mitchell,_VictorMitchell,,CO,Governor of Colorado,Governor,Regular,6/26/18,Lost,None,None,30.12,No,,,,,,,,,,,,,,,58,57,102,2.4055299539170507
+Doug Robinson,DougRobinsonCO,,CO,Governor of Colorado,Governor,Regular,6/26/18,Lost,None,None,9.01,No,,,,,,,,,,,,,,,28,18,53,2.505050505050505
+Casper Stockham,Casper4Colorado,,CO,U.S. House Colorado District 1,Representative,Regular,6/26/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,,,,,,,62,52,321,3.1908045977011494
+Peter Yu,PeterYuCO,,CO,U.S. House Colorado District 2,Representative,Regular,6/26/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,,,,,,,2,3,41,3.6956521739130435
+Mark Barrington,,,CO,U.S. House Colorado District 7,Representative,Regular,6/26/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,,,,,,,,,,
+Bob Stefanowski,bobforgovernor,,CT,Governor of Connecticut,Governor,Regular,8/14/18,Advanced,None,On the Ballot,29.3,Yes,,,,,,,,,,,,,,,266,241,626,2.6354810238305384
+Mark Boughton,MayorMark,,CT,Governor of Connecticut,Governor,Regular,8/14/18,Lost,None,None,21.2,No,,,,,,,,,,,,,,,312,210,637,2.560828300258844
+Steve Obsitnik,SteveObsitnik,,CT,Governor of Connecticut,Governor,Regular,8/14/18,Lost,None,None,13.5,No,,,,,,,,,,,,,,,70,51,237,2.9329608938547485
+Tim Herbst,timherbst,,CT,Governor of Connecticut,Governor,Regular,8/14/18,Lost,None,None,17.6,No,,,,,,,,,,,,,,,75,40,296,3.0754257907542577
+David Stemerman,DavidStemerman,,CT,Governor of Connecticut,Governor,Regular,8/14/18,Lost,None,None,18.4,No,,,,,,,,,,,,,,,127,109,526,3.047244094488189
+Jennifer Nye,JenniferNye211,,CT,U.S. House Connecticut District 1,Representative,Regular,8/14/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,,,,,,,0,0,0,
+Dan Postemski,,,CT,U.S. House Connecticut District 2,Representative,Regular,8/14/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,,,,,,,,,,
+Angel Cadena,hiro4you2,,CT,U.S. House Connecticut District 3,Representative,Regular,8/14/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,,,,,,,0,0,0,
+Harry Arora,HarryForCT,,CT,U.S. House Connecticut District 4,Representative,Regular,8/14/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,,,,,,,101,95,229,2.6023529411764708
+Manny Santos,MannySantos123,,CT,U.S. House Connecticut District 5,Representative,Regular,8/14/18,Advanced,None,On the Ballot,51.7,Yes,,,,,,,,,,,,,,,67,45,91,2.2364532019704435
+Ruby Corby O'Neill,rubycorbyoneill,,CT,U.S. House Connecticut District 5,Representative,Regular,8/14/18,Lost,None,None,26.7,No,,,,,,,,,,,,,,,2,3,56,3.7704918032786887
+Rich DuPont,DuPont4Congress,,CT,U.S. House Connecticut District 5,Representative,Regular,8/14/18,Lost,None,None,21.7,No,,,,,,,,,,,,,,,10,5,80,3.473684210526316
+Matthew Corey,MattCoreyCT,,CT,U.S. Senate Connecticut,Senator,Regular,8/14/18,Advanced,None,On the Ballot,76.7,Yes,,,,,,,,,,,,,,,32,32,259,3.4055727554179565
+Dominic Rapini,MacDommer,,CT,U.S. Senate Connecticut,Senator,Regular,8/14/18,Lost,None,None,23.3,No,,,,,,,,,,,,,,,163,282,839,3.0529595015576323
+Lee Murphy,goMurph2020,,DE,U.S. House Delaware At-large District,Representative,Regular,9/6/18,Lost,None,None,47,No,,,,,,,,,,,,,,,0,0,0,
+Scott Walker,,,DE,U.S. House Delaware At-large District,Representative,Regular,9/6/18,Advanced,None,On the Ballot,53,Yes,,,,,,,,,,,,,,,,,,
+Gene Truono,,,DE,U.S. Senate Delaware,Senator,Regular,9/6/18,Lost,None,None,28,No,,,,,,,,,,,,,,,,,,
+Robert Arlett,RobArlett,,DE,U.S. Senate Delaware,Senator,Regular,9/6/18,Advanced,None,On the Ballot,66.8,Yes,,,,,,,,,,,,,,,53,54,146,2.7351778656126484
+Roque De La Fuente,JoinRocky,,DE,U.S. Senate Delaware,Senator,Regular,9/6/18,Lost,None,None,5.3,No,,,,,,,,,,,,,,,0,0,0,
+Bruce Nathan,brucenathan2018,,FL,Governor of Florida,Governor,Regular,8/28/18,Lost,None,None,0.9,No,,,,,,No,,,No,,,,No,,32,40,84,2.6666666666666665
+Ron DeSantis,RonDeSantisFL,,FL,Governor of Florida,Governor,Regular,8/28/18,Advanced,None,On the Ballot,56.5,Yes,,Yes,,,,,,,Yes,,,,No,,108,128,530,3.101827676240209
+Don Baldauf,FreeFavorsBold,,FL,Governor of Florida,Governor,Regular,8/28/18,Lost,None,None,0.8,No,,No,,,,No,,,No,,,,No,,1,2,6,3.111111111111111
+Bob White,BobWhiteForGov,,FL,Governor of Florida,Governor,Regular,8/28/18,Lost,None,None,2,No,,No,,,,No,,,No,,,,No,,108,84,194,2.4455958549222796
+Adam Putnam,adamputnam,,FL,Governor of Florida,Governor,Regular,8/28/18,Lost,None,None,36.6,No,,No,,,,,,,No,,,,Yes,,136,108,492,2.967391304347826
+Timothy Devine,,,FL,Governor of Florida,Governor,Regular,8/28/18,Lost,None,None,1.3,No,,No,,,,No,,,No,,,,No,,,,,
+Bob Langford,,,FL,Governor of Florida,Governor,Regular,8/28/18,Lost,None,None,1.2,No,,No,,,,No,,,No,,,,No,,,,,
+John Joseph Mercadante,gzijcqzw,,FL,Governor of Florida,Governor,Regular,8/28/18,Lost,None,None,0.7,No,,No,,,,No,,,No,,,,No,,41,49,70,2.3625
+George Buck,gbuck_jr,,FL,U.S. House Florida District 13,Representative,Regular,8/28/18,Advanced,None,On the Ballot,56,Yes,,,,,,Yes,,,,,,,,,13,16,64,3.096774193548387
+Brad Sostack,BradSostack,,FL,U.S. House Florida District 13,Representative,Regular,8/28/18,Lost,None,None,44,No,,,,,,No,,,,,,,,,0,0,0,
+Neil Combee,NeilCombee,,FL,U.S. House Florida District 15,Representative,Regular,8/28/18,Lost,None,None,34.1,No,,,,,,No,,,,,,,,,44,42,52,2.1159420289855073
+Ross Spano,RossSpano,,FL,U.S. House Florida District 15,Representative,Regular,8/28/18,Advanced,None,On the Ballot,43.7,Yes,,,,,,,,,,,,,,,17,10,71,3.1020408163265305
+Sean Harper,,,FL,U.S. House Florida District 15,Representative,Regular,8/28/18,Lost,None,None,10,No,,,,,,No,,,,,,,,,,,,
+Danny Kushmer,DannyKushmer,,FL,U.S. House Florida District 15,Representative,Regular,8/28/18,Lost,None,None,6.7,No,,,,,,,,,,,,,,,133,163,790,3.2099447513812156
+Curt Rogers,,,FL,U.S. House Florida District 15,Representative,Regular,8/28/18,Lost,None,None,,No,,,,,,No,,,,,,,,,,,,
+Ed Shoemaker,EdShoemakerFl,,FL,U.S. House Florida District 15,Representative,Regular,8/28/18,Lost,None,None,5.5,No,,,,,,No,,,,,,,,,40,44,108,2.7083333333333335
+Greg Steube,gregsteube,,FL,U.S. House Florida District 17,Representative,Regular,8/28/18,Advanced,None,On the Ballot,62.4,Yes,,,,,Yes,,,Yes,Yes,Yes,Yes,No,No,,4,6,21,3.096774193548387
+Julio Gonzalez,TaxReformExpert,,FL,U.S. House Florida District 17,Representative,Regular,8/28/18,Lost,None,None,18.3,No,,,,,No,,,No,No,No,No,Yes,Yes,,621,396,591,1.962686567164179
+Bill Akins,,,FL,U.S. House Florida District 17,Representative,Regular,8/28/18,Lost,None,None,19.3,No,,,,,No,No,,No,No,No,No,No,No,,,,,
+Nicolas Kimaz,NicolasKimazFL,,FL,U.S. House Florida District 22,Representative,Regular,8/28/18,Advanced,None,On the Ballot,41,Yes,,,,,,No,,,,,,,,,26,13,63,2.7254901960784315
+Javier Manjarres,JavManjarres,,FL,U.S. House Florida District 22,Representative,Regular,8/28/18,Lost,None,None,33.9,No,,,,,,Yes,,,,,,,,,356,381,525,2.2678288431061806
+Eddison Walters,eddisonwalters,,FL,U.S. House Florida District 22,Representative,Regular,8/28/18,Lost,None,None,25.1,No,,,,,,No,,,,,,,,,13,18,33,2.625
+Carla Spalding,carla_spalding,,FL,U.S. House Florida District 23,Representative,Regular,8/28/18,Lost,None,None,21.5,No,,,,,,,,,,,,,,,65,55,255,3.013333333333333
+Joe Kaufman,JoeKaufmanUSA,,FL,U.S. House Florida District 23,Representative,Regular,8/28/18,Advanced,None,On the Ballot,44.7,Yes,,,,,,,,,,,,,,,248,175,361,2.288265306122449
+Carlos Reyes,CJRCampaign,,FL,U.S. House Florida District 23,Representative,Regular,8/28/18,Lost,None,None,33.8,No,,,,,,,,,,,,,,,0,0,0,
+Bruno Barreiro,BarreiroFL,,FL,U.S. House Florida District 27,Representative,Regular,8/28/18,Lost,None,None,25.7,No,Yes,,,,,No,,,,,,No,,,56,85,294,3.094252873563218
+Maria Peiro,MariaMPeiro,,FL,U.S. House Florida District 27,Representative,Regular,8/28/18,Lost,None,None,8,No,No,,,,,Yes,,,,,,No,,,2,3,5,2.6
+Bettina Rodriguez-Aguilera,bettinaraoffici,,FL,U.S. House Florida District 27,Representative,Regular,8/28/18,Lost,None,None,4.3,No,No,,,,,No,,,,,,No,,,11,36,73,3.033333333333333
+Gina Sosa-Suarez,,,FL,U.S. House Florida District 27,Representative,Regular,8/28/18,Lost,None,None,1.9,No,No,,,,,No,,,,,,No,,,,,,
+Angie Chirino,chirino4house,,FL,U.S. House Florida District 27,Representative,Regular,8/28/18,Lost,None,None,6.9,No,No,,,,,No,,,,,,No,,,1,2,2,2.4
+Maria Elvira Salazar,MaElviraSalazar,,FL,U.S. House Florida District 27,Representative,Regular,8/28/18,Advanced,None,On the Ballot,40.5,Yes,Yes,,,,,No,,,,,,Yes,,,53,118,214,2.8363636363636364
+Michael Ohevzion,Michael4Florida,,FL,U.S. House Florida District 27,Representative,Regular,8/28/18,Lost,None,None,3.8,No,No,,,,,No,,,,,,No,,,1,1,14,3.625
+Elizabeth Adadi,,,FL,U.S. House Florida District 27,Representative,Regular,8/28/18,Lost,None,None,2,No,No,,,,,No,,,,,,No,,,,,,
+Stephen Marks,StephenMarksFL,,FL,U.S. House Florida District 27,Representative,Regular,8/28/18,Lost,None,None,7,No,No,,,,,No,,,,,,No,,,0,0,0,
+Virginia Fuller,Florida_CD5,,FL,U.S. House Florida District 5,Representative,Regular,8/28/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,,,,,,,33,23,56,2.4107142857142856
+Fred Costello,fredcostello,,FL,U.S. House Florida District 6,Representative,Regular,8/28/18,Lost,None,None,27.2,No,,,,,,Yes,,,,,,,,,0,0,0,
+John Ward,WardforFlorida,,FL,U.S. House Florida District 6,Representative,Regular,8/28/18,Lost,None,None,30.4,No,,,,,,No,,,,,,,,,17,8,60,3.011764705882353
+Michael Waltz,michaelgwaltz,,FL,U.S. House Florida District 6,Representative,Regular,8/28/18,Advanced,None,On the Ballot,42.4,Yes,,,,,,No,,,,,,,,,130,101,300,2.64030131826742
+Mike Miller,Mike_Miller_FL,MillerFlorida14,FL,U.S. House Florida District 7,Representative,Regular,8/28/18,Advanced,None,On the Ballot,53.9,Yes,Yes,,,,,No,,,,,,Yes,,,32,40,253,3.36
+Scott Sturgill,Scott_Sturgill,,FL,U.S. House Florida District 7,Representative,Regular,8/28/18,Lost,None,None,30.4,No,Yes,,,,,Yes,,Yes,,,,No,,,10,12,71,3.3118279569892475
+Vennia Francois,Vennia4Congress,,FL,U.S. House Florida District 7,Representative,Regular,8/28/18,Lost,None,None,15.8,No,No,,,,,No,,No,,,,No,,,10,6,43,3.1186440677966103
+Wayne Liebnitzky,LiebnitzkyWayne,,FL,U.S. House Florida District 9,Representative,Regular,8/28/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,,,,,,,21,16,49,2.6511627906976742
+Rick Scott,SenRickScott,,FL,U.S. Senate Florida,Senator,Regular,8/28/18,Advanced,None,On the Ballot,88.6,Yes,,Yes,,,,Yes,,Yes,Yes,,,,Yes,,356,371,757,2.5404312668463613
+Roque De La Fuente,JoinRocky,,FL,U.S. Senate Florida,Senator,Regular,8/28/18,Lost,None,None,11.4,No,,No,,,,No,,No,No,,,,No,,0,0,0,
+Brian Kemp,BrianKempGA,,GA,Governor of Georgia,Governor,Regular,5/22/18,Advanced,Advanced,On the Ballot,25.55,Yes,,Yes,,,No,No,,,,,,,,,248,438,2615,3.434110875492275
+Casey Cagle,CaseyCagle,,GA,Governor of Georgia,Governor,Regular,5/22/18,Advanced,Lost,None,39.01,No,,No,,,Yes,No,,,,,,,,,41,64,754,3.660069848661234
+Hunter Hill,votehunterhill,,GA,Governor of Georgia,Governor,Regular,5/22/18,Lost,None,None,18.35,No,,No,,,No,Yes,,,,,,,,,11,17,204,3.663793103448276
+Michael Williams,williamsforga,,GA,Governor of Georgia,Governor,Regular,5/22/18,Lost,None,None,4.88,No,,No,,,No,No,,,,,,,,,217,179,432,2.5193236714975846
+Clay Tippins,ClayTippins,,GA,Governor of Georgia,Governor,Regular,5/22/18,Lost,None,None,12.21,No,,No,,,No,No,,,,,,,,,36,52,96,2.652173913043478
+Eddie Hayes,IStandWithEddie,,GA,Governor of Georgia,Governor,Regular,5/22/18,Lost,None,None,0,No,,No,,,No,No,,,,,,,,,1,0,11,3.6666666666666665
+David Callahan,DavidCa46446866,,GA,U.S. House Georgia District 13,Representative,Regular,5/22/18,Advanced,None,On the Ballot,93,Yes,,,,,,Yes,,,,,,,,,0,0,0,
+Femi Akinkugbe,,,GA,U.S. House Georgia District 13,Representative,Regular,5/22/18,Lost,None,None,7,No,,,,,,No,,,,,,,,,,,,
+Herman West Jr.,RealHermanWest,,GA,U.S. House Georgia District 2,Representative,Regular,5/22/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,,,,,,,0,0,0,
+Joe Profit,JoeProfitGA_04,,GA,U.S. House Georgia District 4,Representative,Regular,5/22/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,,,,,,,4,1,19,3.25
+Andria Tupola,votetupola,,HI,Governor of Hawaii,Governor,Regular,8/11/18,Advanced,None,On the Ballot,55.5,Yes,,,,,,,,,,,,,,,16,60,672,3.7540106951871657
+John Carroll,Carroll4Hawaii,,HI,Governor of Hawaii,Governor,Regular,8/11/18,Lost,None,None,35.2,No,,,,,,,,,,,,,,,12,5,11,1.9285714285714286
+Ray L'Heureux,trustingov,,HI,Governor of Hawaii,Governor,Regular,8/11/18,Lost,None,None,9.3,No,,,,,,,,,,,,,,,2,3,12,3.176470588235294
+Cam Cavasso,camcavasso,,HI,U.S. House Hawaii District 1,Representative,Regular,8/11/18,Advanced,None,On the Ballot,81.8,Yes,,,,,,,,,,,,,,,2,2,10,3.142857142857143
+Raymond Vinole,,,HI,U.S. House Hawaii District 1,Representative,Regular,8/11/18,Lost,None,None,18.2,No,,,,,,,,,,,,,,,,,,
+Brian Evans,becongress,,HI,U.S. House Hawaii District 2,Representative,Regular,8/11/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,,,,,,,55,61,78,2.2371134020618557
+Ron Curtis,rcurtis808,,HI,U.S. Senate Hawaii,Senator,Regular,8/11/18,Advanced,None,On the Ballot,23.7,Yes,,,,,,,,,,,,,,,12,20,86,3.2542372881355934
+Michael Hodgkiss,,,HI,U.S. Senate Hawaii,Senator,Regular,8/11/18,Lost,None,None,5.9,No,,,,,,,,,,,,,,,,,,
+Consuelo Anderson,,,HI,U.S. Senate Hawaii,Senator,Regular,8/11/18,Lost,None,None,19.3,No,,,,,,,,,,,,,,,,,,
+George Berish,,,HI,U.S. Senate Hawaii,Senator,Regular,8/11/18,Lost,None,None,6.2,No,,,,,,,,,,,,,,,,,,
+Roque De La Fuente,JoinRocky,,HI,U.S. Senate Hawaii,Senator,Regular,8/11/18,Lost,None,None,11.4,No,,,,,,,,,,,,,,,0,0,0,
+Robert Helsham,bigdaddyhelsham,,HI,U.S. Senate Hawaii,Senator,Regular,8/11/18,Lost,None,None,14.9,No,,,,,,,,,,,,,,,2,3,14,3.263157894736842
+Eddie Pirkowski,,,HI,U.S. Senate Hawaii,Senator,Regular,8/11/18,Lost,None,None,5.1,No,,,,,,,,,,,,,,,,,,
+Thomas White,,,HI,U.S. Senate Hawaii,Senator,Regular,8/11/18,Lost,None,None,13.6,No,,,,,,,,,,,,,,,,,,
+Chris Peters,DrPeters4Iowa,,IA,U.S. House Iowa District 2,Representative,Regular,6/5/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,,,,,,,8,12,40,3.066666666666667
+Brad Little,GovernorLittle,LittleOtterID,ID,Governor of Idaho,Governor,Regular,5/15/18,Advanced,None,On the Ballot,37.29,Yes,,,,,,,,,,,,,,,19,24,385,3.710280373831776
+Harley Brown,2018HarleyBrown,,ID,Governor of Idaho,Governor,Regular,5/15/18,Lost,None,None,0.45,No,,,,,,,,,,,,,,,3,4,24,3.3548387096774195
+Lisa Marie,,,ID,Governor of Idaho,Governor,Regular,5/15/18,Lost,None,None,1.75,No,,,,,,,,,,,,,,,,,,
+Raul Labrador,RaulLabrador4ID,Raul_Labrador,ID,Governor of Idaho,Governor,Regular,5/15/18,Lost,None,None,32.63,No,,,,,,,,,,,,,,,6,11,71,3.477272727272727
+Steven Pankey,PankeyforIdaho,,ID,Governor of Idaho,Governor,Regular,5/15/18,Lost,None,None,1.39,No,,,,,,,,,,,,,,,0,0,0,
+Tommy Ahlquist,TommyAhlquist,,ID,Governor of Idaho,Governor,Regular,5/15/18,Lost,None,None,26.22,No,,,,,,,,,,,,,,,42,40,212,3.1564625850340136
+Dalton Cannady,,,ID,Governor of Idaho,Governor,Regular,5/15/18,Lost,None,None,0.27,No,,,,,,,,,,,,,,,,,,
+Russ Fulcher,RussFulcher,,ID,U.S. House Idaho District 1,Representative,Regular,5/15/18,Advanced,None,On the Ballot,43.12,Yes,,,,,,,,Yes,,Yes,,No,,,15,15,131,3.440993788819876
+Christy Perry,RepChristyPerry,ChristyPerry208,ID,U.S. House Idaho District 1,Representative,Regular,5/15/18,Lost,None,None,11.19,No,,,,,,,,No,,No,,No,,,0,0,0,
+Luke Malek,LukeMalek,malek4congress,ID,U.S. House Idaho District 1,Representative,Regular,5/15/18,Lost,None,None,14.26,No,,,,,,,,No,,No,,Yes,,,6,3,28,3.189189189189189
+David Leroy,,,ID,U.S. House Idaho District 1,Representative,Regular,5/15/18,Lost,None,None,15.53,No,,,,,,,,No,,No,,No,,,,,,
+Michael Snyder,Revelation1217,,ID,U.S. House Idaho District 1,Representative,Regular,5/15/18,Lost,None,None,10.37,No,,,,,,,,No,,No,,No,,,886,358,359,1.3424828446662507
+Nick Henderson,VoteNickH,,ID,U.S. House Idaho District 1,Representative,Regular,5/15/18,Lost,None,None,2.02,No,,,,,,,,No,,No,,No,,,26,38,55,2.4873949579831933
+Alex Gallegos,AlexForIdaho,,ID,U.S. House Idaho District 1,Representative,Regular,5/15/18,Lost,None,None,3.5,No,,,,,,,,No,,No,,No,,,1,0,1,2.0
+Jimmy Lee Tillman II,Tillman2014,,IL,U.S. House Illinois District 1,Representative,Regular,3/20/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,,,,,,,0,0,0,
+Doug Bennett,DougRBennett,,IL,U.S. House Illinois District 10,Representative,Regular,3/20/18,Advanced,None,On the Ballot,36.24,Yes,Yes,,,,,,,,,,,,,,25,15,65,2.761904761904762
+Sapan Shah,drsapanshah,,IL,U.S. House Illinois District 10,Representative,Regular,3/20/18,Lost,None,None,29.06,No,Yes,,,,,,,,,,,,,,0,0,0,
+Jeremy Wynes,JeremyWynes,,IL,U.S. House Illinois District 10,Representative,Regular,3/20/18,Lost,None,None,34.7,No,Yes,,,,,,,,,,,,,,83,58,56,1.7258883248730965
+Nick Stella,nickstellamd,,IL,U.S. House Illinois District 11,Representative,Regular,3/20/18,Advanced,None,On the Ballot,79.33,Yes,,,,,,,,,,,,,,,0,0,0,
+Connor Vlakancic,ConnorVlakancic,,IL,U.S. House Illinois District 11,Representative,Regular,3/20/18,Lost,None,None,20.67,No,,,,,,,,,,,,,,,2,3,6,2.727272727272727
+Bill Fawell,realBillFawell,WmFawell,IL,U.S. House Illinois District 17,Representative,Regular,3/20/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,,,,,,,3,7,2,1.8333333333333333
+David Merkle,,,IL,U.S. House Illinois District 2,Representative,Regular,3/20/18,Advanced,None,On the Ballot,36.59,Yes,,,,,,,,,,,,,,,,,,
+John Morrow,CandidateMorrow,,IL,U.S. House Illinois District 2,Representative,Regular,3/20/18,Lost,None,None,27.94,No,,,,,,,,,,,,,,,3,0,3,2.0
+Patrick Harmon,,,IL,U.S. House Illinois District 2,Representative,Regular,3/20/18,Lost,None,None,35.46,No,,,,,,,,,,,,,,,,,,
+Arthur Jones,ArtJonesCongres,,IL,U.S. House Illinois District 3,Representative,Regular,3/20/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,,,,,,,8,7,12,2.2962962962962963
+Mark Wayne Lorch,MarkLorch,,IL,U.S. House Illinois District 4,Representative,Regular,3/20/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,,,,,,,4,3,16,3.0434782608695654
+Tom Hanson,,,IL,U.S. House Illinois District 5,Representative,Regular,3/20/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,,,,,,,,,,
+Craig Cameron,CraigCameron07,,IL,U.S. House Illinois District 7,Representative,Regular,3/20/18,Advanced,None,On the Ballot,56.33,Yes,,,,,,,,,,,,,,,4,6,11,2.6666666666666665
+Jeffrey Leef,Leef2016gop,,IL,U.S. House Illinois District 7,Representative,Regular,3/20/18,Lost,None,None,43.67,No,,,,,,,,,,,,,,,5,10,8,2.260869565217391
+Jitendra Diganvker,diganvker,,IL,U.S. House Illinois District 8,Representative,Regular,3/20/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,,,,,,,4,13,71,3.522727272727273
+John Elleson,JohnElleson,,IL,U.S. House Illinois District 9,Representative,Regular,3/20/18,Advanced,None,On the Ballot,40.37,Yes,,,,,,,,,,,,,,,15,15,78,3.1666666666666665
+Max Rice,,,IL,U.S. House Illinois District 9,Representative,Regular,3/20/18,Lost,None,None,10.15,No,,,,,,,,,,,,,,,,,,
+D. Vincent Thomas Jr.,DVThomasJr,,IL,U.S. House Illinois District 9,Representative,Regular,3/20/18,Lost,None,None,18.83,No,,,,,,,,,,,,,,,0,0,0,
+Sargis Sangari,VoteSangari,,IL,U.S. House Illinois District 9,Representative,Regular,3/20/18,Lost,None,None,10.15,No,,,,,,,,,,,,,,,5,11,78,3.5531914893617023
+Mark Leyva,,,IN,U.S. House Indiana District 1,Representative,Regular,5/8/18,Advanced,None,On the Ballot,26.99,Yes,,,,,,,,,,,,,,,,,,
+John Meyer,,,IN,U.S. House Indiana District 1,Representative,Regular,5/8/18,Lost,None,None,19.6,No,,,,,,,,,,,,,,,,,,
+Jeremy Belko,jdbelko,,IN,U.S. House Indiana District 1,Representative,Regular,5/8/18,Lost,None,None,6.73,No,,,,,,,,,,,,,,,3,6,8,2.588235294117647
+David Dopp,Dopp4Indiana,,IN,U.S. House Indiana District 1,Representative,Regular,5/8/18,Lost,None,None,7.61,No,,,,,,,,,,,,,,,5,7,7,2.210526315789474
+Roseann Ivanovich,Ivanovich4House,,IN,U.S. House Indiana District 1,Representative,Regular,5/8/18,Lost,None,None,19.55,No,,,,,,,,,,,,,,,2,2,81,3.8588235294117648
+Nicholas Pappas,,,IN,U.S. House Indiana District 1,Representative,Regular,5/8/18,Lost,None,None,19.52,No,,,,,,,,,,,,,,,,,,
+Jim Baird,ElectJimBaird,RepJimBaird,IN,U.S. House Indiana District 4,Representative,Regular,5/8/18,Advanced,None,On the Ballot,36.59,Yes,,,,,,Yes,,,,,,,,No,15,14,157,3.5268817204301075
+James Nease,,,IN,U.S. House Indiana District 4,Representative,Regular,5/8/18,Lost,None,None,2.62,No,,,,,,No,,,,,,,,,,,,
+Kevin Grant,,,IN,U.S. House Indiana District 4,Representative,Regular,5/8/18,Lost,None,None,4.58,No,,,,,,No,,,,,,,,,,,,
+Steve Braun,SteveBraunIN,braunforindiana,IN,U.S. House Indiana District 4,Representative,Regular,5/8/18,Lost,None,None,29.45,No,,,,,,Yes,,,,,,,,,5,9,139,3.7516339869281046
+Diego Morales,cdiegomorales,,IN,U.S. House Indiana District 4,Representative,Regular,5/8/18,Lost,None,None,14.97,No,,,,,,Yes,,,,,,,,No,20,34,469,3.7170172084130018
+Jared Thomas,JaredGuyThomas,,IN,U.S. House Indiana District 4,Representative,Regular,5/8/18,Lost,None,None,10.53,No,,,,,,No,,,,,,,,,41,30,175,3.089430894308943
+Tim Radice,,,IN,U.S. House Indiana District 4,Representative,Regular,5/8/18,Lost,None,None,1.26,No,,,,,,No,,,,,,,,,,,,
+Greg Pence,GregPenceIN,,IN,U.S. House Indiana District 6,Representative,Regular,5/8/18,Advanced,None,On the Ballot,64.48,Yes,,,,Yes,,Yes,,,,,,,,,14,16,423,3.8057395143487858
+Jeff Smith,,,IN,U.S. House Indiana District 6,Representative,Regular,5/8/18,Lost,None,None,3.04,No,,,,No,,Yes,,,,,,,,,,,,
+Mike Campbell,,,IN,U.S. House Indiana District 6,Representative,Regular,5/8/18,Lost,None,None,4.34,No,,,,No,,No,,,,,,,,,,,,
+Stephen MacKenzie,mackenziein6,,IN,U.S. House Indiana District 6,Representative,Regular,5/8/18,Lost,None,None,4.57,No,,,,No,,No,,,,,,,,,25,30,189,3.3442622950819674
+Jonathan Lamb,LambONOMICS,ElectLamb,IN,U.S. House Indiana District 6,Representative,Regular,5/8/18,Lost,None,None,23.56,No,,,,No,,No,,,,,,,,,51,40,115,2.621359223300971
+Wayne Harmon,Gunny_Harmon,,IN,U.S. House Indiana District 7,Representative,Regular,5/8/18,Advanced,None,On the Ballot,28.81,Yes,,,,,,No,,,,,,,,,0,2,0,2.0
+J.D. Miniear,JDMiniear,,IN,U.S. House Indiana District 7,Representative,Regular,5/8/18,Lost,None,None,13.59,No,,,,,,Yes,,,,,,,,,17,9,40,2.696969696969697
+John Couch,,,IN,U.S. House Indiana District 7,Representative,Regular,5/8/18,Lost,None,None,15.24,No,,,,,,No,,,,,,,,,,,,
+Tony Van Pelt,,,IN,U.S. House Indiana District 7,Representative,Regular,5/8/18,Lost,None,None,11.3,No,,,,,,No,,,,,,,,,,,,
+J. Jason Davis,,,IN,U.S. House Indiana District 7,Representative,Regular,5/8/18,Lost,None,None,11.9,No,,,,,,No,,,,,,,,,,,,
+Donald Eason Jr.,DonaldTEasonjr,,IN,U.S. House Indiana District 7,Representative,Regular,5/8/18,Lost,None,None,19.16,No,,,,,,No,,,,,,,,,31,23,22,1.763157894736842
+Mike Braun,braun4indiana,SenatorBraun,IN,U.S. Senate Indiana,Senator,Regular,5/8/18,Advanced,None,On the Ballot,41.17,Yes,,,,,,Yes,,,,,,,,,98,122,287,2.7455621301775146
+Luke Messer,LukeMesserIN,,IN,U.S. Senate Indiana,Senator,Regular,5/8/18,Lost,None,None,28.84,No,,,,,,Yes,,,,,,,,,0,0,0,
+Todd Rokita,ToddRokita,,IN,U.S. Senate Indiana,Senator,Regular,5/8/18,Lost,None,None,29.99,No,,,,,,Yes,,,,,,,,,93,96,295,2.834710743801653
+Caryn Tyson,RealCarynTyson,,KS,U.S. House Kansas District 2,Representative,Regular,8/7/18,Lost,None,None,23.2,No,Yes,,,,,Yes,Yes,,,,,,,,28,24,150,3.207920792079208
+Kevin Jones,kevinicolejones,,KS,U.S. House Kansas District 2,Representative,Regular,8/7/18,Lost,None,None,15.9,No,No,,,,,No,No,,,,,,,,6,7,67,3.525
+Steve Fitzgerald,LtColFitzgerald,,KS,U.S. House Kansas District 2,Representative,Regular,8/7/18,Lost,None,None,12.1,No,Yes,,,,,No,No,,,,,,,,31,27,111,2.9467455621301775
+Vernon Fields,,,KS,U.S. House Kansas District 2,Representative,Regular,8/7/18,Lost,None,None,2.6,No,No,,,,,No,No,,,,,,,,,,,
+Steve Watkins,Steve4Kansas,Rep_Watkins,KS,U.S. House Kansas District 2,Representative,Regular,8/7/18,Advanced,None,On the Ballot,26.2,Yes,Yes,,,,,No,No,,,,,,,,28,38,224,3.3517241379310345
+Doug Mays,SpeakerDoug,,KS,U.S. House Kansas District 2,Representative,Regular,8/7/18,Lost,None,None,8.1,No,No,,,,,No,No,,,,,,,,0,0,0,
+Dennis Pyle,DennisPyle,,KS,U.S. House Kansas District 2,Representative,Regular,8/7/18,Lost,None,None,11.9,No,No,,,,,No,No,,,,,,,,3,4,23,3.3333333333333335
+Vickie Yates Glisson,VickieYGlisson,,KY,U.S. House Kentucky District 3,Representative,Regular,5/22/18,Advanced,None,On the Ballot,49.06,Yes,Yes,,,,,Yes,,,,,,,,,19,16,213,3.564516129032258
+Mike Craven,,,KY,U.S. House Kentucky District 3,Representative,Regular,5/22/18,Lost,None,None,26.9,No,No,,,,,No,,,,,,,,,,,,
+Rhonda Palazzo,,,KY,U.S. House Kentucky District 3,Representative,Regular,5/22/18,Lost,None,None,24.05,No,No,,,,,No,,,,,,,,,,,,
+Liz Matory,LizForCongress,LizMatory,MD,U.S. House Maryland District 2,Representative,Regular,6/26/18,Advanced,None,On the Ballot,42.01,Yes,,,,,,Yes,,,,,,,,,6,8,52,3.393939393939394
+Mark Shell,shell4congress,,MD,U.S. House Maryland District 2,Representative,Regular,6/26/18,Lost,None,None,23.6,No,,,,,,No,,,,,,,,,0,0,0,
+Hubert Owens Jr.,,,MD,U.S. House Maryland District 2,Representative,Regular,6/26/18,Lost,None,None,17.07,No,,,,,,No,,,,,,,,,,,,
+Mitchell Toland Jr.,mitch_toland_jr,,MD,U.S. House Maryland District 2,Representative,Regular,6/26/18,Lost,None,None,17.32,No,,,,,,No,,,,,,,,,79,56,99,2.1709401709401708
+Charles Anthony,,,MD,U.S. House Maryland District 3,Representative,Regular,6/26/18,Advanced,None,On the Ballot,43.59,Yes,,,,,,No,,,,,,,,,,,,
+Thomas Harris,,,MD,U.S. House Maryland District 3,Representative,Regular,6/26/18,Lost,None,None,35.96,No,,,,,,No,,,,,,,,,,,,
+Rob Seyfferth,RobertSeyfferth,,MD,U.S. House Maryland District 3,Representative,Regular,6/26/18,Lost,None,None,20.45,No,,,,,,No,,,,,,,,,0,0,0,
+George McDermott,GeorgeMcDermot3,Congress4MD,MD,U.S. House Maryland District 4,Representative,Regular,6/26/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,,,,,,,6,4,12,2.5454545454545454
+William Devine III,studlydevine,,MD,U.S. House Maryland District 5,Representative,Regular,6/26/18,Advanced,None,On the Ballot,57.56,Yes,,,,,,,,,,,,,,,8,7,16,2.5161290322580645
+Johnny Rice,JohnyRice4Jesus,,MD,U.S. House Maryland District 5,Representative,Regular,6/26/18,Lost,None,None,42.44,No,,,,,,,,,,,,,,,1,1,0,1.0
+Amie Hoeber,amieformaryland,HoeberAmie,MD,U.S. House Maryland District 6,Representative,Regular,6/26/18,Advanced,None,On the Ballot,67.76,Yes,Yes,,,,,No,,,,,,,,,17,15,109,3.3049645390070923
+Lisa Lloyd,,,MD,U.S. House Maryland District 6,Representative,Regular,6/26/18,Lost,None,None,17.81,No,No,,,,,No,,,,,,,,,,,,
+Brad Rohrs,,,MD,U.S. House Maryland District 6,Representative,Regular,6/26/18,Lost,None,None,5.68,No,No,,,,,Yes,,,,,,,,,,,,
+Kurt Elsasser,Elsasser4congr1,,MD,U.S. House Maryland District 6,Representative,Regular,6/26/18,Lost,None,None,8.75,No,No,,,,,No,,,,,,,,,1,0,11,3.6666666666666665
+Ray Bly,,,MD,U.S. House Maryland District 7,Representative,Regular,6/26/18,Lost,None,None,16.52,No,,,,,,No,,,,,,,,,,,,
+William Newton,NEWTONCONGRESS,,MD,U.S. House Maryland District 7,Representative,Regular,6/26/18,Lost,None,None,22.33,No,,,,,,Yes,,,,,,,,,0,0,0,
+Richmond Davis,Davis4Maryland,,MD,U.S. House Maryland District 7,Representative,Regular,6/26/18,On the Ballot,None,None,31.29,No,,,,,,No,,,,,,,,,0,0,0,
+Michael Pearson,,,MD,U.S. House Maryland District 7,Representative,Regular,6/26/18,On the Ballot,None,None,29.86,No,,,,,,No,,,,,,,,,,,,
+John Walsh,,,MD,U.S. House Maryland District 8,Representative,Regular,6/26/18,Advanced,None,On the Ballot,44.87,Yes,,,,,,,,,,,,,,,,,,
+Bridgette Cooper,BCoopercongress,,MD,U.S. House Maryland District 8,Representative,Regular,6/26/18,Lost,None,None,31.28,No,,,,,,,,,,,,,,,0,0,0,
+Victor Williams,,,MD,U.S. House Maryland District 8,Representative,Regular,6/26/18,Lost,None,None,23.85,No,,,,,,,,,,,,,,,,,,
+Tony Campbell,Campbell4MD,,MD,U.S. Senate Maryland,Senator,Regular,6/26/18,Advanced,None,On the Ballot,29.22,Yes,,,,,,Yes,,,,,,,,,0,0,0,
+Blaine Taylor,,,MD,U.S. Senate Maryland,Senator,Regular,6/26/18,Lost,None,None,5.03,No,,,,,,No,,,,,,,,,,,,
+Brian Vaeth,bvaeth253,,MD,U.S. Senate Maryland,Senator,Regular,6/26/18,Lost,None,None,3.07,No,,,,,,No,,,,,,,,,0,0,0,
+Chris Chaffee,ChaffeeUSSenate,,MD,U.S. Senate Maryland,Senator,Regular,6/26/18,Lost,None,None,24.05,No,,,,,,No,,,,,,,,,0,0,0,
+John Graziani,,,MD,U.S. Senate Maryland,Senator,Regular,6/26/18,Lost,None,None,8.77,No,,,,,,No,,,,,,,,,,,,
+Nnabu Eze,eze4senate,,MD,U.S. Senate Maryland,Senator,Regular,6/26/18,Lost,None,None,1.96,No,,,,,,No,,,,,,,,,0,0,0,
+Evan Cronhardt,EvanCronhardt,,MD,U.S. Senate Maryland,Senator,Regular,6/26/18,Lost,None,None,2.53,No,,,,,,No,,,,,,,,,0,0,0,
+Christina Grigorian,GrigorianSenate,,MD,U.S. Senate Maryland,Senator,Regular,6/26/18,Lost,None,None,17.48,No,,,,,,No,,,,,,,,,0,0,0,
+Bill Krehnbrink,CoachforPOTUS,,MD,U.S. Senate Maryland,Senator,Regular,6/26/18,Lost,None,None,2.05,No,,,,,,No,,,,,,,,,0,0,0,
+Gerald Smith,,,MD,U.S. Senate Maryland,Senator,Regular,6/26/18,Lost,None,None,4.3,No,,,,,,No,,,,,,,,,,,,
+Albert Howard,binyahminhoward,,MD,U.S. Senate Maryland,Senator,Regular,6/26/18,Lost,None,None,1.55,No,,,,,,No,,,,,,,,,0,0,0,
+Shawn Moody,Moody4Gov,,ME,Governor of Maine,Governor,Regular,6/12/18,Advanced,None,On the Ballot,52.6,Yes,,,,,,,,,,,,,,,0,0,0,
+Garrett Mason,garrettmason,,ME,Governor of Maine,Governor,Regular,6/12/18,Lost,None,None,21.23,No,,,,,,,,,,,,,,,0,0,0,
+Mary Mayhew,mayhewformaine,,ME,Governor of Maine,Governor,Regular,6/12/18,Lost,None,None,13.82,No,,,,,,,,,,,,,,,0,0,0,
+Kenneth Fredette,KenFredetteME,,ME,Governor of Maine,Governor,Regular,6/12/18,Lost,None,None,5.26,No,,,,,,,,,,,,,,,0,0,0,
+Eric Brakey,SenatorBrakey,,ME,U.S. Senate Maine,Senator,Regular,6/12/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,,,,,,,0,0,0,
+Kevin Powers,Powers4Congress,,MA,U.S. House Massachusetts District 2,Representative,Regular,9/4/18,Lost,None,None,39.2,No,,,,,,,,,,,,,,,0,0,0,
+Tracy Lovvorn,Tracy4Congress,,MA,U.S. House Massachusetts District 2,Representative,Regular,9/4/18,Advanced,None,On the Ballot,60.8,Yes,,,,,,,,,,,,,,,0,0,0,
+Rick Green,RickGreenMA,,MA,U.S. House Massachusetts District 3,Representative,Regular,9/4/18,Advanced,None,On the Ballot,100,Yes,Yes,,,,,,,,Yes,,,,,,0,0,0,
+John Hugo,HugoCongress,,MA,U.S. House Massachusetts District 5,Representative,Regular,9/4/18,Advanced,None,On the Ballot,63.7,Yes,,,,,,Yes,,,,,,,,,0,0,0,
+Louis Kuchnir,,,MA,U.S. House Massachusetts District 5,Representative,Regular,9/4/18,Lost,None,None,36.3,No,,,,,,No,,,,,,,,,,,,
+Joseph Schneider,JoeSchneiderMA,,MA,U.S. House Massachusetts District 6,Representative,Regular,9/4/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,,,,,,,0,0,0,
+Peter Tedeschi,PDTedeschi,,MA,U.S. House Massachusetts District 9,Representative,Regular,9/4/18,Advanced,None,On the Ballot,100,Yes,Yes,,,,,,,,,,,,,,0,0,0,
+Geoff Diehl,RepGeoffDiehl,DiehlForSenate,MA,U.S. Senate Massachusetts,Senator,Regular,9/4/18,Advanced,None,On the Ballot,55.3,Yes,,,,,Yes,,,,,,,,,,0,0,0,
+John Kingston,johnkingstonma,,MA,U.S. Senate Massachusetts,Senator,Regular,9/4/18,Lost,None,None,26.7,No,,,,,No,,,,,,,,,,0,0,0,
+Beth Lindstrom,BethLindstrom,,MA,U.S. Senate Massachusetts,Senator,Regular,9/4/18,Lost,None,None,17.9,No,,,,,No,,,,,,,,,,0,0,0,
+Jim Hines,hines4michigan,,MI,Governor of Michigan,Governor,Regular,8/7/18,Lost,None,None,11,No,,No,,,,Yes,No,,,,,,No,,0,0,0,
+Brian Calley,briancalley,,MI,Governor of Michigan,Governor,Regular,8/7/18,Lost,None,None,25.2,No,,No,,,,Yes,No,,,,,,No,,0,0,0,
+Patrick Colbeck,pjcolbeck,,MI,Governor of Michigan,Governor,Regular,8/7/18,Lost,None,None,13.1,No,,No,,,,Yes,No,,,,,,No,,0,0,0,
+William Duncan "Bill" Schuette,SchuetteOnDuty,,MI,Governor of Michigan,Governor,Regular,8/7/18,Advanced,None,On the Ballot,50.7,Yes,,Yes,,,,Yes,No,,,,,,Yes,,0,0,0,
+Kerry Bentivolio,RepKerryB,KerryB4Congress,MI,U.S. House Michigan District 11,Representative,Regular,8/7/18,Lost,None,None,11.3,No,,,,,,Yes,No,,No,,,,,,0,0,0,
+Klint Kesto,KlintKesto,,MI,U.S. House Michigan District 11,Representative,Regular,8/7/18,Lost,None,None,14,No,Yes,,,,,Yes,No,,No,,,,,,0,0,0,
+Mike Kowall,MikeKowall,,MI,U.S. House Michigan District 11,Representative,Regular,8/7/18,Lost,None,None,18.6,No,Yes,,,,,Yes,No,,No,,,,,,0,0,0,
+Rocky Raczkowski,rockyraczkowski,,MI,U.S. House Michigan District 11,Representative,Regular,8/7/18,Lost,None,None,25.4,No,Yes,,,,,Yes,No,,No,,,,,,0,0,0,
+Lena Epstein,LenaEpstein,,MI,U.S. House Michigan District 11,Representative,Regular,8/7/18,Advanced,None,On the Ballot,30.7,Yes,Yes,,,,,Yes,Yes,,Yes,,,,,,0,0,0,
+Jeff Jones,Vote_JeffJones,,MI,U.S. House Michigan District 12,Representative,Regular,8/7/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,No,,,,,,0,0,0,
+Marc Herschfus,,,MI,U.S. House Michigan District 14,Representative,Regular,8/7/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,No,,,,,,,,,
+Travis Wines,TWines4congress,Wines4Congress,MI,U.S. House Michigan District 5,Representative,Regular,8/7/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,No,,,,,,0,0,0,
+Candius Stearns,CandiusStearns,,MI,U.S. House Michigan District 9,Representative,Regular,8/7/18,Advanced,None,On the Ballot,100,Yes,Yes,,,,,Yes,Yes,,No,,,,,,0,0,0,
+John James,JohnJamesMI,,MI,U.S. Senate Michigan,Senator,Regular,8/7/18,Advanced,None,On the Ballot,54.7,Yes,,Yes,,,,Yes,Yes,,,,,,Yes,,99,194,1309,3.5106117353308366
+Sandy Pensler,SandyPensler,,MI,U.S. Senate Michigan,Senator,Regular,8/7/18,Lost,None,None,45.3,No,,No,,,,No,No,,,,,,No,,42,36,135,2.8732394366197185
+Jeff Johnson,MNJeffJohnson,,MN,Governor of Minnesota,Governor,Regular,8/14/18,Advanced,None,On the Ballot,52.6,Yes,,,,,,,,,,,,,No,,183,262,579,2.7734375
+Tim Pawlenty,TimPawlenty,,MN,Governor of Minnesota,Governor,Regular,8/14/18,Lost,None,None,43.9,No,,,,,,,,,,,,,Yes,,21,6,54,2.814814814814815
+Matt Kruse,,,MN,Governor of Minnesota,Governor,Regular,8/14/18,Lost,None,None,3.5,No,,,,,,,,,,,,,No,,,,,
+Jim Hagedorn,JimHagedornMN,RepHagedorn,MN,U.S. House Minnesota District 1,Representative,Regular,8/14/18,Advanced,None,On the Ballot,60.2,Yes,Yes,,,,,,No,,,,,,,,19,28,300,3.6195965417867435
+Carla Nelson,CarlaNelsonMN,,MN,U.S. House Minnesota District 1,Representative,Regular,8/14/18,Lost,None,None,32.1,No,Yes,,,,,,Yes,,,,,,,,23,37,154,3.2242990654205608
+Andrew Candler,,,MN,U.S. House Minnesota District 1,Representative,Regular,8/14/18,Lost,None,None,2.6,No,No,,,,,,No,,,,,,,,,,,
+Steve Williams,,,MN,U.S. House Minnesota District 1,Representative,Regular,8/14/18,Lost,None,None,5.1,No,No,,,,,,No,,,,,,,,,,,
+Greg Ryan,GregTRyan4US,,MN,U.S. House Minnesota District 4,Representative,Regular,8/14/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,,,,,,,6,2,30,3.263157894736842
+Jennifer Zielinski,jen4congress,,MN,U.S. House Minnesota District 5,Representative,Regular,8/14/18,Advanced,None,On the Ballot,56.5,Yes,,,,,,,,,,,,,,,0,0,0,
+Christopher Chamberlin,realChamberlin,Chamberlin4MN,MN,U.S. House Minnesota District 5,Representative,Regular,8/14/18,Lost,None,None,32.5,No,,,,,,,,,,,,,,,84,87,262,2.8221709006928406
+Bob Carney Jr.,,,MN,U.S. House Minnesota District 5,Representative,Regular,8/14/18,Lost,None,None,11,No,,,,,,,,,,,,,,,,,,
+Dave Hughes,DHughesCongress,,MN,U.S. House Minnesota District 7,Representative,Regular,8/14/18,Advanced,None,On the Ballot,72.6,Yes,,,,,,,,,,,,,,,49,73,453,3.405217391304348
+Matt Prosch,MattProsch4MN,,MN,U.S. House Minnesota District 7,Representative,Regular,8/14/18,Lost,None,None,27.4,No,,,,,,,,,,,,,,,2,2,11,3.2
+Pete Stauber,PeteStauber,RepPeteStauber,MN,U.S. House Minnesota District 8,Representative,Regular,8/14/18,Advanced,None,On the Ballot,89.7,Yes,Yes,Yes,,,,,,,Yes,,,,,,65,68,559,3.4277456647398843
+Harry Welty,,,MN,U.S. House Minnesota District 8,Representative,Regular,8/14/18,Lost,None,None,10.3,No,No,No,,,,,,,No,,,,,,,,,
+Jim Newberger,NewbergerJim,,MN,U.S. Senate Minnesota,Senator,Regular,8/14/18,Advanced,None,On the Ballot,69.5,Yes,,,,,,No,No,,,,,,,,31,25,140,3.1122448979591835
+Karin Housley,KarinHousley,,MN,U.S. Senate Minnesota,Senator,Special,8/14/18,Advanced,None,On the Ballot,62,Yes,,,,,,Yes,Yes,,,,,,,,154,151,1209,3.3936591809775427
+Merrill Anderson,,,MN,U.S. Senate Minnesota,Senator,Regular,8/14/18,Lost,None,None,15.7,No,,,,,,No,No,,,,,,,,,,,
+Bob Anderson,paxilbob,,MN,U.S. Senate Minnesota,Senator,Special,8/14/18,Lost,None,None,35.6,No,,,,,,No,No,,,,,,,,168,161,490,2.786324786324786
+Roque De La Fuente,JoinRocky,,MN,U.S. Senate Minnesota,Senator,Regular,8/14/18,Lost,None,None,5.9,No,,,,,,No,No,,,,,,,,0,0,0,
+Rae Hart Anderson,RaeHartAnderso1,,MN,U.S. Senate Minnesota,Senator,Regular,8/14/18,Lost,None,None,5.9,No,,,,,,No,No,,,,,,,,32,37,117,2.913978494623656
+Nikolay Nikolayevich Bey,,,MN,U.S. Senate Minnesota,Senator,Special,8/14/18,Lost,None,None,2.5,No,,,,,,No,No,,,,,,,,,,,
+Camille Lombardi-Olive,,,MO,U.S. House Missouri District 1,Representative,Regular,8/7/18,Lost,None,None,32.6,No,,,,,,,,,,,,,,,,,,
+Edward Van Deventer Jr.,Edforthepeople,,MO,U.S. House Missouri District 1,Representative,Regular,8/7/18,Lost,None,None,32.9,No,,,,,,,,,,,,,,,3,4,7,2.5714285714285716
+Robert Vroman,vroman_robert,,MO,U.S. House Missouri District 1,Representative,Regular,8/7/18,Advanced,None,On the Ballot,34.5,Yes,,,,,,,,,,,,,,,0,0,2,4.0
+Kress Cambers,KressFCambers,,MO,U.S. House Missouri District 5,Representative,Regular,8/7/18,Lost,None,None,17.6,No,,,,,,No,,,,,,,,,46,56,160,2.8702290076335877
+Richonda Oaks,,,MO,U.S. House Missouri District 5,Representative,Regular,8/7/18,Lost,None,None,7.3,No,,,,,,No,,,,,,,,,,,,
+Jacob Turk,JacobTurk,,MO,U.S. House Missouri District 5,Representative,Regular,8/7/18,Advanced,None,On the Ballot,75.1,Yes,,,,,,Yes,,,,,,,,,13,15,52,2.975
+Austin Petersen,AP4Liberty,,MO,U.S. Senate Missouri,Senator,Regular,8/7/18,Lost,None,None,8.3,No,,No,No,No,,No,,No,No,,,,,,1249,1555,3397,2.6927914852443156
+Josh Hawley,HawleyMO,,MO,U.S. Senate Missouri,Senator,Regular,8/7/18,Advanced,None,On the Ballot,58.6,Yes,,Yes,Yes,Yes,,Yes,,Yes,Yes,,,,,,142,179,552,2.939289805269187
+Tony Monetti,TonyMonetti,Monetti4Senate,MO,U.S. Senate Missouri,Senator,Regular,8/7/18,Lost,None,None,9.8,No,,No,No,No,,No,,No,No,,,,,,0,0,2,4.0
+Courtland Sykes,Courtland_Sykes,SykesforSenate,MO,U.S. Senate Missouri,Senator,Regular,8/7/18,Lost,None,None,2.1,No,,No,No,No,,No,,No,No,,,,,,0,0,1,4.0
+Brian Hagg,,,MO,U.S. Senate Missouri,Senator,Regular,8/7/18,Lost,None,None,1,No,,No,No,No,,No,,No,No,,,,,,,,,
+Ken Patterson,,,MO,U.S. Senate Missouri,Senator,Regular,8/7/18,Lost,None,None,2.9,No,,No,No,No,,No,,No,No,,,,,,,,,
+Peter Pfeifer,PeterPfeifer18,,MO,U.S. Senate Missouri,Senator,Regular,8/7/18,Lost,None,None,2.5,No,,No,No,No,,No,,No,No,,,,,,8,27,82,3.264957264957265
+Christina Smith,Smithussenate,,MO,U.S. Senate Missouri,Senator,Regular,8/7/18,Lost,None,None,5.3,No,,No,No,No,,No,,No,No,,,,,,4,8,57,3.536231884057971
+Bradley Krembs,,,MO,U.S. Senate Missouri,Senator,Regular,8/7/18,Lost,None,None,0.7,No,,No,No,No,,No,,No,No,,,,,,,,,
+Kristi Nichols,Kristi414US,,MO,U.S. Senate Missouri,Senator,Regular,8/7/18,Lost,None,None,7.5,No,,No,No,No,,No,,No,No,,,,,,3,3,25,3.4193548387096775
+Fred Ryman,,,MO,U.S. Senate Missouri,Senator,Regular,8/7/18,Lost,None,None,1.3,No,,No,No,No,,No,,No,No,,,,,,,,,
+Whit Hughes,,,MS,U.S. House Mississippi District 3,Representative,Regular,6/5/18,Advanced,Lost,None,22.24,No,,,,,,,,,,,Yes,,,,,,,
+Michael Guest,GuestCongress,,MS,U.S. House Mississippi District 3,Representative,Regular,6/5/18,Advanced,Advanced,On the Ballot,44.84,Yes,,,,,,,,,,,No,,,,26,47,368,3.5510204081632653
+Sally Doty,SallyDoty,DotyforCongress,MS,U.S. House Mississippi District 3,Representative,Regular,6/5/18,Lost,None,None,10.16,No,,,,,,,,,,,No,,,,18,10,108,3.323529411764706
+Perry Parker,perryparker23,,MS,U.S. House Mississippi District 3,Representative,Regular,6/5/18,Lost,None,None,16.24,No,,,,,,,,,,,No,,,,12,17,61,3.088888888888889
+Morgan Dunn,morgandunn_ms,DunnCongress,MS,U.S. House Mississippi District 3,Representative,Regular,6/5/18,Lost,None,None,5.87,No,,,,,,,,,,,No,,,,1,3,38,3.761904761904762
+Katherine Tate,,,MS,U.S. House Mississippi District 3,Representative,Regular,6/5/18,Lost,None,None,0.64,No,,,,,,,,,,,No,,,,,,,
+Matt Rosendale,MattForMontana,,MT,U.S. Senate Montana,Senator,Regular,6/5/18,Advanced,None,On the Ballot,33.82,Yes,,,Yes,Yes,,,,Yes,,,Yes,,,,88,156,596,3.2095238095238097
+Albert Olszewski,OlszewskiAl,alformontana,MT,U.S. Senate Montana,Senator,Regular,6/5/18,Lost,None,None,18.7,No,,,No,No,,,,No,,,No,,,,0,0,0,
+Russell C. Fagg,russforussenate,,MT,U.S. Senate Montana,Senator,Regular,6/5/18,Lost,None,None,28.34,No,,,No,No,,,,No,,,No,,,,15,41,127,3.2240437158469946
+Troy Downing,TroyDowningMT,,MT,U.S. Senate Montana,Senator,Regular,6/5/18,Lost,None,None,19.12,No,,,No,No,,,,No,,,No,,,,41,58,276,3.2533333333333334
+Roger Allison,RogerWAllison,,NC,U.S. House North Carolina District 1,Representative,Regular,5/8/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,,,,,,,133,115,265,2.5146198830409356
+Paul Wright,,,NC,U.S. House North Carolina District 12,Representative,Regular,5/8/18,Advanced,None,On the Ballot,43.21,Yes,,,,,,,,,,,,,,,,,,
+Paul Bonham,,,NC,U.S. House North Carolina District 12,Representative,Regular,5/8/18,Lost,None,None,31.51,No,,,,,,,,,,,,,,,,,,
+Carl Persson,cp4usc,,NC,U.S. House North Carolina District 12,Representative,Regular,5/8/18,Lost,None,None,25.29,No,,,,,,,,,,,,,,,8,7,18,2.606060606060606
+Steve Von Loor,steveavonloor,,NC,U.S. House North Carolina District 4,Representative,Regular,5/8/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,,,,,,,119,156,349,2.7371794871794872
+Kelly Armstrong,Armstrong_ND,,ND,U.S. House North Dakota At-large District,Representative,Regular,6/12/18,Advanced,None,On the Ballot,56.22,Yes,,,,,,,,,,,,,,,2,5,162,3.893491124260355
+Kelly Armstrong,RepArmstrongND,,ND,U.S. House North Dakota At-large District,Representative,Regular,6/12/18,Advanced,None,On the Ballot,56.22,Yes,,,,,,,,,,,,,,,0,0,0,
+Tom Campbell,tomfornd,,ND,U.S. House North Dakota At-large District,Representative,Regular,6/12/18,Lost,None,None,26.87,No,,,,,,,,,,,,,,,10,29,153,3.4895833333333335
+Tiffany Abentroth,abentrothfornd,,ND,U.S. House North Dakota At-large District,Representative,Regular,6/12/18,Lost,None,None,8.91,No,,,,,,,,,,,,,,,17,12,125,3.4025974025974026
+Paul Schaffner,,,ND,U.S. House North Dakota At-large District,Representative,Regular,6/12/18,Lost,None,None,7.89,No,,,,,,,,,,,,,,,,,,
+Kevin Cramer,kevincramer,,ND,U.S. Senate North Dakota,Senator,Regular,6/12/18,Advanced,None,On the Ballot,87.73,Yes,,Yes,,,,Yes,,,,,,,,,41,29,233,3.267326732673267
+Thomas O'Neill,,,ND,U.S. Senate North Dakota,Senator,Regular,6/12/18,Lost,None,None,12.13,No,,No,,,,No,,,,,,,,,,,,
+Andy Martin,AndyMartinUSA,,NH,U.S. House New Hampshire District 1,Representative,Regular,9/11/18,Lost,None,None,4.2,No,No,,,,No,,,,,,,,,,23,16,13,1.6153846153846154
+Andy Sanborn,SenatorSanborn,,NH,U.S. House New Hampshire District 1,Representative,Regular,9/11/18,Lost,None,None,41.6,No,Yes,,,,Yes,,,,,,,,,,37,57,376,3.442553191489362
+Eddie Edwards,EddieEdwardsNH,,NH,U.S. House New Hampshire District 1,Representative,Regular,9/11/18,Advanced,None,On the Ballot,48,Yes,Yes,,,,No,,,,,,,,,,41,44,465,3.541818181818182
+Bruce Crochetiere,BruceforNH,,NH,U.S. House New Hampshire District 1,Representative,Regular,9/11/18,Lost,None,None,1.6,No,No,,,,No,,,,,,,,,,0,2,83,3.9529411764705884
+Michael Callis,,,NH,U.S. House New Hampshire District 1,Representative,Regular,9/11/18,Lost,None,None,2.6,No,No,,,,No,,,,,,,,,,,,,
+Lynne Blankenbeker,BlankenbekerNH,,NH,U.S. House New Hampshire District 2,Representative,Regular,9/11/18,Lost,None,None,22.9,No,No,,,,,,Yes,,,,,,,,11,9,90,3.4363636363636365
+Steve Negron,Negron4Congress,,NH,U.S. House New Hampshire District 2,Representative,Regular,9/11/18,Advanced,None,On the Ballot,26,Yes,Yes,,,,,,No,,,,,,,,20,23,217,3.5153846153846153
+Stewart Levenson,Dr_Levenson_NH,,NH,U.S. House New Hampshire District 2,Representative,Regular,9/11/18,Lost,None,None,25.3,No,Yes,,,,,,No,,,,,,,,36,22,253,3.395498392282958
+Brian Belanger,belanger4nh,,NH,U.S. House New Hampshire District 2,Representative,Regular,9/11/18,Lost,None,None,5.6,No,No,,,,,,No,,,,,,,,0,2,3,3.2
+Bob Burns,BurnsForNH,,NH,U.S. House New Hampshire District 2,Representative,Regular,9/11/18,Lost,None,None,15.9,No,No,,,,,,No,,,,,,,,7,7,37,3.176470588235294
+Gerard Beloin,GerardBeloin,,NH,U.S. House New Hampshire District 2,Representative,Regular,9/11/18,Lost,None,None,1.5,No,No,,,,,,No,,,,,,,,7,8,19,2.7058823529411766
+Jay Mercer,,,NH,U.S. House New Hampshire District 2,Representative,Regular,9/11/18,Lost,None,None,2.9,No,No,,,,,,No,,,,,,,,,,,
+Paul Dilks,PaulDilks,,NJ,U.S. House New Jersey District 1,Representative,Regular,6/5/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,,,,,,,33,44,121,2.888888888888889
+Agha Khan,,,NJ,U.S. House New Jersey District 10,Representative,Regular,6/5/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,,,,,,,,,,
+Jay Webber,JayWebberNJ,,NJ,U.S. House New Jersey District 11,Representative,Regular,6/5/18,Advanced,None,On the Ballot,40.04,Yes,Yes,,,,,,Yes,,,,,,,,80,84,416,3.1586206896551725
+Martin Hewitt,VoteHewitt2018,,NJ,U.S. House New Jersey District 11,Representative,Regular,6/5/18,Lost,None,None,3.48,No,No,,,,,No,No,,,,,,,,42,48,150,2.9
+Antony Ghee,antonyghee,,NJ,U.S. House New Jersey District 11,Representative,Regular,6/5/18,Lost,None,None,21.93,No,Yes,,,,,No,No,,,,,,,,0,3,5,3.25
+Patrick Allocco,psallocco,,NJ,U.S. House New Jersey District 11,Representative,Regular,6/5/18,Lost,None,None,4.1,No,No,,,,,No,No,,,,,,,,4,4,25,3.272727272727273
+Peter de Neufville,,,NJ,U.S. House New Jersey District 11,Representative,Regular,6/5/18,Lost,None,None,30.45,No,Yes,,,,,No,No,,,,,,,,,,,
+Daryl Kipnis,Kipnis4Congress,,NJ,U.S. House New Jersey District 12,Representative,Regular,6/5/18,Advanced,None,On the Ballot,100,Yes,,,,,,No,,,,,,,,,119,145,232,2.4556451612903225
+Seth Grossman,Grossman4NJ,,NJ,U.S. House New Jersey District 2,Representative,Regular,6/5/18,Advanced,None,On the Ballot,39.05,Yes,,,,,,No,,,,,,,,,164,140,155,1.9607843137254901
+Samuel Fiocchi,,,NJ,U.S. House New Jersey District 2,Representative,Regular,6/5/18,Lost,None,None,23.35,No,,,,,,No,,,,,,,,,,,,
+Hirsh Singh,HirshSingh,,NJ,U.S. House New Jersey District 2,Representative,Regular,6/5/18,Lost,None,None,30.52,No,,,,,,No,,,,,,,,,4,3,12,2.8421052631578947
+Robert Turkavage,,,NJ,U.S. House New Jersey District 2,Representative,Regular,6/5/18,Lost,None,None,7.09,No,,,,,,No,,,,,,,,,,,,
+John McCann,realJohnMcCann,,NJ,U.S. House New Jersey District 5,Representative,Regular,6/5/18,Advanced,None,On the Ballot,53.05,Yes,Yes,,,,,No,,,,,No,,,,3,1,12,3.125
+Steve Lonegan,Lonegan,,NJ,U.S. House New Jersey District 5,Representative,Regular,6/5/18,Lost,None,None,46.95,No,Yes,,,,,Yes,,,,,Yes,,,,32,37,148,3.0691244239631335
+Rich Pezzullo,RichPezzulloNJ,,NJ,U.S. House New Jersey District 6,Representative,Regular,6/5/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,,,,,,,52,40,122,2.6542056074766354
+John Muniz,,,NJ,U.S. House New Jersey District 8,Representative,Regular,6/5/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,,,,,,,,,,
+Eric Fisher,,,NJ,U.S. House New Jersey District 9,Representative,Regular,6/5/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,,,,,,,,,,
+Bob Hugin,BobHugin,,NJ,U.S. Senate New Jersey,Senator,Regular,6/5/18,Advanced,None,On the Ballot,75.13,Yes,,,,,,,,,,,,,,,269,204,477,2.437894736842105
+Brian Goldberg,Brian4NJ,,NJ,U.S. Senate New Jersey,Senator,Regular,6/5/18,Lost,None,None,24.87,No,,,,,,,,,,,,,,,36,61,244,3.219941348973607
+Steve Pearce,Pearce4NM,,NM,Governor of New Mexico,Governor,Regular,6/5/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,,,,,,,102,64,652,3.3447432762836184
+Janice Arnold-Jones,LadySunshineNM,,NM,U.S. House New Mexico District 1,Representative,Regular,6/5/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,,,,,,,14,30,134,3.348314606741573
+Yvette Herrell,Yvette4congress,,NM,U.S. House New Mexico District 2,Representative,Regular,6/5/18,Advanced,None,On the Ballot,49,Yes,Yes,,,,Yes,,Yes,,,Yes,,,,,16,20,108,3.2777777777777777
+Monty Newman,MontyNewmanNM,,NM,U.S. House New Mexico District 2,Representative,Regular,6/5/18,Lost,None,None,32.03,No,Yes,,,,No,,No,,,No,,,,,0,0,8,4.0
+Gavin Clarkson,DrGavinClarkson,,NM,U.S. House New Mexico District 2,Representative,Regular,6/5/18,Lost,None,None,12.42,No,,,,,No,,No,,,No,,,,,86,59,57,1.7128712871287128
+Clayburn Griffin,Clayburn,,NM,U.S. House New Mexico District 2,Representative,Regular,6/5/18,Lost,None,None,6.55,No,,,,,No,,No,,,No,,,,,327,375,783,2.614141414141414
+Jerald Steve McFall,jstevemcfall,,NM,U.S. House New Mexico District 3,Representative,Regular,6/5/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,,,,,,,10,4,19,2.5454545454545454
+Mick Rich,MickRich4Senate,,NM,U.S. Senate New Mexico,Senator,Regular,6/5/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,,,,,,,86,81,259,2.812206572769953
+Adam Laxalt,AdamLaxalt,,NV,Governor of Nevada,Governor,Regular,6/12/18,Advanced,None,On the Ballot,71.49,Yes,,Yes,,,Yes,,,,Yes,,,,,,68,77,865,3.5782178217821783
+Dan Schwartz,AdamLaxalt,,NV,Governor of Nevada,Governor,Regular,6/12/18,Lost,None,None,9.09,No,,No,,,No,,,,No,,,,,,68,77,865,3.5782178217821783
+Frederick Conquest,conquest4nevada,,NV,Governor of Nevada,Governor,Regular,6/12/18,Lost,None,None,0.54,No,,No,,,No,,,,No,,,,,,0,0,4,4.0
+Stephanie Carlisle,Carlisle4Nevada,,NV,Governor of Nevada,Governor,Regular,6/12/18,Lost,None,None,4.5,No,,No,,,No,,,,No,,,,,,1,3,29,3.696969696969697
+Jared Fisher,fisherfornevada,,NV,Governor of Nevada,Governor,Regular,6/12/18,Lost,None,None,4.71,No,,No,,,No,,,,No,,,,,,19,30,407,3.7017543859649122
+Bill Boyd,boydfornevada,,NV,Governor of Nevada,Governor,Regular,6/12/18,Lost,None,None,4.24,No,,No,,,No,,,,No,,,,,,31,27,55,2.424778761061947
+Edward Dundas,,,NV,Governor of Nevada,Governor,Regular,6/12/18,Lost,None,None,0.41,No,,No,,,No,,,,No,,,,,,,,,
+Stan Lusak,,,NV,Governor of Nevada,Governor,Regular,6/12/18,Lost,None,None,0.71,No,,No,,,No,,,,No,,,,,,,,,
+Joyce Bentley,JoyceBentleyCD1,,NV,U.S. House Nevada District 1,Representative,Regular,6/12/18,Advanced,None,On the Ballot,55.18,Yes,,,,,,,,,,,,,,,7,13,19,2.6153846153846154
+Freddy Horne,,,NV,U.S. House Nevada District 1,Representative,Regular,6/12/18,Lost,None,None,44.82,No,,,,,,,,,,,,,,,,,,
+Danny Tarkanian,DannyTarkanian,,NV,U.S. House Nevada District 3,Representative,Regular,6/12/18,Advanced,None,On the Ballot,44.13,Yes,,Yes,Yes,,No,Yes,,,,,,,,,209,160,514,2.690826727066818
+Annette Teijeiro,AnnetteTeijeiro,,NV,U.S. House Nevada District 3,Representative,Regular,6/12/18,Lost,None,None,3.54,No,,,No,,No,No,,,,,,,,,558,493,1109,2.5101851851851853
+Eddie Hamilton,ethamilton123,,NV,U.S. House Nevada District 3,Representative,Regular,6/12/18,Lost,None,None,1.04,No,,,No,,No,No,,,,,,,,,0,0,0,
+Scott Hammond,hammond4nevada,,NV,U.S. House Nevada District 3,Representative,Regular,6/12/18,Lost,None,None,16.79,No,,,No,,Yes,No,,,,,,,,,15,13,144,3.5
+Patrick Carter,,,NV,U.S. House Nevada District 3,Representative,Regular,6/12/18,Lost,None,None,2.72,No,,,No,,No,No,,,,,,,,,,,,
+David McKeon,McKeonForNevada,,NV,U.S. House Nevada District 3,Representative,Regular,6/12/18,Lost,None,None,4.91,No,,,No,,No,No,,,,,,,,,2,2,34,3.6842105263157894
+Michelle Mortensen,Tell_Michelle_,,NV,U.S. House Nevada District 3,Representative,Regular,6/12/18,Lost,None,None,24.56,No,,,No,,No,No,,,,,,,,,304,369,2240,3.3292138688637145
+Stephanie Jones,Steph4Nevada,,NV,U.S. House Nevada District 3,Representative,Regular,6/12/18,Lost,None,None,1.3,No,,,No,,No,No,,,,,,,,,41,32,58,2.2595419847328246
+Thomas Mark La Croix,ThomasCroix,,NV,U.S. House Nevada District 3,Representative,Regular,6/12/18,Lost,None,None,1,No,,,No,,No,No,,,,,,,,,12,6,11,1.9310344827586208
+Cresent Hardy,RepHardy,,NV,U.S. House Nevada District 4,Representative,Regular,6/12/18,Advanced,None,On the Ballot,47.41,Yes,Yes,,,,,,,,Yes,,,Yes,,,0,0,0,
+Jeff Miller,JMillerCongress,,NV,U.S. House Nevada District 4,Representative,Regular,6/12/18,Lost,None,None,7.96,No,No,,,,,,,,No,,,No,,,336,276,461,2.2329916123019573
+Kenneth Wegner,Wegner4Congress,,NV,U.S. House Nevada District 4,Representative,Regular,6/12/18,Lost,None,None,11.27,No,No,,,,,,,,No,,,No,,,15,10,42,2.8059701492537314
+Mike Monroe,,,NV,U.S. House Nevada District 4,Representative,Regular,6/12/18,Lost,None,None,3.02,No,No,,,,,,,,No,,,No,,,,,,
+Bill Townsend,TownsendForNV,,NV,U.S. House Nevada District 4,Representative,Regular,6/12/18,Lost,None,None,11.37,No,No,,,,,,,,No,,,No,,,538,389,626,2.1133290405666454
+David Gibbs,,,NV,U.S. House Nevada District 4,Representative,Regular,6/12/18,Lost,None,None,18.96,No,No,,,,,,,,No,,,No,,,,,,
+Marcus Molinaro,marcmolinaro,,NY,Governor of New York,Governor,Regular,9/13/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,,,,,,,946,741,1819,2.498003422703936
+Naomi Levin,NaomiLevinNY,,NY,U.S. House New York District 10,Representative,Regular,6/26/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,,,,,,,88,62,278,2.8878504672897196
+Eliot Rabin,EliotRabinForUS,,NY,U.S. House New York District 12,Representative,Regular,6/26/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,,,,,,,21,24,60,2.742857142857143
+Jineea Butler,Jineea4congress,,NY,U.S. House New York District 13,Representative,Regular,6/26/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,,,,,,,2,2,54,3.793103448275862
+Anthony Pappas,,,NY,U.S. House New York District 14,Representative,Regular,6/26/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,,,,,,,,,,
+Jason Gonzalez,,,NY,U.S. House New York District 15,Representative,Regular,6/26/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,,,,,,,,,,
+James O'Donnell,JamesODonnellNY,,NY,U.S. House New York District 18,Representative,Regular,6/26/18,Advanced,None,On the Ballot,100,Yes,Yes,,,,,,,,,,,,,,34,42,180,3.140625
+Joe Vitollo,JoeVitollo,,NY,U.S. House New York District 20,Representative,Regular,6/26/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,,,,,,,191,173,126,1.7346938775510203
+James Maxwell,drjimmaxwell,,NY,U.S. House New York District 25,Representative,Regular,6/26/18,Advanced,None,On the Ballot,100,Yes,Yes,,,,,,,,,,,,,,128,67,440,2.982677165354331
+Renee Zeno,ReneeMZeno,,NY,U.S. House New York District 26,Representative,Regular,6/26/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,,,,,,,445,309,567,2.1847085541256623
+Dan DeBono,DanDeBono,,NY,U.S. House New York District 3,Representative,Regular,6/26/18,Advanced,None,On the Ballot,100,Yes,Yes,,,,,,,,,,,,,,0,0,0,
+Ameer Benno,Benno4Congress,,NY,U.S. House New York District 4,Representative,Regular,6/26/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,,,,,,,67,45,200,2.8525641025641026
+Lutchi Gayot,LutchiGayot,,NY,U.S. House New York District 9,Representative,Regular,6/26/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,,,,,,,104,140,293,2.7039106145251397
+Chele Farley,CheleFarley,,NY,U.S. Senate New York,Senator,Regular,6/26/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,,,,,,,232,234,532,2.6012024048096194
+Richard Michael DeWine,MikeDeWine,,OH,Governor of Ohio,Governor,Regular,5/8/18,Advanced,None,On the Ballot,59.84,Yes,,,,,,Yes,,,,,,,,,49,44,431,3.4580152671755724
+Mary Taylor,MaryTaylorOH,,OH,Governor of Ohio,Governor,Regular,5/8/18,Lost,None,None,40.16,No,,,,,,No,,,,,,,,,191,154,366,2.492264416315049
+Beverly Goldstein,BevGoldstein,,OH,U.S. House Ohio District 11,Representative,Regular,5/8/18,Advanced,None,On the Ballot,52.55,Yes,,,,,,,,,,,,,,,90,75,244,2.7530562347188265
+Gregory Dunham,,,OH,U.S. House Ohio District 11,Representative,Regular,5/8/18,Lost,None,None,47.45,No,,,,,,,,,,,,,,,,,,
+Troy Balderson,Troy_Balderson,,OH,U.S. House Ohio District 12,Representative,Regular,5/8/18,Advanced,None,On the Ballot,28.72,Yes,,,,,,Yes,No,No,,No,,Yes,,,9,12,322,3.825072886297376
+Jon Halverstadt,,,OH,U.S. House Ohio District 12,Representative,Regular,5/8/18,Lost,None,None,1.66,No,,,,,,No,No,No,,No,,No,,,,,,
+Troy Balderson,RepBalderson,,OH,U.S. House Ohio District 12,Representative,Special,5/8/18,Advanced,None,On the Ballot,29.22,Yes,,,,,,Yes,No,No,,No,,Yes,,,2,2,12,3.25
+Jon Halverstadt,,,OH,U.S. House Ohio District 12,Representative,Special,5/8/18,Lost,None,None,1.45,No,,,,,,No,No,No,,No,,No,,,,,,
+John Adams,,,OH,U.S. House Ohio District 12,Representative,Regular,5/8/18,Lost,None,None,0.91,No,,,,,,No,No,No,,No,,No,,,,,,
+Kevin Bacon,,,OH,U.S. House Ohio District 12,Representative,Regular,5/8/18,Lost,None,None,14.26,No,,,,,,No,No,No,,No,,No,,,,,,
+Pat Manley,PatManleyOhio,,OH,U.S. House Ohio District 12,Representative,Regular,5/8/18,Lost,None,None,1.16,No,,,,,,No,No,No,,No,,No,,,33,21,28,1.8780487804878048
+Carol O'Brien,OBrienForOhio,,OH,U.S. House Ohio District 12,Representative,Regular,5/8/18,Lost,None,None,6.48,No,,,,,,No,No,No,,No,,No,,,5,5,66,3.6052631578947367
+Tim Kane,kaneforohio,,OH,U.S. House Ohio District 12,Representative,Regular,5/8/18,Lost,None,None,16.88,No,,,,,,No,No,No,,No,,No,,,21,13,62,2.8541666666666665
+Melanie Leneghan,MelanieLeneghan,,OH,U.S. House Ohio District 12,Representative,Regular,5/8/18,Lost,None,None,27.58,No,,,,,,No,Yes,Yes,,Yes,,No,,,9,5,41,3.1636363636363636
+Lawrence Cohen,CohenOH12,,OH,U.S. House Ohio District 12,Representative,Regular,5/8/18,Lost,None,None,1.17,No,,,,,,No,No,No,,No,,No,,,39,50,73,2.419753086419753
+Mick Shoemaker Jr.,,,OH,U.S. House Ohio District 12,Representative,Regular,5/8/18,Lost,None,None,1.18,No,,,,,,No,No,No,,No,,No,,,,,,
+Kevin Bacon,,,OH,U.S. House Ohio District 12,Representative,Special,5/8/18,Lost,None,None,14.27,No,,,,,,No,No,No,,No,,No,,,,,,
+Lawrence Cohen,CohenOH12,,OH,U.S. House Ohio District 12,Representative,Special,5/8/18,Lost,None,None,1.17,No,,,,,,No,No,No,,No,,No,,,39,50,73,2.419753086419753
+Tim Kane,kaneforohio,,OH,U.S. House Ohio District 12,Representative,Special,5/8/18,Lost,None,None,17.07,No,,,,,,No,No,No,,No,,No,,,21,13,62,2.8541666666666665
+Melanie Leneghan,MelanieLeneghan,,OH,U.S. House Ohio District 12,Representative,Special,5/8/18,Lost,None,None,28.25,No,,,,,,No,Yes,Yes,,Yes,,No,,,9,5,41,3.1636363636363636
+Pat Manley,PatManleyOhio,,OH,U.S. House Ohio District 12,Representative,Special,5/8/18,Lost,None,None,1.08,No,,,,,,No,No,No,,No,,No,,,33,21,28,1.8780487804878048
+Carol O'Brien,OBrienForOhio,,OH,U.S. House Ohio District 12,Representative,Special,5/8/18,Lost,None,None,6.4,No,,,,,,No,No,No,,No,,No,,,5,5,66,3.6052631578947367
+Mick Shoemaker Jr.,,,OH,U.S. House Ohio District 12,Representative,Special,5/8/18,Lost,None,None,1.09,No,,,,,,No,No,No,,No,,No,,,,,,
+Christopher DePizzo,chrisdepizzo,,OH,U.S. House Ohio District 13,Representative,Regular,5/8/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,,,,,,,127,100,274,2.586826347305389
+Anthony Gonzalez,RepAGonzalez,,OH,U.S. House Ohio District 16,Representative,Regular,5/8/18,Advanced,None,On the Ballot,53.07,Yes,Yes,,,,No,Yes,No,,,No,,Yes,Yes,,0,0,0,
+Christina Hagan,RepHagan,,OH,U.S. House Ohio District 16,Representative,Regular,5/8/18,Lost,None,None,40.78,No,Yes,,,,Yes,No,Yes,,,Yes,,No,No,,206,173,577,2.776150627615063
+Michael Grusenmeyer,DrGrusenmeyer,,OH,U.S. House Ohio District 16,Representative,Regular,5/8/18,Lost,None,None,6.15,No,No,,,,No,No,No,,,No,,No,No,,0,0,1,4.0
+Jim Burgess,JimBurgess7,,OH,U.S. House Ohio District 3,Representative,Regular,5/8/18,Advanced,None,On the Ballot,93.1,Yes,,,,,,,,,,,,,,,0,0,2,4.0
+Abdulkadir Haji,Hajiforcongress,,OH,U.S. House Ohio District 3,Representative,Regular,5/8/18,Lost,None,None,6.9,No,,,,,,,,,,,,,,,18,10,41,2.6666666666666665
+Steven Kraus,TEAMKRAUS,,OH,U.S. House Ohio District 9,Representative,Regular,5/8/18,Advanced,None,On the Ballot,49.45,Yes,,,,,,,,,,,,,,,0,0,1,4.0
+Keith Colton,colton4congress,,OH,U.S. House Ohio District 9,Representative,Regular,5/8/18,Lost,None,None,29.86,No,,,,,,,,,,,,,,,0,0,3,4.0
+W. Benjamin Franklin,,,OH,U.S. House Ohio District 9,Representative,Regular,5/8/18,Lost,None,None,20.7,No,,,,,,,,,,,,,,,,,,
+Jim Renacci,RepJimRenacci,,OH,U.S. Senate Ohio,Senator,Regular,5/8/18,Advanced,None,On the Ballot,47.34,Yes,,Yes,,,Yes,Yes,,,Yes,,No,,,,116,160,544,3.0439024390243903
+Don Eckhart,DoneOnFaith,,OH,U.S. Senate Ohio,Senator,Regular,5/8/18,Lost,None,None,3.88,No,,No,,,No,No,,,No,,No,,,,5,1,4,1.8
+Mike Gibbons,MikeGibbonsOH,,OH,U.S. Senate Ohio,Senator,Regular,5/8/18,Lost,None,None,31.69,No,,No,,,No,No,,,No,,Yes,,,,28,55,307,3.4307692307692306
+Melissa Ackison,MelissaAckison,,OH,U.S. Senate Ohio,Senator,Regular,5/8/18,Lost,None,None,13.09,No,,No,,,No,No,,,No,,No,,,,334,300,542,2.3537414965986394
+Dan Kiley,kileyforsenate,,OH,U.S. Senate Ohio,Senator,Regular,5/8/18,Lost,None,None,3.99,No,,No,,,No,No,,,No,,No,,,,13,12,39,2.8125
+Mick Cornett,MickforGovernor,,OK,Governor of Oklahoma,Governor,Regular,6/26/18,Advanced,Lost,None,29.34,No,,,,,,,,,,,,,,,13,26,251,3.6413793103448278
+Mick Cornett,MickCornett,,OK,Governor of Oklahoma,Governor,Regular,6/26/18,Advanced,Lost,None,29.34,No,,,,,,,,,,,,,,,77,103,772,3.4600840336134455
+Kevin Stitt,GovStitt,,OK,Governor of Oklahoma,Governor,Regular,6/26/18,Advanced,Advanced,On the Ballot,24.41,Yes,,,,,,,,,,,,,,,54,74,441,3.3602811950790863
+Christopher Barnett,,,OK,Governor of Oklahoma,Governor,Regular,6/26/18,Lost,None,None,1.16,No,,,,,,,,,,,,,,,,,,
+Dan Fisher,DanLFisher,,OK,Governor of Oklahoma,Governor,Regular,6/26/18,Lost,None,None,7.91,No,,,,,,,,,,,,,,,4,3,6,2.3076923076923075
+Eric Foutch,,,OK,Governor of Oklahoma,Governor,Regular,6/26/18,Lost,None,None,0.51,No,,,,,,,,,,,,,,,,,,
+Barry Gowdy,,,OK,Governor of Oklahoma,Governor,Regular,6/26/18,Lost,None,None,0.52,No,,,,,,,,,,,,,,,,,,
+Gary Jones,JonesOK2018,,OK,Governor of Oklahoma,Governor,Regular,6/26/18,Lost,None,None,5.58,No,,,,,,,,,,,,,,,76,63,123,2.3587786259541983
+Todd Lamb,LtGovToddLamb,,OK,Governor of Oklahoma,Governor,Regular,6/26/18,Lost,None,None,23.86,No,,,,,,,,,,,,,,,3,3,17,3.217391304347826
+Todd Lamb,ToddGLamb,,OK,Governor of Oklahoma,Governor,Regular,6/26/18,Lost,None,None,23.86,No,,,,,,,,,,,,,,,9,23,256,3.7152777777777777
+Gary Richardson,,,OK,Governor of Oklahoma,Governor,Regular,6/26/18,Lost,None,None,4.02,No,,,,,,,,,,,,,,,,,,
+Blake Cowboy Stephens,,,OK,Governor of Oklahoma,Governor,Regular,6/26/18,Lost,None,None,2.7,No,,,,,,,,,,,,,,,,,,
+Kevin Hern,krhern,,OK,U.S. House Oklahoma District 1,Representative,Regular,6/26/18,Advanced,Advanced,On the Ballot,22.68,Yes,,,,,,,,No,,No,,Yes,,,27,26,230,3.4346289752650176
+Kevin Hern,repkevinhern,,OK,U.S. House Oklahoma District 1,Representative,Regular,6/26/18,Advanced,Advanced,On the Ballot,22.68,Yes,,,,,,,,No,,No,,Yes,,,0,0,0,
+Tim Harris,VoteTimHarris,,OK,U.S. House Oklahoma District 1,Representative,Regular,6/26/18,Advanced,Lost,None,27.48,No,,,,,,,,,,No,,No,,,0,1,5,3.6666666666666665
+Nathan Dahm,NathanDahm,,OK,U.S. House Oklahoma District 1,Representative,Regular,6/26/18,Lost,None,None,20.17,No,,,,,,,,,,No,,No,,,35,41,40,2.086206896551724
+Andy Coleman,AndyColeman79,,OK,U.S. House Oklahoma District 1,Representative,Regular,6/26/18,Lost,None,None,21.85,No,,,,,,,,,,Yes,,No,,,14,10,127,3.4966887417218544
+Danny Stockstill,Stockstill4OK,,OK,U.S. House Oklahoma District 1,Representative,Regular,6/26/18,Lost,None,None,7.83,No,,,,,,,,,,No,,No,,,0,5,9,3.2857142857142856
+Danny Stockstill,dannystockstill,,OK,U.S. House Oklahoma District 1,Representative,Regular,6/26/18,Lost,None,None,7.83,No,,,,,,,,,,No,,No,,,1,0,5,3.3333333333333335
+Knute Buehler,KnuteBuehler,,OR,Governor of Oregon,Governor,Regular,5/15/18,Advanced,None,On the Ballot,45.9,Yes,,,,,,No,,,,,,,,,388,264,742,2.5078909612625537
+Bruce Cuff,brucecuff,,OR,Governor of Oregon,Governor,Regular,5/15/18,Lost,None,None,1.55,No,,,,,,No,,,,,,,,,0,0,8,4.0
+Sam Carpenter,CarpenterforOR,,OR,Governor of Oregon,Governor,Regular,5/15/18,Lost,None,None,28.85,No,,,,,,No,,,,,,,,,45,97,278,3.1095238095238096
+Jeff Smith,,,OR,Governor of Oregon,Governor,Regular,5/15/18,Lost,None,None,1.49,No,,,,,,No,,,,,,,,,,,,
+Keenan Bohach,,,OR,Governor of Oregon,Governor,Regular,5/15/18,Lost,None,None,0.25,No,,,,,,No,,,,,,,,,,,,
+Jack Tacy,,,OR,Governor of Oregon,Governor,Regular,5/15/18,Lost,None,None,0.16,No,,,,,,No,,,,,,,,,,,,
+Greg Wooldridge,greg_wooldridge,,OR,Governor of Oregon,Governor,Regular,5/15/18,Lost,None,None,20.08,No,,,,,,Yes,,,,,,,,,29,26,85,2.8
+Jonathan Edwards (Oregon),,,OR,Governor of Oregon,Governor,Regular,5/15/18,Lost,None,None,0.27,No,,,,,,No,,,,,,,,,,,,
+Brett Hyland,,,OR,Governor of Oregon,Governor,Regular,5/15/18,Lost,None,None,0.24,No,,,,,,No,,,,,,,,,,,,
+David Stauffer,,,OR,Governor of Oregon,Governor,Regular,5/15/18,Lost,None,None,0.67,No,,,,,,No,,,,,,,,,,,,
+John Verbeek,,,OR,U.S. House Oregon District 1,Representative,Regular,5/15/18,Advanced,None,On the Ballot,50.61,Yes,,,,,,,,,,,,,,,,,,
+George Griffith,,,OR,U.S. House Oregon District 1,Representative,Regular,5/15/18,Lost,None,None,40.72,No,,,,,,,,,,,,,,,,,,
+Preston Miller,,,OR,U.S. House Oregon District 1,Representative,Regular,5/15/18,Lost,None,None,7.71,No,,,,,,,,,,,,,,,,,,
+Art Robinson,ArtForCongress,,OR,U.S. House Oregon District 4,Representative,Regular,5/15/18,Advanced,None,On the Ballot,45.51,Yes,,,,,,Yes,,,,,,,,,3,5,45,3.5849056603773586
+Jo Rae Perkins,PerkinsForUSRep,,OR,U.S. House Oregon District 4,Representative,Regular,5/15/18,Lost,None,None,20.81,No,,,,,,Yes,,,,,,,,,299,281,947,2.848722986247544
+Stefan Strek,realStefanStrek,,OR,U.S. House Oregon District 4,Representative,Regular,5/15/18,Lost,None,None,3.36,No,,,,,,No,,,,,,,,,119,150,225,2.42914979757085
+Court Boice,,,OR,U.S. House Oregon District 4,Representative,Regular,5/15/18,Lost,None,None,23.62,No,,,,,,Yes,,,,,,,,,,,,
+Michael Polen,Polen4Congress,,OR,U.S. House Oregon District 4,Representative,Regular,5/15/18,Lost,None,None,5.95,No,,,,,,No,,,,,,,,,16,20,52,2.8181818181818183
+Mark Callahan,Callahan4Oregon,,OR,U.S. House Oregon District 5,Representative,Regular,5/15/18,Advanced,None,On the Ballot,61.9,Yes,,,,,,Yes,,,,,,,,,0,0,0,
+Joey Nations,joey_nations,,OR,U.S. House Oregon District 5,Representative,Regular,5/15/18,Lost,None,None,20.61,No,,,,,,No,,,,,,,,,445,398,652,2.276923076923077
+Robert Reynolds,rob4congress18,,OR,U.S. House Oregon District 5,Representative,Regular,5/15/18,Lost,None,None,16.64,No,,,,,,Yes,,,,,,,,,9,10,27,2.782608695652174
+Scott Wagner,realScottWagner,,PA,Governor of Pennsylvania,Governor,Regular,5/15/18,Advanced,None,On the Ballot,44.3,Yes,,,Yes,,,,,,,,,,,,84,87,361,3.0413533834586466
+Laura Ellsworth,,,PA,Governor of Pennsylvania,Governor,Regular,5/15/18,Lost,None,None,18.83,No,,,No,,,,,,,,,,,,,,,
+Paul Mango,,,PA,Governor of Pennsylvania,Governor,Regular,5/15/18,Lost,None,None,36.87,No,,,No,,,,,,,,,,,,,,,
+John Joyce,JohnJoyceForPA,,PA,U.S. House Pennsylvania District 13,Representative,Regular,5/15/18,Advanced,None,On the Ballot,22.02,Yes,,,,,,,,No,,No,,Yes,,,0,0,0,
+Art Halvorson,ArtHalvorson,,PA,U.S. House Pennsylvania District 13,Representative,Regular,5/15/18,Lost,None,None,15.33,No,,,,,,,,,,No,,No,,,0,0,0,
+John Eichelberger,SenEichelberger,,PA,U.S. House Pennsylvania District 13,Representative,Regular,5/15/18,Lost,None,None,19.77,No,,,,,,,,,,No,,No,,,0,0,0,
+Stephen Bloom,RepBloom,StephenLBloom,PA,U.S. House Pennsylvania District 13,Representative,Regular,5/15/18,Lost,None,None,18.16,No,,,,,,,,,,Yes,,No,,,141,143,130,1.9468599033816425
+Travis Schooley,TravisSchooley,,PA,U.S. House Pennsylvania District 13,Representative,Regular,5/15/18,Lost,None,None,4.51,No,,,,,,,,,,No,,No,,,3,2,43,3.6666666666666665
+Doug Mastriano,dougmastriano,,PA,U.S. House Pennsylvania District 13,Representative,Regular,5/15/18,Lost,None,None,15.6,No,,,,,,,,,,No,,No,,,64,76,189,2.7598784194528876
+Bernard Washabaugh II,,,PA,U.S. House Pennsylvania District 13,Representative,Regular,5/15/18,Lost,None,None,2.84,No,,,,,,,,,,No,,No,,,,,,
+Benjamin Hornberger,BHornberger2018,,PA,U.S. House Pennsylvania District 13,Representative,Regular,5/15/18,Lost,None,None,1.77,No,,,,,,,,,,No,,No,,,5,6,15,2.769230769230769
+Guy Reschenthaler,reschenthaler,GReschenthaler,PA,U.S. House Pennsylvania District 14,Representative,Regular,5/15/18,Advanced,None,On the Ballot,55.19,Yes,,,,,,,,,,No,,Yes,,,8,3,81,3.5869565217391304
+Rick Saccone,RickSaccone4PA,,PA,U.S. House Pennsylvania District 14,Representative,Regular,5/15/18,Lost,None,None,44.81,No,,,,,,,,Yes,,Yes,,No,,,224,144,299,2.2248875562218893
+David Torres,DTorres4cong,,PA,U.S. House Pennsylvania District 2,Representative,Regular,5/15/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,,,,,,,0,0,0,
+Bryan Leib,LeibforPA,,PA,U.S. House Pennsylvania District 3,Representative,Regular,5/15/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,,,,,,,574,464,1495,2.7272009474930914
+Dan David,DanDavidPA,,PA,U.S. House Pennsylvania District 4,Representative,Regular,5/15/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,,,,,,,49,29,170,2.975806451612903
+Pearl Kim,PearlKimPA,,PA,U.S. House Pennsylvania District 5,Representative,Regular,5/15/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,,,,,,,28,22,141,3.183246073298429
+Greg McCauley,McCauley4PA,GregMcCauleyUSA,PA,U.S. House Pennsylvania District 6,Representative,Regular,5/15/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,,,,,,,13,32,170,3.4604651162790696
+Marty Nothstein,Marty_Nothstein,,PA,U.S. House Pennsylvania District 7,Representative,Regular,5/15/18,Advanced,None,On the Ballot,50.49,Yes,Yes,,,,,,,,,,,,,,0,0,0,
+Dean Browning,DeanBrowningPA,,PA,U.S. House Pennsylvania District 7,Representative,Regular,5/15/18,Lost,None,None,49.51,No,No,,,,,,,,,,,,,,13,9,34,2.75
+John Chrin,JohnChrin,,PA,U.S. House Pennsylvania District 8,Representative,Regular,5/15/18,Advanced,None,On the Ballot,48.47,Yes,Yes,,,,,,,,,,,,,,53,60,422,3.3794392523364487
+Robert Kuniegel,robertjkuniegel,,PA,U.S. House Pennsylvania District 8,Representative,Regular,5/15/18,Lost,None,None,16.66,No,No,,,,,,,,,,,,,,26,17,28,2.056338028169014
+Joe Peters,,,PA,U.S. House Pennsylvania District 8,Representative,Regular,5/15/18,Lost,None,None,34.87,No,No,,,,,,,,,,,,,,,,,
+Dan Meuser,Meuser4Congress,RepMeuser,PA,U.S. House Pennsylvania District 9,Representative,Regular,5/15/18,Advanced,None,On the Ballot,52.94,Yes,Yes,,,,,,,,,,,,,Yes,12,23,308,3.7259475218658893
+Scott Uehlinger,Scottforpa,,PA,U.S. House Pennsylvania District 9,Representative,Regular,5/15/18,Lost,None,None,23.1,No,No,,,,,,,,,,,,,No,68,63,159,2.627586206896552
+George Halcovage,GeorgeHalcovage,geohalco,PA,U.S. House Pennsylvania District 9,Representative,Regular,5/15/18,Lost,None,None,23.97,No,No,,,,,,,,,,,,,No,5,5,74,3.642857142857143
+Lou Barletta,louforsenate,reploubarletta,PA,U.S. Senate Pennsylvania,Senator,Regular,5/15/18,Advanced,None,On the Ballot,63.03,Yes,,,,,,,,,Yes,,,,,,145,136,403,2.754385964912281
+Jim Christiana,repchristiana,,PA,U.S. Senate Pennsylvania,Senator,Regular,5/15/18,Lost,None,None,36.97,No,,,,,,,,,No,,,,,,29,34,66,2.5736434108527133
+Giovanni Feroce,giovanniferoce,,RI,Governor of Rhode Island,Governor,Regular,9/12/18,Lost,None,None,3.5,No,,,,,,,No,,,,,,,,0,0,0,
+Allan Fung,mayorfung,allanfungri,RI,Governor of Rhode Island,Governor,Regular,9/12/18,Advanced,None,On the Ballot,56.4,Yes,,,,,,,No,,,,,,,,0,0,0,
+Patricia Morgan,repmorgan,patriciaforri,RI,Governor of Rhode Island,Governor,Regular,9/12/18,Lost,None,None,40.1,No,,,,,,,Yes,,,,,,,,422,284,585,2.2525174283501164
+Frederick Wysocki,,,RI,U.S. House Rhode Island District 1,Representative,Regular,9/12/18,Lost,None,None,21.6,No,,,,,,,,,,,,,,,,,,
+Patrick Donovan,,,RI,U.S. House Rhode Island District 1,Representative,Regular,9/12/18,Advanced,None,On the Ballot,78.4,Yes,,,,,,,,,,,,,,,,,,
+Salvatore Caiozzo,salforcongress,,RI,U.S. House Rhode Island District 2,Representative,Regular,9/12/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,,,,,,,46,28,72,2.356164383561644
+Roque De La Fuente,joinrocky,,RI,U.S. Senate Rhode Island,Senator,Regular,9/12/18,Lost,None,None,12.3,No,,,,,,,,,,,,,,,41,53,128,2.7837837837837838
+Robert Flanders Jr.,flanders4senate,rgflandersjr,RI,U.S. Senate Rhode Island,Senator,Regular,9/12/18,Advanced,None,On the Ballot,87.7,Yes,,,,,,,,,,,,,,,99,57,280,2.830275229357798
+Lee Bright,leebright,,SC,U.S. House South Carolina District 4,Representative,Regular,6/12/18,Advanced,Lost,None,24.95,No,,,,,,,,No,,,,,,,0,0,14,4.0
+William Timmons,votetimmons,reptimmons,SC,U.S. House South Carolina District 4,Representative,Regular,6/12/18,Advanced,Advanced,On the Ballot,19.21,Yes,,,,,,,,No,,,,,,,4,4,33,3.4146341463414633
+Dan Hamilton,dphamilton,RepDanHamilton,SC,U.S. House South Carolina District 4,Representative,Regular,6/12/18,Lost,None,None,18.62,No,,,,,,,,No,,,,,,,44,44,74,2.3703703703703702
+Stephen Brown,,,SC,U.S. House South Carolina District 4,Representative,Regular,6/12/18,Lost,None,None,7.57,No,,,,,,,,No,,,,,,,,,,
+Mark Burns,pastormarkburns,,SC,U.S. House South Carolina District 4,Representative,Regular,6/12/18,Lost,None,None,2.48,No,,,,,,,,No,,,,,,,145,133,447,2.833103448275862
+Barry Bell,,,SC,U.S. House South Carolina District 4,Representative,Regular,6/12/18,Lost,None,None,0.3,No,,,,,,,,No,,,,,,,,,,
+Josh Kimbrell,Josh_Kimbrell,,SC,U.S. House South Carolina District 4,Representative,Regular,6/12/18,Lost,None,None,11.13,No,,,,,,,,Yes,,,,,,,83,44,126,2.3399209486166006
+James Epley,,,SC,U.S. House South Carolina District 4,Representative,Regular,6/12/18,Lost,None,None,8.03,No,,,,,,,,No,,,,,,,,,,
+Shannon Pierce,ShannonPierceSC,dshannonpierce,SC,U.S. House South Carolina District 4,Representative,Regular,6/12/18,Lost,None,None,3.64,No,,,,,,,,No,,,,,,,3,8,61,3.611111111111111
+Claude Schmid,,,SC,U.S. House South Carolina District 4,Representative,Regular,6/12/18,Lost,None,None,2.11,No,,,,,,,,No,,,,,,,,,,
+Dan Albert,,,SC,U.S. House South Carolina District 4,Representative,Regular,6/12/18,Lost,None,None,0.76,No,,,,,,,,No,,,,,,,,,,
+John Marshall Mosser,,,SC,U.S. House South Carolina District 4,Representative,Regular,6/12/18,Lost,None,None,0.68,No,,,,,,,,No,,,,,,,,,,
+Justin David Sanders,JSandersSC04,,SC,U.S. House South Carolina District 4,Representative,Regular,6/12/18,Lost,None,None,0.53,No,,,,,,,,No,,,,,,,5,5,10,2.5
+Gerhard Gressmann,gressmannforSC6,,SC,U.S. House South Carolina District 6,Representative,Regular,6/12/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,,,,,,,0,0,0,
+Kristi L. Noem,KristiNoem,,SD,Governor of South Dakota,Governor,Regular,6/5/18,Advanced,None,On the Ballot,56.03,Yes,,,,,,,Yes,,,,,,,,48,58,454,3.45
+Marty J. Jackley,martyjackley,,SD,Governor of South Dakota,Governor,Regular,6/5/18,Lost,None,None,43.96,No,,,,,,,No,,,,,,,,72,54,455,3.3184165232358005
+Dusty Johnson,DustyJohnson,,SD,U.S. House South Dakota At-large District,Representative,Regular,6/5/18,Advanced,None,On the Ballot,46.81,Yes,Yes,,,,,,No,,Yes,,,No,,,18,14,63,2.9473684210526314
+Neal Tapio,,,SD,U.S. House South Dakota At-large District,Representative,Regular,6/5/18,Lost,None,None,23.87,No,No,,,,,,No,,No,,,No,,,,,,
+Shantel Krebs,,,SD,U.S. House South Dakota At-large District,Representative,Regular,6/5/18,Lost,None,None,29.34,No,Yes,,,,,,Yes,,No,,,Yes,,No,,,,
+Diane Black,RepDianeBlack,DianeBlackTN,TN,Governor of Tennessee,Governor,Regular,8/2/18,Lost,None,None,23,No,,,,,Yes,Yes,Yes,,,,,,,,56,50,161,2.7865168539325844
+Randy Boyd,randyboyd,,TN,Governor of Tennessee,Governor,Regular,8/2/18,Lost,None,None,24.4,No,,,,,No,No,No,,,,,,,,40,63,852,3.700523560209424
+Beth Harwell,BethHarwellTN,,TN,Governor of Tennessee,Governor,Regular,8/2/18,Lost,None,None,15.3,No,,,,,No,No,No,,,,,,,,17,33,251,3.5548172757475083
+Bill Lee,BillLeeTN,,TN,Governor of Tennessee,Governor,Regular,8/2/18,Advanced,None,On the Ballot,36.8,Yes,,,,,No,No,No,,,,,,,,66,37,902,3.663681592039801
+Basil Marceaux,Marceaux2018,,TN,Governor of Tennessee,Governor,Regular,8/2/18,Lost,None,None,0.2,No,,,,,No,No,No,,,,,,,,15,18,14,1.9574468085106382
+Kay White,kaywhite4tngov,,TN,Governor of Tennessee,Governor,Regular,8/2/18,Lost,None,None,0.4,No,,,,,No,No,No,,,,,,,,91,96,213,2.61
+Jason Emert,JasonEmert,,TN,U.S. House Tennessee District 2,Representative,Regular,8/2/18,Lost,None,None,2.3,No,,,,,,,,,No,,,No,,,75,87,684,3.4397163120567376
+Jimmy Matlock,JimmyMatlockTN,,TN,U.S. House Tennessee District 2,Representative,Regular,8/2/18,Lost,None,None,36.1,No,,,,,,,,,Yes,,,No,,,21,33,262,3.5253164556962027
+Tim Burchett,timburchett,,TN,U.S. House Tennessee District 2,Representative,Regular,8/2/18,Advanced,None,On the Ballot,48.2,Yes,,,,,,,,,No,,,No,,,680,608,2349,2.9177893868573
+Vito Sagliano,VitoForCongress,,TN,U.S. House Tennessee District 2,Representative,Regular,8/2/18,Lost,None,None,0.8,No,,,,,,,,,No,,,No,,,331,256,776,2.652971386647102
+Hank Hamblin,,,TN,U.S. House Tennessee District 2,Representative,Regular,8/2/18,Lost,None,None,0.9,No,,,,,,,,,No,,,No,,,,,,
+Ashley Nickloes,Ashley_Nickloes,,TN,U.S. House Tennessee District 2,Representative,Regular,8/2/18,Lost,None,None,11,No,,,,,,,,,No,,,Yes,,,4,4,134,3.8309859154929575
+C. David Stansberry,,,TN,U.S. House Tennessee District 2,Representative,Regular,8/2/18,Lost,None,None,0.7,No,,,,,,,,,No,,,No,,,,,,
+Glen Dean,GlenDean1,,TN,U.S. House Tennessee District 5,Representative,Regular,8/2/18,Lost,None,None,44.1,No,,,,,,,,,,,,,,,1,0,1,2.0
+Jody Ball,jballcampaign,,TN,U.S. House Tennessee District 5,Representative,Regular,8/2/18,Advanced,None,On the Ballot,55.9,Yes,,,,,,,,,,,,,,,20,30,205,3.450980392156863
+Judd Matheny,judd4congress,,TN,U.S. House Tennessee District 6,Representative,Regular,8/2/18,Lost,None,None,15.9,No,,,,,,No,,,,Yes,,,,,6,4,19,2.896551724137931
+Robert Ewing Corlew,BobCorlewTN,,TN,U.S. House Tennessee District 6,Representative,Regular,8/2/18,Lost,None,None,31.1,No,,,,,,Yes,,,,No,,,,,37,33,168,3.100840336134454
+John Rose,JohnRoseforTN,RepJohnRose,TN,U.S. House Tennessee District 6,Representative,Regular,8/2/18,Advanced,None,On the Ballot,41.3,Yes,,,,,,No,,,,No,,,,,67,83,559,3.38787023977433
+Christopher Monday,Monday4Congress,,TN,U.S. House Tennessee District 6,Representative,Regular,8/2/18,Lost,None,None,2.8,No,,,,,,No,,,,No,,,,,0,0,0,
+LaVern "U-Turn LaVern" Vivio,,,TN,U.S. House Tennessee District 6,Representative,Regular,8/2/18,Lost,None,None,8.8,No,,,,,,No,,,,No,,,,,,,,
+Mark Green,RepMarkGreen,drmarkgreen4TN,TN,U.S. House Tennessee District 7,Representative,Regular,8/2/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,Yes,,Yes,,,,,0,0,0,
+Charlotte Bergmann,ElectBergmann,,TN,U.S. House Tennessee District 9,Representative,Regular,8/2/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,,,,,,,338,276,1047,2.8537025888019265
+Marsha Blackburn,MarshaBlackburn,VoteMarsha,TN,U.S. Senate Tennessee,Senator,Regular,8/2/18,Advanced,None,On the Ballot,84.5,Yes,,Yes,Yes,Yes,,,Yes,Yes,Yes,,,,,,168,97,285,2.4254545454545453
+Aaron Pettigrew,alpettigrew1,,TN,U.S. Senate Tennessee,Senator,Regular,8/2/18,Lost,None,None,15.5,No,,No,No,No,,,No,No,No,,,,,,228,440,688,2.678466076696165
+Tim Westley,twestley777,,TX,U.S. House Texas District 15,Representative,Regular,3/6/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,,,,,,,0,4,19,3.652173913043478
+Rick Seeberger,SEEBERGER4USC,,TX,U.S. House Texas District 16,Representative,Regular,3/6/18,Advanced,None,On the Ballot,69.35,Yes,,,,,,,,,,,,,,,33,55,257,3.298550724637681
+Alia Garcia-Ureste,AliaUreste,,TX,U.S. House Texas District 16,Representative,Regular,3/6/18,Lost,None,None,30.65,No,,,,,,,,,,,,,,,0,0,2,4.0
+Ava Pate,avaforcongress,,TX,U.S. House Texas District 18,Representative,Regular,3/6/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,,,,,,,103,94,688,3.3220338983050848
+Kevin Roberts,RobertsForTexas,,TX,U.S. House Texas District 2,Representative,Regular,3/6/18,Advanced,Lost,None,33.03,No,,,,,Yes,,,,,,No,,,,0,0,0,
+Daniel Crenshaw,dancrenshawtx,repdancrenshaw,TX,U.S. House Texas District 2,Representative,Regular,3/6/18,Advanced,Advanced,On the Ballot,27.42,Yes,,,,,No,,,,,,Yes,,,,33,39,240,3.326923076923077
+David Balat,DavidBalatCD2,DavidBalatHC,TX,U.S. House Texas District 2,Representative,Regular,3/6/18,Lost,None,None,0.75,No,,,,,No,,No,,,,No,,,,0,0,0,
+Malcolm Whittaker,,,TX,U.S. House Texas District 2,Representative,Regular,3/6/18,Lost,None,None,0.7,No,,,,,No,,No,,,,No,,,,,,,
+Rick Walker,RickWalkerTX,,TX,U.S. House Texas District 2,Representative,Regular,3/6/18,Lost,None,None,7.18,No,,,,,No,,No,,,,No,,,,103,130,444,3.0073855243722303
+Kathaleen Wall,WallforTX,,TX,U.S. House Texas District 2,Representative,Regular,3/6/18,Lost,None,None,27.08,No,,,,,No,,Yes,,,,No,,,,30,29,311,3.518918918918919
+Justin Lurie,LurieforHouston,,TX,U.S. House Texas District 2,Representative,Regular,3/6/18,Lost,None,None,0.92,No,,,,,No,,No,,,,No,,,,287,199,400,2.255079006772009
+Jon Spiers,drjonspiers,,TX,U.S. House Texas District 2,Representative,Regular,3/6/18,Lost,None,None,0.9,No,,,,,No,,No,,,,No,,,,0,0,0,
+Jonny Havens,Havens4Congress,,TX,U.S. House Texas District 2,Representative,Regular,3/6/18,Lost,None,None,2.02,No,,,,,No,,No,,,,No,,,,0,0,1,4.0
+Matt McCall,VoteMattMcCall,,TX,U.S. House Texas District 21,Representative,Regular,3/6/18,Advanced,Lost,None,16.93,No,,,,,,No,,No,,No,No,,,No,23,18,65,2.792452830188679
+Chip Roy,chiproytx,RepChipRoy,TX,U.S. House Texas District 21,Representative,Regular,3/6/18,Advanced,Advanced,On the Ballot,27.06,Yes,,,,,,Yes,,Yes,,Yes,Yes,,,No,382,433,1187,2.804195804195804
+Francisco Canseco,QuicoCanseco,cansecotx23,TX,U.S. House Texas District 21,Representative,Regular,3/6/18,Lost,None,None,3.47,No,,,,,,No,,No,,No,No,,,No,0,0,0,
+Jason Isaac,ISAACforTexas,,TX,U.S. House Texas District 21,Representative,Regular,3/6/18,Lost,None,None,10.04,No,,,,,,No,,No,,No,No,,,No,31,42,275,3.4022988505747125
+Susan Narvaiz,susannarvaiz,,TX,U.S. House Texas District 21,Representative,Regular,3/6/18,Lost,None,None,3.79,No,,,,,,No,,No,,No,No,,,No,5,8,124,3.7372262773722627
+Eric Burkhart,EBforCongress,mukhabaratbaby,TX,U.S. House Texas District 21,Representative,Regular,3/6/18,Lost,None,None,1.01,No,,,,,,No,,No,,No,No,,,No,41,30,56,2.236220472440945
+Autry Pruitt,Autry,,TX,U.S. House Texas District 21,Representative,Regular,3/6/18,Lost,None,None,0.63,No,,,,,,No,,No,,No,No,,,No,487,404,423,1.9025875190258752
+Robert Stovall,RobertStovall_,,TX,U.S. House Texas District 21,Representative,Regular,3/6/18,Lost,None,None,4.76,No,,,,,,No,,No,,No,No,,,No,37,17,79,2.6315789473684212
+Ivan Andarza,Andarzalaw,,TX,U.S. House Texas District 21,Representative,Regular,3/6/18,Lost,None,None,0.13,No,,,,,,No,,No,,No,No,,,No,3,3,4,2.2
+Ryan Krause,,,TX,U.S. House Texas District 21,Representative,Regular,3/6/18,Lost,None,None,3.2,No,,,,,,No,,No,,No,No,,,No,,,,
+Jenifer Sarver,utsarver,sarverfortexas,TX,U.S. House Texas District 21,Representative,Regular,3/6/18,Lost,None,None,5.61,No,,,,,,No,,No,,No,No,,,No,50,44,242,3.142857142857143
+Mauro Garza,,,TX,U.S. House Texas District 21,Representative,Regular,3/6/18,Lost,None,None,0.92,No,,,,,,No,,No,,No,No,,,No,,,,
+Foster Hagen,,,TX,U.S. House Texas District 21,Representative,Regular,3/6/18,Lost,None,None,0.55,No,,,,,,No,,No,,No,No,,,No,,,,
+William Negley,wwnegley,,TX,U.S. House Texas District 21,Representative,Regular,3/6/18,Lost,None,None,15.55,No,,,,,,No,,No,,No,No,,,Yes,19,23,66,2.8703703703703702
+Al Poteet,Poteet4Congress,,TX,U.S. House Texas District 21,Representative,Regular,3/6/18,Lost,None,None,1.81,No,,,,,,No,,No,,No,No,,,No,2,1,5,2.75
+Samuel Temple,samuelrtemple,,TX,U.S. House Texas District 21,Representative,Regular,3/6/18,Lost,None,None,1.42,No,,,,,,No,,No,,No,No,,,No,16,19,22,2.210526315789474
+Peggy Wardlaw,,,TX,U.S. House Texas District 21,Representative,Regular,3/6/18,Lost,None,None,1.79,No,,,,,,No,,No,,No,No,,,No,,,,
+Anthony White,TonyWhiteUSMC,,TX,U.S. House Texas District 21,Representative,Regular,3/6/18,Lost,None,None,1.33,No,,,,,,No,,No,,No,No,,,No,18,16,52,2.7906976744186047
+Michael Cloud,MichaelJCloud,,TX,U.S. House Texas District 27,Representative,Regular,3/6/18,Advanced,Advanced,On the Ballot,33.83,Yes,,,,,,,,Yes,No,Yes,Yes,,,,12,18,133,3.4846625766871164
+Bech Bruun,bechforcongress,,TX,U.S. House Texas District 27,Representative,Regular,3/6/18,Advanced,Lost,None,36.09,No,,,,,,,,No,Yes,No,No,,,,0,0,0,
+Chris Mapp,ckmappforuscon1,c_mapp,TX,U.S. House Texas District 27,Representative,Regular,3/6/18,Lost,None,None,12.14,No,,,,,,,,No,No,No,No,,,,20,7,23,2.12
+John Grunwald,,,TX,U.S. House Texas District 27,Representative,Regular,3/6/18,Lost,None,None,6.86,No,,,,,,,,No,No,No,No,,,,,,,
+Eddie Gassman,,,TX,U.S. House Texas District 27,Representative,Regular,3/6/18,Lost,None,None,2.8,No,,,,,,,,No,No,No,No,,,,,,,
+Jerry Hall,,,TX,U.S. House Texas District 27,Representative,Regular,3/6/18,Lost,None,None,8.27,No,,,,,,,,No,No,No,No,,,,,,,
+Phillip Aronoff,Aronoff4USRep,,TX,U.S. House Texas District 29,Representative,Regular,3/6/18,Advanced,Advanced,On the Ballot,38.6,Yes,,,,,,,,,,,,,,,0,0,0,
+Carmen Maria Montiel,CarmenMaMontiel,Carmen4Congress,TX,U.S. House Texas District 29,Representative,Regular,3/6/18,Advanced,Lost,None,23.58,No,,,,,,,,,,,,,,,136,144,315,2.6016806722689076
+Robert Schafranek,,,TX,U.S. House Texas District 29,Representative,Regular,3/6/18,Lost,None,None,16.73,No,,,,,,,,,,,,,,,,,,
+Jaimy Blanco,blanco4congress,,TX,U.S. House Texas District 29,Representative,Regular,3/6/18,Lost,None,None,21.08,No,,,,,,,,,,,,,,,1,0,4,3.2
+Van Taylor,vantaylortx,,TX,U.S. House Texas District 3,Representative,Regular,3/6/18,Advanced,None,On the Ballot,84.68,Yes,,,,,,,,Yes,,,,,,,31,35,417,3.598343685300207
+David Niederkorn,DC4TX3,,TX,U.S. House Texas District 3,Representative,Regular,3/6/18,Lost,None,None,9.39,No,,,,,,,,No,,,,,,,6,7,15,2.642857142857143
+Alex Donkervoet,AlexDonkervoet,,TX,U.S. House Texas District 3,Representative,Regular,3/6/18,Lost,None,None,5.93,No,,,,,,,,No,,,,,,,37,38,44,2.1176470588235294
+Willie Billups,votebillups,,TX,U.S. House Texas District 33,Representative,Regular,3/6/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,,,,,,,8,8,49,3.2615384615384615
+Rey Gonzalez,reygonzalez34,drreygonzalez,TX,U.S. House Texas District 34,Representative,Regular,3/6/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,,,,,,,0,0,0,
+David Smalling,SmallingforCD35,,TX,U.S. House Texas District 35,Representative,Regular,3/6/18,Advanced,None,On the Ballot,53.3,Yes,,,,,,,,,,,,,,,21,16,76,2.9734513274336285
+SK Alexander,SKforCongress,,TX,U.S. House Texas District 35,Representative,Regular,3/6/18,Lost,None,None,46.7,No,,,,,,,,,,,,,,,27,18,18,1.7142857142857142
+Lance Gooden,Lancegooden,RepLanceGooden,TX,U.S. House Texas District 5,Representative,Regular,3/6/18,Advanced,Advanced,On the Ballot,29.97,Yes,,,,,,No,No,No,No,,No,,,,0,0,0,
+Bunni Pounds,bunnipounds,,TX,U.S. House Texas District 5,Representative,Regular,3/6/18,Advanced,Lost,None,21.95,No,,,,,,Yes,Yes,Yes,Yes,,Yes,,,,61,59,578,3.481375358166189
+Charles Lingerfelt,ClingerUSA,,TX,U.S. House Texas District 5,Representative,Regular,3/6/18,Lost,None,None,1.75,No,,,,,,No,No,No,No,,No,,,,274,186,260,1.961111111111111
+Kenneth Sheets,KennethFSheets,,TX,U.S. House Texas District 5,Representative,Regular,3/6/18,Lost,None,None,11.99,No,,,,,,No,No,No,No,,No,,,,24,39,138,3.1343283582089554
+Sam Deen,samdeentx,,TX,U.S. House Texas District 5,Representative,Regular,3/6/18,Lost,None,None,17.16,No,,,,,,No,No,No,No,,No,,,,0,0,0,
+Danny Campbell,DannyCCampbell,,TX,U.S. House Texas District 5,Representative,Regular,3/6/18,Lost,None,None,3.02,No,,,,,,No,No,No,No,,No,,,,21,17,31,2.289855072463768
+David Williams,,,TX,U.S. House Texas District 5,Representative,Regular,3/6/18,Lost,None,None,2.73,No,,,,,,No,No,No,No,,No,,,,,,,
+Jason Wright,JasonWrightTX,,TX,U.S. House Texas District 5,Representative,Regular,3/6/18,Lost,None,None,11.42,No,,,,,,No,No,No,No,,No,,,,8,4,58,3.4285714285714284
+Jake Ellzey,JakeEllzey,,TX,U.S. House Texas District 6,Representative,Regular,3/6/18,Advanced,Lost,None,21.76,No,,,,,,No,,No,,,No,,,,11,23,106,3.357142857142857
+Ronald Wright,ron4congress,,TX,U.S. House Texas District 6,Representative,Regular,3/6/18,Advanced,Advanced,On the Ballot,45.15,Yes,,,,,,Yes,,Yes,,,Yes,,,,4,4,53,3.6065573770491803
+Ken Cope,CopeTexas,,TX,U.S. House Texas District 6,Representative,Regular,3/6/18,Lost,None,None,7.7,No,,,,,,No,,No,,,No,,,,35,27,70,2.5303030303030303
+Deborah Gagliardi,DrgCongress,,TX,U.S. House Texas District 6,Representative,Regular,3/6/18,Lost,None,None,3.65,No,,,,,,No,,No,,,No,,,,2,0,2,2.0
+Shawn Dandridge,ShawnDandridge,,TX,U.S. House Texas District 6,Representative,Regular,3/6/18,Lost,None,None,1.13,No,,,,,,No,,No,,,No,,,,6,7,5,1.8888888888888888
+Mark Mitchell,MitchellMonte,,TX,U.S. House Texas District 6,Representative,Regular,3/6/18,Lost,None,None,4.68,No,,,,,,No,,No,,,No,,,,0,0,0,
+Troy Ratterree,,,TX,U.S. House Texas District 6,Representative,Regular,3/6/18,Lost,None,None,4.04,No,,,,,,No,,No,,,No,,,,,,,
+Mel Hassell,,,TX,U.S. House Texas District 6,Representative,Regular,3/6/18,Lost,None,None,0.58,No,,,,,,No,,No,,,No,,,,,,,
+Kevin Harrison,,,TX,U.S. House Texas District 6,Representative,Regular,3/6/18,Lost,None,None,3.85,No,,,,,,No,,No,,,No,,,,,,,
+Thomas Dillingham,tdilling,,TX,U.S. House Texas District 6,Representative,Regular,3/6/18,Lost,None,None,1.18,No,,,,,,No,,No,,,No,,,,0,0,0,
+Shannon Dubberly,Dubberly4TX6,,TX,U.S. House Texas District 6,Representative,Regular,3/6/18,Lost,None,None,6.28,No,,,,,,No,,No,,,No,,,,2,1,5,2.75
+Mitt Romney,Romney4Utah,MittRomney,UT,U.S. Senate Utah,Senator,Regular,6/26/18,Advanced,None,On the Ballot,71.27,Yes,,Yes,,,,,,,,,,,,,15,19,358,3.75
+Mike Kennedy,KennedyForUtah,,UT,U.S. Senate Utah,Senator,Regular,6/26/18,Lost,None,None,28.73,No,,No,,,,,,,,,,,,,10,12,47,3.072463768115942
+Brooke Paige,,,VT,U.S. House Vermont At-large District,Representative,Regular,8/14/18,Advanced,None,On the Ballot,63.3,Yes,,,,,,,,,,,,,,,,,,
+Anya Tynio,AnyaTynio,,VT,U.S. House Vermont At-large District,Representative,Regular,8/14/18,Lost,None,None,36.7,No,,,,,,,,,,,,,,,4,6,37,3.404255319148936
+Roque De La Fuente,JoinRocky,,VT,U.S. Senate Vermont,Senator,Regular,8/14/18,Lost,None,None,4.2,No,,,,,,,,,,,,,,,0,0,0,
+Brooke Paige,,,VT,U.S. Senate Vermont,Senator,Regular,8/14/18,Advanced,None,On the Ballot,39.6,Yes,,,,,,,,,,,,,,,,,,
+Jasdeep Pannu,votepannu2018,,VT,U.S. Senate Vermont,Senator,Regular,8/14/18,Lost,None,None,18.3,No,,,,,,,,,,,,,,,9,5,23,2.7567567567567566
+Lawrence Zupan,ZupanForSenate,,VT,U.S. Senate Vermont,Senator,Regular,8/14/18,Lost,None,None,4.2,No,,,,,,,,,,,,,,,1,4,19,3.5
+Jeff Dove,JefferyADoveJr,,VA,U.S. House Virginia District 11,Representative,Regular,6/12/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,,,,,,,216,132,334,2.346041055718475
+Ryan McAdams,RyanMcAdams4VA,,VA,U.S. House Virginia District 4,Representative,Regular,6/12/18,Advanced,None,On the Ballot,72.57,Yes,,,,,,,,,,,,,,,14,12,73,3.191919191919192
+Shion Fenty,ShiFenty,,VA,U.S. House Virginia District 4,Representative,Regular,6/12/18,Lost,None,None,27.43,No,,,,,,,,,,,,,,,0,0,0,
+Denver Riggleman,Denver4VA,RepRiggleman,VA,U.S. House Virginia District 5,Representative,Regular,6/12/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,Yes,,,,,,,47,76,284,3.1646191646191646
+Ben Cline,Cline4Virginia,RepBenCline,VA,U.S. House Virginia District 6,Representative,Regular,6/12/18,Advanced,None,On the Ballot,100,Yes,,,,,Yes,,,,,,,,,,26,18,111,3.096774193548387
+Thomas Oh,OhForCongress,,VA,U.S. House Virginia District 8,Representative,Regular,6/12/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,,,,,,,37,71,236,3.1569767441860463
+Corey Stewart,coreystewartva,,VA,U.S. Senate Virginia,Senator,Regular,6/12/18,Advanced,None,On the Ballot,44.87,Yes,,,,,,,,,,,,,,,468,407,548,2.11243851018974
+E.W. Jackson,ewjacksonsr,,VA,U.S. Senate Virginia,Senator,Regular,6/12/18,Lost,None,None,11.99,No,,,,,,,,,,,,,,,236,152,274,2.1148036253776437
+Nick Freitas,NickForVA,NickFreitasVA,VA,U.S. Senate Virginia,Senator,Regular,6/12/18,Lost,None,None,43.14,No,,,,,,,,,,,,,,,61,68,340,3.189765458422175
+Jeffrey Beeler,Beeler4Congress,,WA,U.S. House Washington District 1,Representative,Regular,8/7/18,Advanced,None,On the Ballot,69.19,Yes,,,,,,,,,,,,,,,4,3,22,3.2413793103448274
+Scott Stafne,scottstafne,,WA,U.S. House Washington District 1,Representative,Regular,8/7/18,Lost,None,None,30.81,No,,,,,,,,,,,,,,,0,0,0,
+Joseph Brumbles,JosephBrumbles,,WA,U.S. House Washington District 10,Representative,Regular,8/7/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,,,,,,,20,20,86,3.0476190476190474
+Douglas Dightman,,,WA,U.S. House Washington District 6,Representative,Regular,8/7/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,,,,,,,,,,
+Craig Keller,,,WA,U.S. House Washington District 7,Representative,Regular,8/7/18,Advanced,None,On the Ballot,100,Yes,,,,,,,,,,,,,,,,,,
+Dino Rossi,dinorossiwa,,WA,U.S. House Washington District 8,Representative,Regular,8/7/18,Advanced,None,On the Ballot,92.09,Yes,Yes,,,,,,,Yes,Yes,,Yes,Yes,,,11,22,95,3.3125
+Jack Hughes-Hageman,HagemanHughes,HughesHageman,WA,U.S. House Washington District 8,Representative,Regular,8/7/18,Lost,None,None,5.34,No,No,,,,,,,No,No,,No,No,,,2,0,34,3.7777777777777777
+Gordon Allen Pross,,,WA,U.S. House Washington District 8,Representative,Regular,8/7/18,Lost,None,None,2.57,No,No,,,,,,,No,No,,No,No,,,,,,
+Doug Basler,dougbasler,,WA,U.S. House Washington District 9,Representative,,8/7/18,Lost,None,None,100,No,,,,,,,,,,,,,,,2,1,9,3.1666666666666665
+Joey Gibson,,,WA,U.S. Senate Washington,Senator,Regular,8/7/18,Lost,None,None,6.37,No,,,,,,No,,,,,,,,,,,,
+Matthew Heines,Heinessight,,WA,U.S. Senate Washington,Senator,Regular,8/7/18,Lost,None,None,1.38,No,,,,,,No,,,,,,,,,88,81,279,2.8526785714285716
+Roque De La Fuente,JoinRocky,,WA,U.S. Senate Washington,Senator,Regular,8/7/18,Lost,None,None,0.83,No,,,,,,No,,,,,,,,,0,0,0,
+Dave Bryant,Bryant_Senate,,WA,U.S. Senate Washington,Senator,Regular,8/7/18,Lost,None,None,5.54,No,,,,,,No,,,,,,,,,2,2,7,2.909090909090909
+Art Coday,ArtCoday,,WA,U.S. Senate Washington,Senator,Regular,8/7/18,Lost,None,None,4.98,No,,,,,,Yes,,,,,,,,,0,1,11,3.8333333333333335
+GoodSpaceGuy,,,WA,U.S. Senate Washington,Senator,Regular,8/7/18,Lost,None,None,1.11,No,,,,,,No,,,,,,,,,,,,
+Matt Hawkins,HawkinsSenate,,WA,U.S. Senate Washington,Senator,Regular,8/7/18,Lost,None,None,2.21,No,,,,,,Yes,,,,,,,,,16,9,30,2.5090909090909093
+Susan Hutchison,Susan_Hutch,Susan4Senate,WA,U.S. Senate Washington,Senator,Regular,8/7/18,Advanced,None,On the Ballot,67.31,Yes,,,,,,No,,,,,,,,,7,15,85,3.457943925233645
+John Orlinski,JohnOrlinski,,WA,U.S. Senate Washington,Senator,Regular,8/7/18,Lost,None,None,1.11,No,,,,,,No,,,,,,,,,23,15,21,1.9322033898305084
+Tim Owen,,,WA,U.S. Senate Washington,Senator,Regular,8/7/18,Lost,None,None,3.88,No,,,,,,Yes,,,,,,,,,,,,
+RC Smith,,,WA,U.S. Senate Washington,Senator,Regular,8/7/18,Lost,None,None,0.28,No,,,,,,No,,,,,,,,,,,,
+Glen Stockwell,,,WA,U.S. Senate Washington,Senator,Regular,8/7/18,Lost,None,None,1.94,No,,,,,,No,,,,,,,,,,,,
+Keith Swank,Swank4Senate,,WA,U.S. Senate Washington,Senator,Regular,8/7/18,Lost,None,None,6.4,No,,,,,,Yes,,,,,,,,,13,13,21,2.3404255319148937
+Carol Miller,CarolMillerWV,,WV,U.S. House West Virginia District 3,Representative,Regular,5/8/18,Advanced,None,On the Ballot,23.81,Yes,,,,,,,Yes,,,,,No,,,16,18,130,3.3902439024390243
+Marty Gearheart,MartyGearheart,,WV,U.S. House West Virginia District 3,Representative,Regular,5/8/18,Lost,None,None,18.19,No,,,,,,,No,,,,,No,,,2,3,7,2.8333333333333335
+Rick Snuffer,RickSnuffer,,WV,U.S. House West Virginia District 3,Representative,Regular,5/8/18,Lost,None,None,10.64,No,,,,,,,No,,,,,No,,,0,0,0,
+Rupie Phillips,Rupie4Congress,,WV,U.S. House West Virginia District 3,Representative,Regular,5/8/18,Lost,None,None,19.53,No,,,,,,,No,,,,,No,,,2,3,30,3.6
+Ayne Amjad,AyneAmjad,,WV,U.S. House West Virginia District 3,Representative,Regular,5/8/18,Lost,None,None,7.46,No,,,,,,,No,,,,,No,,,0,8,21,3.4482758620689653
+Conrad Lucas,ConradWV,,WV,U.S. House West Virginia District 3,Representative,Regular,5/8/18,Lost,None,None,18.07,No,,,,,,,No,,,,,Yes,,,9,11,138,3.632911392405063
+Philip Payton,,,WV,U.S. House West Virginia District 3,Representative,Regular,5/8/18,Lost,None,None,2.3,No,,,,,,,No,,,,,No,,,,,,
+Patrick Morrisey,MorriseyWV,,WV,U.S. Senate West Virginia,Senator,Regular,5/8/18,Advanced,None,On the Ballot,34.9,Yes,,Yes,Yes,Yes,,,,,Yes,,Yes,No,,,217,256,526,2.6186186186186187
+Evan Jenkins,EvanJenkinsWV,,WV,U.S. Senate West Virginia,Senator,Regular,5/8/18,Lost,None,None,29.21,No,,Yes,No,No,,,,,No,,No,Yes,,,0,0,0,
+Bo Copley,MinerBo85,,WV,U.S. Senate West Virginia,Senator,Regular,5/8/18,Lost,None,None,3.09,No,,No,No,No,,,,,No,,No,No,,,26,22,108,3.051282051282051
+Jack Newbrough,jackussenatewv,,WV,U.S. Senate West Virginia,Senator,Regular,5/8/18,Lost,None,None,2.99,No,,No,No,No,,,,,No,,No,No,,,50,167,152,2.5528455284552845
+Don Blankenship,DonBlankenship,,WV,U.S. Senate West Virginia,Senator,Regular,5/8/18,Lost,None,None,19.97,No,,No,No,No,,,,,No,,No,No,,,76,71,156,2.5280528052805282
+Tom Willis,willisforwv,,WV,U.S. Senate West Virginia,Senator,Regular,5/8/18,Lost,None,None,9.84,No,,No,No,No,,,,,No,,No,No,,,21,22,183,3.433628318584071
+Bryan Steil,BryanSteilforWI,RepBryanSteil,WI,U.S. House Wisconsin District 1,Representative,Regular,8/14/18,Advanced,None,On the Ballot,51.6,Yes,Yes,,,,,No,,,,,,,,,57,97,445,3.295492487479132
+Paul Nehlen,,,WI,U.S. House Wisconsin District 1,Representative,Regular,8/14/18,Lost,None,None,11.1,No,No,,,,,No,,,,,,,,,,,,
+Nick Polce,NicholasPolce,,WI,U.S. House Wisconsin District 1,Representative,Regular,8/14/18,Lost,None,None,14.9,No,No,,,,,No,,,,,,,,,134,216,1331,3.424152290303391
+Jeremy Ryan,,,WI,U.S. House Wisconsin District 1,Representative,Regular,8/14/18,Lost,None,None,10.4,No,No,,,,,No,,,,,,,,,,,,
+Kevin Steen,Steen_for_Wi1,,WI,U.S. House Wisconsin District 1,Representative,Regular,8/14/18,Lost,None,None,10.5,No,No,,,,,Yes,,,,,,,,,0,0,0,
+Brad Boivin,BradBoivinWI,,WI,U.S. House Wisconsin District 1,Representative,Regular,8/14/18,Lost,None,None,1.5,No,No,,,,,No,,,,,,,,,0,0,0,
+Steve Toft,toftforcongress,,WI,U.S. House Wisconsin District 3,Representative,Regular,8/14/18,Advanced,None,On the Ballot,100,Yes,Yes,,,,,Yes,,,,,,,,,85,60,251,2.8383838383838382
+Tim Rogers,,,WI,U.S. House Wisconsin District 4,Representative,Regular,8/14/18,Advanced,None,On the Ballot,55.6,Yes,,,,,,No,,,,,,,,,,,,
+Cindy Werner,,,WI,U.S. House Wisconsin District 4,Representative,Regular,8/14/18,Lost,None,None,44.4,No,,,,,,Yes,,,,,,,,,,,,
+Leah Vukmir,LeahVukmir,,WI,U.S. Senate Wisconsin,Senator,Regular,8/14/18,Advanced,None,On the Ballot,49,Yes,,,No,No,Yes,Yes,,No,,,,,,,0,2,18,3.8
+Kevin Nicholson,KevinMNicholson,,WI,U.S. Senate Wisconsin,Senator,Regular,8/14/18,Lost,None,None,42.9,No,,,Yes,Yes,No,Yes,,Yes,,,,,,,75,131,672,3.359908883826879
+Griffin Jones,,,WI,U.S. Senate Wisconsin,Senator,Regular,8/14/18,Lost,None,None,2,No,,,No,No,No,No,,No,,,,,,,,,,
+Charles Barman,,,WI,U.S. Senate Wisconsin,Senator,Regular,8/14/18,Lost,None,None,1.8,No,,,No,No,No,No,,No,,,,,,,,,,
+George Lucia,,,WI,U.S. Senate Wisconsin,Senator,Regular,8/14/18,Lost,None,None,4.2,No,,,No,No,No,No,,No,,,,,,,,,,
+Mark Gordon,Mark_Gordon_WY,,WY,Governor of Wyoming,Governor,Regular,8/21/18,Advanced,None,On the Ballot,33.4,Yes,,No,,,,No,,,,,,,,,0,0,60,4.0
+Bill Dahlin,ElectDahlin,,WY,Governor of Wyoming,Governor,Regular,8/21/18,Lost,None,None,1.5,No,,No,,,,No,,,,,,,,,3,13,101,3.675213675213675
+Harriet Hageman,harriethageman,,WY,Governor of Wyoming,Governor,Regular,8/21/18,Lost,None,None,21.5,No,,No,,,,Yes,,,,,,,,,10,18,70,3.2244897959183674
+Sam Galeotos,samforgovernor,,WY,Governor of Wyoming,Governor,Regular,8/21/18,Lost,None,None,12.5,No,,No,,,,Yes,,,,,,,,,0,0,0,
+Foster Friess,FosterFriess,,WY,Governor of Wyoming,Governor,Regular,8/21/18,Lost,None,None,25.6,No,,Yes,,,,Yes,,,,,,,,,1,0,7,3.5
+Taylor Haynes,HaynesForWyo,,WY,Governor of Wyoming,Governor,Regular,8/21/18,Lost,None,None,5.6,No,,No,,,,Yes,,,,,,,,,1,2,5,3.0
