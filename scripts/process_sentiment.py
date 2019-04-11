@@ -26,6 +26,19 @@ with open('../data/tweet_data/sa_all_tweets_post.csv', 'r') as pred_results:
             else:
                 neutral[line[2]] += 1
 
+def twitter_handle_to_sentiment_tweets_count(twitter_handle):
+    negative_count = 0
+    neutral_count = 0
+    positive_count = 0
+    if twitter_handle in negative:
+        negative_count = negative[twitter_handle]
+
+    if twitter_handle in neutral:
+        neutral_count = neutral[twitter_handle]
+
+    if twitter_handle in positive:
+        positive_count = positive[twitter_handle]
+    return (negative_count, neutral_count, positive_count)
 
 def write_to_csv(reader, output_csv):
     for i, line in enumerate(reader):
@@ -37,47 +50,38 @@ def write_to_csv(reader, output_csv):
             continue
 
         twitter_handle = line[1]
-        if twitter_handle == "":
-            output_csv.write(out + ",,,\n")
-            continue
+        twitter_handle2 = line[2]
+
+        # if twitter_handle == "":
+        #     output_csv.write(out + "0,0,0,-1\n")
+        #     continue
+
 
         sentiment = 0.0
         total = 0.0
+        negative_count1, neutral_count1, positive_count1 = twitter_handle_to_sentiment_tweets_count(twitter_handle)
+        negative_count2, neutral_count2, positive_count2 = twitter_handle_to_sentiment_tweets_count(twitter_handle2)
+        negative_count, neutral_count, positive_count = negative_count1 + negative_count2, neutral_count2 + neutral_count1, positive_count2 + positive_count1
+        total += negative_count + neutral_count + positive_count
+        sentiment += neutral_count * 2 + positive_count * 4
 
-        if not twitter_handle in negative:
-            out += "0,"
-        else:
-            out += str(negative[twitter_handle]) + ","
-            total += negative[twitter_handle]
-
-        if not twitter_handle in neutral:
-            out += "0,"
-        else:
-            out += str(neutral[twitter_handle]) + ","
-            sentiment += neutral[twitter_handle] * 2
-            total += neutral[twitter_handle]
-
-        if not twitter_handle in positive:
-            out += "0,"
-        else:
-            out += str(positive[twitter_handle]) + ","
-            sentiment += positive[twitter_handle] * 4
-            total += positive[twitter_handle]
+        out += str(negative_count) + "," + str(neutral_count) + "," + str(positive_count) + ","
 
         if total > 0:
             out += str(sentiment / total)
+        else:  
+            out += "-1"
         out += '\n'
         output_csv.write(out)
+        
 
-
-
-with open('../data/dem_candidates.csv', 'r') as dem_csv:
+with open('../data/dem_candidates_with_tweet_topics.csv', 'r') as dem_csv:
     reader = csv.reader(dem_csv)
-    with open('../data/post_dem_candidates.csv', 'w') as post_dem_csv:
+    with open('../data/post_dem_candidates_with_tweet_topics.csv', 'w') as post_dem_csv:
         write_to_csv(reader, post_dem_csv)
         
-with open('../data/rep_candidates.csv', 'r', encoding="ISO-8859-1") as rep_csv:
+with open('../data/rep_candidates_with_tweet_topics.csv', 'r', encoding="ISO-8859-1") as rep_csv:
     reader = csv.reader(rep_csv)
-    with open('../data/post_rep_candidates.csv', 'w') as post_rep_csv:
+    with open('../data/post_rep_candidates_with_tweet_topics.csv', 'w') as post_rep_csv:
         write_to_csv(reader, post_rep_csv)
 
