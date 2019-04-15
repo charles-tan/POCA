@@ -69,8 +69,8 @@ def write_to_csv(reader, output_csv):
 
         if total > 0:
             out += str(sentiment / total)
-        else:  
-            out += "-1"
+        #else:  
+        #    out += "-1"
         out += '\n'
         output_csv.write(out)
         
