@@ -70,7 +70,7 @@ def write_to_csv(reader, output_csv):
         if total > 0:
             out += str(sentiment / total)
         #else:  
-        #    out += "-1"
+        #    out += "NaN"
         out += '\n'
         output_csv.write(out)
         
